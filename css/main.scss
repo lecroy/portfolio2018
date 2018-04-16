@@ -5,60 +5,27 @@
 
 
 
-// Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   18px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+// Typography
 
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-$blue500: #1A1F2B;
-$blue400: #30395C;
-$blue300: #4A6491;
-$blue200: #85A5CC;
-$blue100: #D0E4F2;
-
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
+// font-family
+$avenir: 'Avenir LT Std', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$decima: 'Decima Mono Lt', monospace;
 
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "fonts",
-        "base",
-        "layout",
-        "syntax-highlighting",
+  "styleguide/colors",
+  "styleguide/buttons",
 
-        "views/homepage"
+  "fonts",
+  "base",
+  "layout",
+
+  "includes/header",
+  "includes/footer",
+
+  "views/homepage"
 ;
 
 

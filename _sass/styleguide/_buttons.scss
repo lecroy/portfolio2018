@@ -1,0 +1,19 @@
+.btn-base {
+  border-radius: 4px;
+  padding: 1rem;
+}
+
+.btn-light {
+  @extend .btn-base;
+
+  background: white;
+  box-shadow: 0 12px 24px 0 $gray400;
+}
+
+.text-link {
+  color: #1754c3;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}

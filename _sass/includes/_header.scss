@@ -1,0 +1,36 @@
+.site-header {
+    background: #fff;
+    position: relative;
+}
+
+.header-wrapper {
+  @extend .wrapper;
+
+  padding: 2rem 0;
+}
+
+.site-title {
+  font-family: $decima;
+  font-size: 18px;
+  color: $gray900;
+}
+
+.header-name {
+  font-family: $decima;
+  font-size: 18px;
+  color: $gray900;
+
+  display: inline-block;
+  float: right;
+}
+
+.mobile-menu-icon {
+  width: 32px;
+  height: 32px;
+}
+
+@media screen and (min-width: 600px) {
+  .mobile-menu-icon {
+    display: none;
+  }
+}

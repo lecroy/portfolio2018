@@ -1,4 +1,265 @@
+.home-hero-container {
+  margin-top: 4rem;
+}
+
 .home-intro {
   text-align: left;
-  font-family: 'Decima Mono Lt';
+  font-family: $decima;
+  font-size: 72px;
+}
+
+.homepage-animation {
+  float: right;
+  margin-top: -160px;
+  margin-right: 10%;
+}
+
+.home-timeline-container {
+  font-weight: 600;
+
+  margin-top: 8rem;
+}
+
+.timeline-wrapper {
+  display: inline-block;
+  margin-left: 106px;
+}
+
+.timeline-years {
+  font-family: $decima;
+  border-top: 4px solid $gray900;
+  list-style: none;
+
+  margin-top: 1rem;
+  display: inline-block;
+  padding-top: 3rem;
+  float: left;
+
+  li {
+    font-size: 18px;
+    margin-bottom: 58px;
+  }
+}
+
+.timeline-blocks-wrapper {
+  float: left;
+  margin-left: 1.5rem;
+  margin-top: 70px;
+  width: 300px;
+}
+
+.timeline-block {
+  border-radius: 10px;
+
+  width: 100%;
+  display: inline-block;
+  margin-top: .5rem;
+  position: relative;
+  transition: all .4s ease-in-out;
+
+  &:hover {
+    background-image: linear-gradient(-90deg, white 0%, $gray50 100%);
+
+    > .olark-color-block,
+      .freelance-color-block,
+      .enso-color-block,
+      .ofa-color-block,
+      .agency-color-block {
+        transition: all .4s ease-in-out;
+    }
+
+    > .timeline-block-body {
+        transition: all .5s ease-in-out;
+        opacity: 1;
+    }
+
+    > .timeline-block-button {
+        transition: all .4s ease-in-out;
+        opacity: 1;
+    }
+  }
+}
+
+.olark-block,
+.freelance-block,
+.enso-block,
+.ofa-block,
+.agency-block {
+  @extend .timeline-block;
+}
+
+.olark-block {
+
+  > .timeline-block-text-wrapper {
+    margin-top: 95px;
+  }
+
+  > .timeline-block-body {
+    margin-top: 75px;
+  }
+
+  &:hover > .timeline-block-text-wrapper {
+      transform: translateY(-80px);
+      transition: .4s all ease-in-out;
+  }
+}
+
+.freelance-block {
+
+  > .timeline-block-text-wrapper {
+    margin-top: 30px;
+  }
+
+  > .timeline-block-body {
+    margin-top: 45px;
+  }
+
+  &:hover > .timeline-block-text-wrapper {
+      transform: translateY(-30px);
+      transition: .4s all ease-in-out;
+  }
+}
+
+.enso-block {
+
+  > .timeline-block-text-wrapper {
+    margin-top: 30px;
+  }
+
+  > .timeline-block-body {
+    margin-top: 45px;
+  }
+
+  &:hover > .timeline-block-text-wrapper {
+      transform: translateY(-30px);
+      transition: .4s all ease-in-out;
+  }
+}
+
+.ofa-block {
+
+  > .timeline-block-text-wrapper {
+    margin-top: 30px;
+  }
+
+  > .timeline-block-body {
+    margin-top: 45px;
+  }
+
+  &:hover > .timeline-block-text-wrapper {
+      transform: translateY(-30px);
+      transition: .4s all ease-in-out;
+  }
+}
+
+.agency-block {
+
+  > .timeline-block-text-wrapper {
+    margin-top: 95px;
+  }
+
+  > .timeline-block-body {
+    margin-top: 75px;
+  }
+
+  &:hover > .timeline-block-text-wrapper {
+      transform: translateY(-80px);
+      transition: .4s all ease-in-out;
+  }
+}
+
+.timeline-block-text-wrapper {
+  display: inline-block;
+  float: left;
+  position: relative;
+  margin-left: 1rem;
+  transform: translateY(0px);
+  transition: .4s all ease-in-out;
+}
+
+.timeline-block-body {
+  opacity: 0; //shows up on hover
+
+  font-weight: 200;
+  line-height: 1.2em;
+
+  width: 100%;
+  left: 49px;
+  position: absolute;
+}
+
+.color-block {
+  border-radius: 6px;
+  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
+
+  width: 2rem;
+  display: inline-block;
+  display: block;
+  float: left;
+}
+
+.olark-color-block {
+  @extend .color-block;
+
+  background-image: linear-gradient(-45deg, $purple600 0%, $purple300 100%);
+
+  height: 251px;
+  margin-top: 0;
+}
+
+.freelance-color-block {
+  @extend .color-block;
+
+  background-image: linear-gradient(-45deg, $blue600 0%, $blue300 100%);
+
+  height: 128px;
+}
+
+.enso-color-block {
+  @extend .color-block;
+
+  background-image: linear-gradient(-45deg, $green600 0%, $green300 100%);
+
+  height: 109px;
+}
+
+.ofa-color-block {
+  @extend .color-block;
+
+  background-image: linear-gradient(-45deg, $orange600 0%, $orange300 100%);
+
+  height: 116px;
+}
+
+.agency-color-block {
+  @extend .color-block;
+
+  background-image: linear-gradient(-45deg, $red600 0%, $red300 100%);
+
+  height: 412px;
+}
+
+.timeline-block-subhead {
+  font-family: $decima;
+  font-weight: 200;
+  font-size: 16px;
+  letter-spacing: -.5px;
+}
+
+.timeline-block-button {
+  opacity: 0; //shows up on hover
+}
+
+.timeline-block-button {
+  @extend .btn-light;
+
+  float: right;
+}
+
+.work-link-wrapper {
+  margin-top: 1rem;
+}
+
+.work-link {
+  @extend .text-link;
 }

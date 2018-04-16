@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I'm a designer working remotely
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://taylorlecroy.com" # the base hostname & protocol for your site
-
+currentPosition: CURRENT - Product Designer at Olark
 
 # Build settings
 markdown: kramdown
