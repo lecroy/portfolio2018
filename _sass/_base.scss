@@ -8,7 +8,11 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
 
 /**
  * Basic styling
