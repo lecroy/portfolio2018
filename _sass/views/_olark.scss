@@ -5,6 +5,8 @@
 
 .page-body-wrapper {
   text-align: left;
+
+  padding: 0 2rem;
 }
 
 .page-subhead-timespan {
@@ -13,7 +15,6 @@
 
   margin-top: 1rem;
   position: relative;
-  z-index: 1;
 }
 
 .page-subhead-responsibilities {
@@ -23,7 +24,6 @@
 
   margin-top: 1rem;
   position: relative;
-  z-index: 1;
 }
 
 .page-body-subhead {
@@ -46,8 +46,16 @@
 .page-body-copy {
   font-size: 20px;
   font-weight: 200;
+  line-height: 1.3em;
 
   max-width: 540px;
+  margin-bottom: 1rem;
+}
+
+.olark-logo-gif {
+  width: 400px;
+  border-radius: 12px;
+  box-shadow: 0 12px 32px 0 $gray300;
   margin-bottom: 1rem;
 }
 
@@ -60,25 +68,6 @@
   margin: 0 auto;
 }
 
-.slide {
-  position: absolute;
-  width: 100vw;
-  height: 100vh;
-  top: 0;
-  left: 0;
-  display: flex;
-  align-content: center;
-  justify-content: center;
-  pointer-events: none;
-  opacity: 0;
-  z-index: 1;
-}
-
-.slide--current {
-  opacity: 1;
-  pointer-events: auto;
-  z-index: 100;
-}
 
 .word {
   position: relative;
@@ -98,7 +87,6 @@
   grid-area: title;
   font-size: 10vw;
   font-weight: 400;
-  z-index: 1;
 }
 
 .slide__bg {

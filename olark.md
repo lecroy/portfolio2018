@@ -22,6 +22,7 @@ permalink: /olark
   <h3 class="page-body-subhead">
     Branding &amp; Design System
   </h3>
+  <img src="img/olark/olark-logo.gif" class="olark-logo-gif" alt="Animation showing the logo redesign process" />
   <p class="page-body-copy">
     By 2017, Olark had been in business 9 years. With an all-engineer founding team, there hadn't been much thought given to the brand's look and feel, and what was there wasn't very well considered from the outset.
   </p>
@@ -34,6 +35,10 @@ permalink: /olark
   <img src="img/olark/color-palette.png" class="olark-color-palette" alt="The color palette for Olark Live Chat" />
 </div>
 
+
+
+
+
 <script>
   {
     const effects = [
@@ -43,14 +48,6 @@ permalink: /olark
           shapesOnTop: true
         },
         hide: {
-          lettersAnimationOpts: {
-            duration: 300,
-            delay: (t,i)  => (t.parentNode.children.length-i-1)*30,
-            easing: 'easeOutExpo',
-            opacity: 0,
-            translateY: (t,i) => i%2 === 0 ? '80%' : '-80%',
-            rotate: (t,i) => i%2 === 0 ? -25 : 25
-          },
           shapesAnimationOpts: {
             duration: 50,
             easing: 'easeOutExpo',
@@ -66,18 +63,6 @@ permalink: /olark
           }
         },
         show: {
-          lettersAnimationOpts: {
-            duration: 400,
-            delay: (t,i)  => (t.parentNode.children.length-i-1)*80,
-            easing: 'easeOutElastic',
-            opacity: {
-              value: [0,1],
-              duration: 100,
-              easing: 'linear'
-            },
-            translateY: (t,i) => i%2 === 0 ? ['-80%', '0%'] : ['80%', '0%'],
-            rotate: [90,0]
-          },
           shapesAnimationOpts: {
             duration: () => anime.random(1000,3000),
             delay: (t,i) => i*20,
