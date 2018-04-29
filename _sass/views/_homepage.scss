@@ -10,7 +10,6 @@
 
 .homepage-animation {
   float: right;
-  margin-top: -160px;
   margin-right: 10%;
 }
 
@@ -22,6 +21,8 @@
 
 .timeline-wrapper {
   display: inline-block;
+
+  margin-top: 8rem;
 }
 
 .timeline-years {
@@ -190,7 +191,7 @@
   border-radius: 6px;
   box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
 
-  width: 2rem;
+  width: 1rem;
   display: inline-block;
   display: block;
   float: left;
