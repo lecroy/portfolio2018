@@ -9,6 +9,7 @@
   background: white;
 
   padding: 2rem;
+  position: relative;
 }
 
 .site-title {
@@ -109,6 +110,16 @@
 
   display: block;
   text-align: center;
+}
+
+.timeline-nav-wrapper {
+  font-family: $decima;
+  line-height: 2em;
+
+  margin-top: 4rem;
+  float: left;
+  position: absolute;
+  left: 2rem;
 }
 
 @media screen and (min-width: 600px) {
