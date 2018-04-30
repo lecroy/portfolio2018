@@ -82,7 +82,7 @@
 .page-subhead-responsibilities {
   font-family: $decima;
   font-size: 16px;
-  font-weight: 200;
+  font-weight: 600;
 
   margin-top: 1rem;
   position: relative;
@@ -136,6 +136,30 @@
 .paragraph-link {
   color: $electric-blue;
   border-bottom: 1px solid $purple300;
+}
+
+.case-study-end-nav {
+  border-top: 1px solid $gray300;
+  font-family: $decima;
+
+  width: 100%;
+  max-width: 540px;
+  padding: 2rem 0;
+
+  a {
+    color: $electric-blue;
+    font-weight: 600;
+  }
+}
+
+.case-study-next-link {
+  float: right;
+  margin-top: -11px;
+}
+
+.next-link-timespan {
+  font-size: 14px;
+  font-weight: 200;
 }
 
 @media screen and (min-width: 1000px) {

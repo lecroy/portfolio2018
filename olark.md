@@ -159,10 +159,13 @@ permalink: /olark
   </figure>
   <nav class="case-study-end-nav">
     <a href="/" class="case-study-previous-link">
-      Back home
+      Home
     </a>
     <a href="/freelance" class="case-study-next-link">
-      Freelance 2013-2014
+      <div class="next-link-timespan">
+        2013-2014
+      </div>
+      Freelance
     </a>
   </nav>
 </div>

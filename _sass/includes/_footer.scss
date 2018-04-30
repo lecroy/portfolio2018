@@ -1,5 +1,13 @@
 .site-footer {
-    background: $gray50;
+  background: $gray50;
 
-    padding: 1rem 0;
+  padding: 1rem 0;
+}
+
+.footer-link {
+  color: $gray500;
+
+  &:hover {
+    color: $gray700;
+  }
 }

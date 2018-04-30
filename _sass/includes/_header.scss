@@ -123,6 +123,33 @@
   left: 2rem;
 }
 
+.timeline-nav-link-wrapper {
+  color: $electric-blue;
+
+  padding-left: .5rem;
+  margin-bottom: .25rem;
+}
+
+.timeline-nav-link-olark {
+  border-left: 4px solid $purple500;
+}
+
+.timeline-nav-link-freelance {
+  border-left: 4px solid $blue500;
+}
+
+.timeline-nav-link-enso {
+  border-left: 4px solid $green500;
+}
+
+.timeline-nav-link-ofa {
+  border-left: 4px solid $orange500;
+}
+
+.timeline-nav-link-agency {
+  border-left: 4px solid $red500;
+}
+
 
 .menu-toggle {
   display: none; // Hide checkbox that triggers mobile nav
