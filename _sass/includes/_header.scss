@@ -113,6 +113,7 @@
 }
 
 .timeline-nav-wrapper {
+  display: none; //don't show on mobile
   font-family: $decima;
   line-height: 2em;
 
@@ -120,20 +121,6 @@
   float: left;
   position: absolute;
   left: 2rem;
-}
-
-@media screen and (min-width: 600px) {
-  .mobile-menu-icon {
-    display: none;
-  }
-
-  .site-title {
-    display: inline-block;
-  }
-
-  .header-name {
-    float: right;
-  }
 }
 
 
@@ -196,4 +183,25 @@
   padding: 1rem;
   -webkit-transition: background-color 300ms ease-in;
   transition: background-color 300ms ease-in;
+}
+
+
+@media screen and (min-width: 600px) {
+  .mobile-menu-icon {
+    display: none;
+  }
+
+  .site-title {
+    display: inline-block;
+  }
+
+  .header-name {
+    float: right;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .timeline-nav-wrapper {
+    display: block;
+  }
 }
