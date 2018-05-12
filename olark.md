@@ -161,7 +161,7 @@ permalink: /olark
     <a href="/" class="case-study-previous-link">
       Home
     </a>
-    <a href="/freelance" class="case-study-next-link">
+    <a href="/freelance" class="case-study-next-link freelance-next-link">
       <div class="next-link-timespan">
         2013-2014
       </div>

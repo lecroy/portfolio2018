@@ -5,7 +5,8 @@
 .home-intro {
   text-align: left;
   font-family: $decima;
-  font-size: 7vw;
+  font-size: 6vw;
+  font-weight: 200;
 }
 
 .homepage-animation {
@@ -41,7 +42,7 @@
 .timeline-blocks-wrapper {
   float: left;
   margin-left: 1.5rem;
-  width: 70%;
+  width: 90%;
 }
 
 .timeline-block {
@@ -56,6 +57,10 @@
   &:first-of-type {
     margin-top: 0;
   }
+
+  &:hover {
+    background: $gray50;
+  }
 }
 
 .olark-block,
@@ -64,27 +69,6 @@
 .ofa-block,
 .agency-block {
   @extend .timeline-block;
-}
-
-.olark-block {
-
-}
-
-
-.freelance-block {
-
-}
-
-.enso-block {
-
-}
-
-.ofa-block {
-
-}
-
-.agency-block {
-
 }
 
 .timeline-block-text-wrapper {
@@ -208,88 +192,12 @@
     }
   }
 
-  .olark-block {
-
-    > .timeline-block-text-wrapper {
-      margin-top: 100px;
-    }
-
-    > .timeline-block-body {
-      margin-top: 75px;
-    }
-
-    &:hover > .timeline-block-text-wrapper {
-        transform: translateY(-80px);
-        transition: .3s all ease-in-out;
-    }
-  }
-
-
-  .freelance-block {
-
-    > .timeline-block-text-wrapper {
-      margin-top: 40px;
-    }
-
-    > .timeline-block-body {
-      margin-top: 60px;
-    }
-
-    &:hover > .timeline-block-text-wrapper {
-        transform: translateY(-30px);
-        transition: .3s all ease-in-out;
-    }
-  }
-
-  .enso-block {
-
-    > .timeline-block-text-wrapper {
-      margin-top: 35px;
-    }
-
-    > .timeline-block-body {
-      margin-top: 45px;
-    }
-
-    &:hover > .timeline-block-text-wrapper {
-        transform: translateY(-30px);
-        transition: .3s all ease-in-out;
-    }
-  }
-
-  .ofa-block {
-
-    > .timeline-block-text-wrapper {
-      margin-top: 35px;
-    }
-
-    > .timeline-block-body {
-      margin-top: 45px;
-    }
-
-    &:hover > .timeline-block-text-wrapper {
-        transform: translateY(-30px);
-        transition: .3s all ease-in-out;
-    }
-  }
-
-  .agency-block {
-
-    > .timeline-block-text-wrapper {
-      margin-top: 95px;
-    }
-
-    > .timeline-block-body {
-      margin-top: 75px;
-    }
-
-    &:hover > .timeline-block-text-wrapper {
-        transform: translateY(-80px);
-        transition: .3s all ease-in-out;
-    }
-  }
-
   .timeline-block-button {
     opacity: 0; //shows up on hover
   }
+
+  .work-link-wrapper {
+    display: none;
+  }
 }
+

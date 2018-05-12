@@ -39,6 +39,20 @@ permalink: /freelance
     <img src="img/freelance/hillary-post-thumbnail.jpg" class="hillary-thumbnail-img" alt="Concept image for Hillary Clinton's website" />
     <figcaption class="case-study-caption">Concept image for hillaryclinton.com</figcaption>
   </figure>
+  <nav class="case-study-end-nav">
+    <a href="/olark" class="case-study-previous-link">
+      <div class="next-link-timespan">
+        2014-PRES
+      </div>
+      Olark
+    </a>
+    <a href="/enso" class="case-study-next-link enso-next-link">
+      <div class="next-link-timespan">
+        2013
+      </div>
+      Enso
+    </a>
+  </nav>
 
 </div>
 

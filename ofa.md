@@ -21,6 +21,7 @@ permalink: /ofa
 <div class="page-body-wrapper">
   <h3 class="page-body-subhead">
     Woohoo
+  </h3>
   <p class="page-body-copy">
     ladadeda
   </p>
@@ -38,7 +39,20 @@ permalink: /ofa
     <img src="img/freelance/hillary-post-thumbnail.jpg" class="hillary-thumbnail-img" alt="Concept image for Hillary Clinton's website" />
     <figcaption class="case-study-caption">Concept image for hillaryclinton.com</figcaption>
   </figure>
-
+  <nav class="case-study-end-nav">
+    <a href="/enso" class="case-study-previous-link freelance-next-link">
+      <div class="next-link-timespan">
+        2013
+      </div>
+      Enso
+    </a>
+    <a href="/agency" class="case-study-next-link">
+      <div class="next-link-timespan">
+        2005-2011
+      </div>
+      Advertising
+    </a>
+  </nav>
 </div>
 
 

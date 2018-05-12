@@ -152,9 +152,30 @@
   }
 }
 
+.case-study-previous-link {
+  display: inline-block;
+}
+
 .case-study-next-link {
   float: right;
   margin-top: -11px;
+  padding-left: .5rem;
+
+  &.freelance-next-link {
+    border-left: 4px solid $blue500;
+  }
+
+  &.enso-next-link {
+    border-left: 4px solid $green500;
+  }
+
+  &.ofa-next-link {
+    border-left: 4px solid $orange500;
+  }
+
+  &.agency-next-link {
+    border-left: 4px solid $red500;
+  }
 }
 
 .next-link-timespan {

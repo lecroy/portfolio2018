@@ -39,6 +39,17 @@ permalink: /agency
     <img src="img/freelance/hillary-post-thumbnail.jpg" class="hillary-thumbnail-img" alt="Concept image for Hillary Clinton's website" />
     <figcaption class="case-study-caption">Concept image for hillaryclinton.com</figcaption>
   </figure>
+  <nav class="case-study-end-nav">
+    <a href="/ofa" class="case-study-previous-link">
+      <div class="next-link-timespan">
+        2011-2012
+      </div>
+      Obama 2012
+    </a>
+    <a href="/" class="case-study-next-link home-next-link">
+      Home
+    </a>
+  </nav>
 
 </div>
 
