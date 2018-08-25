@@ -12,20 +12,13 @@
   position: relative;
 }
 
-.site-title {
-  display: none; //don't show on mobile
-
-  font-family: $decima;
-  font-size: 18px;
-  color: $gray900;
-}
-
 .header-name {
   font-family: $decima;
   font-size: 18px;
   color: $gray900;
 
   display: inline-block;
+  float: left;
 }
 
 .mobile-menu-icon {
@@ -220,10 +213,6 @@
 
   .site-title {
     display: inline-block;
-  }
-
-  .header-name {
-    float: right;
   }
 }
 

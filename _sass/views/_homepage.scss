@@ -1,4 +1,5 @@
 .home-hero-container {
+  display: none;
   margin-top: 4rem;
 }
 
@@ -14,6 +15,14 @@
   margin-right: 21%;
 }
 
+.homepage-animation-gif {
+  width: 90px;
+  position: relative;
+  top: -20px;
+  right: -15vw;
+  z-index: 20;
+}
+
 .home-timeline-container {
   font-weight: 600;
 
@@ -26,41 +35,33 @@
   margin-top: 8rem;
 }
 
-.timeline-years {
-  font-family: $decima;
-  list-style: none;
-
-  display: inline-block;
-  float: left;
-
-  li {
-    font-size: 18px;
-    margin-bottom: 58px;
-  }
-}
-
 .timeline-blocks-wrapper {
   float: left;
   margin-left: 1.5rem;
-  width: 90%;
 }
 
 .timeline-block {
-  border-radius: 10px;
-
   width: 100%;
   display: inline-block;
   margin-top: .5rem;
   position: relative;
-  transition: all .4s ease-in-out;
+  transition: all .3s ease-in-out;
 
   &:first-of-type {
     margin-top: 0;
   }
 
   &:hover {
-    background: $gray50;
+    transform: scale(1.02);
   }
+
+  &:hover > .timeline-block-text-wrapper > .timespan {
+    font-size: 6vw;
+  }
+}
+
+.attr-wrapper {
+  clear: both;
 }
 
 .olark-block,
@@ -71,9 +72,54 @@
   @extend .timeline-block;
 }
 
+.timespan {
+  font-size: 5vw;
+  font-weight: 200;
+  font-family: $decima;
+  text-transform: uppercase;
+  float: left;
+}
+
+.olark-block {
+  border-left: 5px solid $purple500;
+  border-right: 2px solid $purple500;
+  color: $purple600;
+
+  height: 26vh;
+}
+
+.freelance-block {
+  border-left: 5px solid $blue500;
+  border-right: 2px solid $blue500;
+  color: $blue600;
+  height: 12vh;
+}
+
+.enso-block {
+  border-left: 5px solid $green500;
+  border-right: 2px solid $green500;
+  color: $green600;
+  height: 11vh;
+}
+
+.ofa-block {
+  border-left: 5px solid $orange500;
+  border-right: 2px solid $orange500;
+  color: $orange600;
+  height: 20vh;
+}
+
+.agency-block {
+  border-left: 5px solid $red500;
+  border-right: 2px solid $red500;
+  color: $red600;
+  height: 30vh;
+}
+
 .timeline-block-text-wrapper {
   display: inline-block;
   float: left;
+  width: 100%;
   position: relative;
   margin-left: 1rem;
   transform: translateY(0px);
@@ -89,115 +135,35 @@
   position: absolute;
 }
 
-.color-block {
-  border-radius: 6px;
-  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
-
-  width: 1rem;
-  display: inline-block;
-  display: block;
-  float: left;
-}
-
-.olark-color-block {
-  @extend .color-block;
-
-  background-image: linear-gradient(-45deg, $purple600 0%, $purple300 100%);
-
-  height: 251px;
-  margin-top: 0;
-}
-
-.freelance-color-block {
-  @extend .color-block;
-
-  background-image: linear-gradient(-45deg, $blue600 0%, $blue300 100%);
-
-  height: 128px;
-}
-
-.enso-color-block {
-  @extend .color-block;
-
-  background-image: linear-gradient(-45deg, $green600 0%, $green300 100%);
-
-  height: 109px;
-}
-
-.ofa-color-block {
-  @extend .color-block;
-
-  background-image: linear-gradient(-45deg, $orange600 0%, $orange300 100%);
-
-  height: 116px;
-}
-
-.agency-color-block {
-  @extend .color-block;
-
-  background-image: linear-gradient(-45deg, $red600 0%, $red300 100%);
-
-  height: 412px;
-}
-
-.timeline-block-subhead {
-  font-family: $decima;
-  font-weight: 200;
-  font-size: 16px;
-  letter-spacing: -.5px;
+.timeline-block-button {
+  opacity: 0; //shows up on hover
 }
 
 .work-link-wrapper {
-  margin-top: 4rem;
+  display: none;
 }
 
-.work-link {
-  @extend .btn-base;
-
-  background: $electric-blue;
-  font-size: 14px;
-  font-weight: 600;
-  color: white;
+.timeline-block-title {
+  font-family: $decima;
+  font-weight: 800;
   text-transform: uppercase;
-  letter-spacing: 2px;
 
-  padding: 8px 1rem 7px;
+  float: left;
+}
 
-  span {
-    margin-left: .5rem;
-  }
+.timeline-block-subhead {
+  font-weight: 200;
+  font-size: 16px;
+  color: $gray700;
+
+  margin-left: 2rem;
+  margin-top: 3px;
+  float: left;
 }
 
 
-@media screen and (min-width: 600px) {
-  .timeline-block {
-    &:hover {
-      > .olark-color-block,
-        .freelance-color-block,
-        .enso-color-block,
-        .ofa-color-block,
-        .agency-color-block {
-          transition: all .4s ease-in-out;
-      }
-
-      > .timeline-block-body {
-          transition: all .5s ease-in-out;
-          opacity: 1;
-      }
-
-      > .timeline-block-button {
-          transition: all .4s ease-in-out;
-          opacity: 1;
-      }
-    }
-  }
-
-  .timeline-block-button {
-    opacity: 0; //shows up on hover
-  }
-
-  .work-link-wrapper {
+@media screen and (min-width: 420px) {
+  .timeline-years {
     display: none;
   }
 }
-
