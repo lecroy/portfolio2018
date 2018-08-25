@@ -11,16 +11,17 @@
 }
 
 .homepage-animation {
-  float: right;
+  float: left;
   margin-right: 21%;
+  z-index: 1;
+  position: relative;
 }
 
 .homepage-animation-gif {
   width: 90px;
   position: relative;
   top: -20px;
-  right: -15vw;
-  z-index: 20;
+  left: 0;
 }
 
 .home-timeline-container {
@@ -37,7 +38,6 @@
 
 .timeline-blocks-wrapper {
   float: left;
-  margin-left: 1.5rem;
 }
 
 .timeline-block {
@@ -52,11 +52,12 @@
   }
 
   &:hover {
-    transform: scale(1.02);
+    transform: scale(1.01);
   }
 
   &:hover > .timeline-block-text-wrapper > .timespan {
     font-size: 6vw;
+    transition: all .23s ease-in-out;
   }
 }
 
@@ -85,35 +86,35 @@
   border-right: 2px solid $purple500;
   color: $purple600;
 
-  height: 26vh;
+  height: 36vh;
 }
 
 .freelance-block {
   border-left: 5px solid $blue500;
   border-right: 2px solid $blue500;
   color: $blue600;
-  height: 12vh;
+  height: 22vh;
 }
 
 .enso-block {
   border-left: 5px solid $green500;
   border-right: 2px solid $green500;
   color: $green600;
-  height: 11vh;
+  height: 21vh;
 }
 
 .ofa-block {
   border-left: 5px solid $orange500;
   border-right: 2px solid $orange500;
   color: $orange600;
-  height: 20vh;
+  height: 30vh;
 }
 
 .agency-block {
   border-left: 5px solid $red500;
   border-right: 2px solid $red500;
   color: $red600;
-  height: 30vh;
+  height: 45vh;
 }
 
 .timeline-block-text-wrapper {
