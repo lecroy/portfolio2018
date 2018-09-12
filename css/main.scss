@@ -5,17 +5,10 @@
 
 
 
-// Typography
-
-// font-family
-$avenir: 'Avenir LT Std', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-$decima: 'Decima Mono Lt', monospace;
-
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
   "styleguide/colors",
+  "styleguide/typography",
   "styleguide/buttons",
 
   "fonts",
