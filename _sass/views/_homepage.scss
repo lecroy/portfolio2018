@@ -1,27 +1,27 @@
 .home-hero-container {
-  display: none;
   margin-top: 4rem;
 }
 
 .home-intro {
-  text-align: left;
+  text-align: center;
   font-family: $decima;
-  font-size: 6vw;
+  font-size: 5vw;
   font-weight: 200;
 }
 
 .homepage-animation {
-  float: left;
-  margin-right: 21%;
-  z-index: 1;
-  position: relative;
+  top: 7rem;
+  z-index: -1;
+  position: absolute;
+  right: 0;
+  left: 0;
+  margin: auto;
+  text-align: center;
 }
 
 .homepage-animation-gif {
-  width: 90px;
+  width: 210px;
   position: relative;
-  top: -20px;
-  left: 0;
 }
 
 .home-timeline-container {
@@ -32,33 +32,34 @@
 
 .timeline-wrapper {
   display: inline-block;
-
-  margin-top: 8rem;
+  margin: 8rem auto 4rem;
 }
 
-.timeline-blocks-wrapper {
-  float: left;
-}
-
-.timeline-block {
+.homepage-tile-link {
+  color: white;
   width: 100%;
   display: inline-block;
-  margin-top: .5rem;
-  position: relative;
-  transition: all .3s ease-in-out;
+  margin-top: 2rem;
 
   &:first-of-type {
     margin-top: 0;
   }
+}
 
-  &:hover > .timeline-block-text-wrapper > .timespan {
-    opacity: .5;
-    transition: all .23s ease-in-out;
-  }
+.timeline-block {
+  border-radius: 6px;
+
+  width: 100%;
+  height: 300px;
+  display: inline-block;
+  position: relative;
+  padding: 2rem;
+  transition: all .3s ease-in-out;
 }
 
 .attr-wrapper {
-  clear: both;
+  position: absolute;
+  bottom: 2rem;
 }
 
 .olark-block,
@@ -70,7 +71,7 @@
 }
 
 .timespan {
-  font-size: 5vw;
+  font-size: 1.5em;
   font-weight: 200;
   font-family: $decima;
   text-transform: uppercase;
@@ -78,34 +79,49 @@
 }
 
 .olark-block {
-  border-left: 5px solid $purple500;
-  color: $purple600;
+  color: white;
+  background-image: linear-gradient(-225deg, #4398DE 0%, #ACD5FB 100%);
+  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
 
-  height: 36vh;
+  &:hover {
+    &:after {
+      content:'';
+      background-image: url('/img/index/bw-test.png');
+      background-size: 100px;
+      width: 100px;
+      height: 100px;
+
+      background-blend-mode: multiply;
+      position: absolute;
+      bottom: 0;
+      right: 0;
+    }
+  }
+
 }
 
 .freelance-block {
-  border-left: 5px solid $blue500;
-  color: $blue600;
-  height: 22vh;
+  color: white;
+  background-image: linear-gradient(-225deg, #6C37A7 0%, #B98BEE 100%);
+  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
 }
 
 .enso-block {
-  border-left: 5px solid $green500;
-  color: $green600;
-  height: 21vh;
+  color: white;
+  background-image: linear-gradient(-225deg, #5EA83C 0%, #A2D48B 100%);
+  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
 }
 
 .ofa-block {
-  border-left: 5px solid $orange500;
-  color: $orange600;
-  height: 30vh;
+  color: white;
+  background-image: linear-gradient(-225deg, #E48600 0%, #FFBD60 100%);
+  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
 }
 
 .agency-block {
-  border-left: 5px solid $red500;
-  color: $red600;
-  height: 45vh;
+  color: white;
+  background-image: linear-gradient(-225deg, #CE1F21 0%, #F4787C 100%);
+  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
 }
 
 .timeline-block-text-wrapper {
@@ -113,7 +129,6 @@
   float: left;
   width: 100%;
   position: relative;
-  margin-left: 1rem;
   transform: translateY(0px);
   transition: .4s all ease-in-out;
 }
@@ -136,9 +151,11 @@
 }
 
 .timeline-block-title {
-  font-family: $decima;
+  line-height: 1;
+
   font-weight: 800;
-  text-transform: uppercase;
+  font-size: 3em;
+  margin-bottom: .5rem;
 }
 
 .timeline-block-subhead {
@@ -154,3 +171,25 @@
     display: none;
   }
 }
+
+@media screen and (min-width: 600px) {
+  .homepage-animation {
+    top: 0;
+    right: 0;
+    left: initial;
+    z-index: 1;
+  }
+
+  .home-intro {
+    text-align: left;
+  }
+
+  .homepage-tile-link {
+    width: 45%;
+
+    &:nth-of-type(even) {
+      margin-left: 5%;
+    }
+  }
+}
+
