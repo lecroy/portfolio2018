@@ -23,13 +23,10 @@ permalink: /enso
     Enso brand
   </h3>
   <p class="page-body-copy">
-    ladadeda
+    When I joined as Design Lead in 2013, Enso was a small agency with a mission that stood out to me. Their goal was to create positive social impact by partnering with brands who were starting to recognize that creating positive change with their marketing budgets wasn't just an altruistic thing – it was good for business.
   </p>
   <p class="page-body-copy">
     Ensooo
-  </p>
-  <p class="page-body-copy">
-    word
   </p>
   <figure class="figure-inline">
     <img src="img/freelance/hillary-hero-section.jpg" class="hillary-hero-img" alt="Concept image for Hillary Clinton's website" />

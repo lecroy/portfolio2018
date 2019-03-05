@@ -108,6 +108,7 @@
   position: absolute;
   top: 0;
   left: 0;
+  cursor: pointer;
 
   &.olark-hover-img {
     background-image: linear-gradient(-225deg, #4398DE 0%, #ACD5FB 100%), url('/img/index/bw-test.jpg');
@@ -115,6 +116,18 @@
 
   &.enso-hover-img {
     background-image: linear-gradient(-225deg, #5EA83C 0%, #A2D48B 100%), url('/img/index/enso-bw.jpg');
+  }
+
+  &.ofa-hover-img {
+    background-image: linear-gradient(-225deg, #E48600 0%, #FFBD60 100%), url('/img/index/ofa-bw.jpg');
+  }
+
+  &.freelance-hover-img {
+    background-image: linear-gradient(-225deg, #6C37A7 0%, #B98BEE 100%), url('/img/index/hillary-bw.jpg');
+  }
+
+  &.agency-hover-img {
+    background-image: linear-gradient(-225deg, #CE1F21 0%, #F4787C 100%), url('/img/index/agency-bw.jpg');
   }
 }
 

@@ -28,6 +28,12 @@ permalink: /freelance
   <p class="page-body-copy">
     Working under the project management of Laura Olin at Precision Strategies, I was tasked with delivering some look-and-feel concepts for her official homepage, as well as providing some visual styling for the site's donation flow. There were loose ideas being floated for content strategy but nothing had been made official yet, so the exploration was fairly blue-sky at that point.
   </p>
+
+  <figure class="figure-inline">
+    <img src="img/freelance/hillary-donate.jpg" class="hfa-donate-img" alt="The interface for HFA's donation flow" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
   <p class="page-body-copy">
     My homepage ideas didn't end up getting used, but the donation flow styling made it in to become the first iteration. Shortly to follow, HFA began hiring an amazing design team which took over and created a gorgeous visual campaign for candidate Clinton, and my work faded into history, but I am proud to have made some small mark on her historic run for President. Here is some of the work I delivered.
   </p>
@@ -39,6 +45,52 @@ permalink: /freelance
     <img src="img/freelance/hillary-post-thumbnail.jpg" class="hillary-thumbnail-img" alt="Concept image for Hillary Clinton's website" />
     <figcaption class="case-study-caption">Concept image for hillaryclinton.com</figcaption>
   </figure>
+
+  <h3 class="page-body-subhead">
+    World Food Program
+  </h3>
+
+  <p class="page-body-copy">
+    I had a lot of fun designing and building the online annual report for World Food Program. Since the content was divided into chapters, I opted for a scrolling behavior that felt like turning the pages of a large book.
+  </p>
+
+  <figure class="figure-inline">
+    <img src="img/freelance/wfp-cover.jpg" class="wfp-cover-img" alt="Cover of the World Food Program annual report" />
+    <figcaption class="case-study-caption">Cover of the report with chaptered navigation</figcaption>
+  </figure>
+
+  <p class="page-body-copy">
+    WFP had access to a trove of beautiful and heartbreaking photography, showing the need for food around the globe, and the immense scale of their aid and outreach.
+  </p>
+
+  <figure class="figure-inline">
+    <img src="img/freelance/wfp-plane.jpg" class="wfp-plane-img" alt="A large airplane being loaded up with food" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
+  <figure class="figure-pullout">
+    <img src="img/freelance/wfp-scrolling.gif" class="wfp-scrolling-img" alt="The information architecture allowed for scrolling in any direction on most views." />
+    <figcaption class="case-study-caption">The information architecture allowed for keyboard friendly scrolling in any direction on most views.</figcaption>
+  </figure>
+
+  <p class="page-body-copy">
+    Beyond conveying emotion, WFP needed to communicate what it had delivered over the previous year with data. The report would eventually include tables, graphs and an interactive world map showing all the locations visited, and benefitted, by WFP that year.
+  </p>
+
+  <figure class="figure-inline">
+    <img src="img/freelance/wfp-graph.jpg" class="wfp-graph-img" alt="Pie chart showing which regions received the most WFP grants" />
+    <figcaption class="case-study-caption">Dynamically generated pie chart showing which regions received the most WFP grants</figcaption>
+  </figure>
+
+  <figure class="figure-inline">
+    <img src="img/freelance/wfp-thankyou.jpg" class="wfp-thankyou-img" alt="Children wave and show peace signs from a window" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
+  <p class="page-body-copy">
+    I'm proud to have contributed what I could to this wonderful cause. The project was managed by Lauren Parks and Aliya Karim.
+  </p>
+
   <nav class="case-study-end-nav">
     <a href="/olark" class="case-study-previous-link">
       <div class="next-link-timespan">
