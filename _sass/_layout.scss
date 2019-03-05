@@ -4,6 +4,12 @@
   padding: 0 2rem;
 }
 
+.photo-treatment {
+  border-radius: 12px;
+  box-shadow: 0 10px 32px 0 $gray300;
+  margin-bottom: 1rem;
+}
+
 //Case study title treatment
 
 .slideshow {
@@ -126,7 +132,19 @@
 }
 
 .figure-pullout {
+  @extend .photo-treatment;
+
+  width: 400px;
   margin-bottom: 2rem;
+
+  figcaption {
+    position: absolute;
+    margin-top: 1rem;
+  }
+
+  img {
+    border-radius: 12px;
+  }
 }
 
 .figure-inline {
@@ -159,24 +177,6 @@
 
 .case-study-next-link {
   float: right;
-  margin-top: -11px;
-  padding-left: .5rem;
-
-  &.freelance-next-link {
-    border-left: 4px solid $blue500;
-  }
-
-  &.enso-next-link {
-    border-left: 4px solid $green500;
-  }
-
-  &.ofa-next-link {
-    border-left: 4px solid $orange500;
-  }
-
-  &.agency-next-link {
-    border-left: 4px solid $red500;
-  }
 }
 
 .next-link-timespan {

@@ -1,13 +1,5 @@
-.photo-treatment {
-  border-radius: 12px;
-  box-shadow: 0 10px 32px 0 $gray300;
-  margin-bottom: 1rem;
-}
-
-.hillary-hero-img {
-  @extend .photo-treatment;
-}
-
-.hillary-thumbnail-img {
+.hillary-hero-img,
+.hillary-thumbnail-img,
+.wfp-cover-img {
   @extend .photo-treatment;
 }

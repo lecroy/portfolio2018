@@ -33,6 +33,7 @@
 .timeline-wrapper {
   display: inline-block;
   margin: 8rem auto 4rem;
+  width: 100%;
 }
 
 .homepage-tile-link {
@@ -40,6 +41,7 @@
   width: 100%;
   display: inline-block;
   margin-top: 2rem;
+  position:relative;
 
   &:first-of-type {
     margin-top: 0;
@@ -55,6 +57,14 @@
   position: relative;
   padding: 2rem;
   transition: all .3s ease-in-out;
+
+  &:hover > .hover-image-block {
+    opacity: 1;
+  }
+}
+
+.timespan-wrapper {
+  position: absolute;
 }
 
 .attr-wrapper {
@@ -82,22 +92,30 @@
   color: white;
   background-image: linear-gradient(-225deg, #4398DE 0%, #ACD5FB 100%);
   box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
+}
 
-  &:hover {
-    &:after {
-      content:'';
-      background-image: url('/img/index/bw-test.png');
-      background-size: 100px;
-      width: 100px;
-      height: 100px;
+.hover-image-block {
+  border-radius: 6px;
+  background-blend-mode: multiply;
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: all .25s;
 
-      background-blend-mode: multiply;
-      position: absolute;
-      bottom: 0;
-      right: 0;
-    }
+  width: 100%;
+  height: 300px;
+  display: inline-block;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  &.olark-hover-img {
+    background-image: linear-gradient(-225deg, #4398DE 0%, #ACD5FB 100%), url('/img/index/bw-test.jpg');
   }
 
+  &.enso-hover-img {
+    background-image: linear-gradient(-225deg, #5EA83C 0%, #A2D48B 100%), url('/img/index/enso-bw.jpg');
+  }
 }
 
 .freelance-block {
