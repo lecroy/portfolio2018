@@ -1,13 +1,3 @@
-/**
- * wordFx.js
- * http://www.codrops.com
- *
- * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- * 
- * Copyright 2017, Codrops
- * http://www.codrops.com
- */
 {
     // From https://davidwalsh.name/javascript-debounce-function.
 	function debounce(func, wait, immediate) {
@@ -55,7 +45,7 @@
             this.DOM.el = document.createElementNS('http://www.w3.org/2000/svg', this.type);
             this.DOM.el.style.opacity = 0;
             this.configureShapeType();
-            
+
             if ( this.options.shapeFill ) {
                 this.DOM.el.setAttribute('fill', this.options.shapeColors[randomBetween(0,this.options.shapeColors.length-1,0)]);
             }
@@ -188,7 +178,7 @@
                                     anime.remove(config.shapesAnimationOpts.targets);
                                     anime(config.shapesAnimationOpts);
                                 }
-                            }(letter), config.lettersAnimationOpts && config.lettersAnimationOpts.delay ? config.lettersAnimationOpts.delay(letter.DOM.el,i) : 0);        
+                            }(letter), config.lettersAnimationOpts && config.lettersAnimationOpts.delay ? config.lettersAnimationOpts.delay(letter.DOM.el,i) : 0);
                         }
                     }
                     if ( config.lettersAnimationOpts ) {

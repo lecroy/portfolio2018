@@ -25,7 +25,7 @@ permalink: /ofa
 
   <figure class="figure-pullout">
     <img src="img/ofa/hug.jpg" class="ofa-hug-img" alt="Me hugging Barack Obama after election day 2012" />
-    <figcaption class="case-study-caption">After election day, everyone at HQ got a handshake and hug. I hadn't bathed in 2 days. He was polite about it. I can't thank <a href="http://www.manikrathee.com/">Manik Rathee</a> enough for snapping this photo.</figcaption>
+    <figcaption class="case-study-caption">After election day, everyone at HQ got a handshake and hug. I hadn't bathed in 2 days. He was polite about it. I can't thank <a href="https://www.manikrathee.com/">Manik Rathee</a> enough for snapping this photo.</figcaption>
   </figure>
 
   <p class="page-body-copy">
