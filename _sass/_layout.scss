@@ -145,13 +145,11 @@ iframe {
 }
 
 .figure-pullout {
-  max-width: 400px;
   margin-bottom: 4rem;
 
   figcaption {
     position: absolute;
     margin-top: 1rem;
-    width: 400px;
   }
 
   img {
@@ -201,6 +199,11 @@ iframe {
   .figure-pullout {
     float: right;
     margin-bottom: 0;
+    max-width: 400px;
+
+    figcaption {
+      max-width: 400px;
+    }
   }
 }
 
