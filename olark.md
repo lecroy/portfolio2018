@@ -20,7 +20,7 @@ permalink: /olark
 
 <div class="page-body-wrapper">
   <h3 class="page-body-subhead">
-    Branding &amp; Design System
+    Brand &amp; Design System
   </h3>
   <p class="page-body-copy">
     By 2017, Olark had been in business 9 years. With a founding team consisting of engineers only, there hadn't been much thought given to the brand's look and feel.
