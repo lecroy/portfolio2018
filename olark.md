@@ -26,7 +26,7 @@ permalink: /olark
     By 2017, Olark had been in business 9 years. With a founding team consisting of engineers only, there hadn't been much thought given to the brand's look and feel.
   </p>
   <p class="page-body-copy">
-    To begin we needed a North Star to guide our effors. I put together a Google survey and sent it out to a cross section of coworkers with the hope of gathering varying opinions on how they perceived Olark, and how they'd like it to be perceived in the future.
+    To begin we needed a North Star to guide our efforts. I put together a Google survey and sent it out to a cross section of coworkers with the hope of gathering varying opinions on how they perceived Olark, and how they'd like it to be perceived in the future.
   </p>
   <p class="page-body-copy">
     From the survey results, I compiled a list of words that people used to describe the kind of company they wanted to work for. When I began tallying words used most often, a theme emerged: <span class="body-copy-strong">Humanity.</span>
@@ -67,7 +67,7 @@ permalink: /olark
     <figcaption class="case-study-caption">Olark's color palette</figcaption>
   </figure>
   <p class="page-body-copy">
-    After selecting a sample of colors to be used as "primaries", I used lightness and saturation to create levels within each color, which were used as CSS variables. The lightest shade, <code>{color}50</code>, was typlically used as a background color for a section or component.
+    After selecting a sample of colors to be used as "primaries", I used lightness and saturation to create levels within each color, which were used as CSS variables. The lightest shade, <code>{color}50</code>, was typically used as a background color for a section or component.
   </p>
   <p class="page-body-copy">
     Another important aspect of the redesigned branding would be vector elements. "Make Business Human" was our new tagline, so it was important to have some consistent pieces that designers could use to convey humanity and business graphically.
