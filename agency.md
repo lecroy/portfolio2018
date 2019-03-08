@@ -20,25 +20,17 @@ permalink: /agency
 
 <div class="page-body-wrapper">
   <h3 class="page-body-subhead">
-    i still can't believe this happened.
+    In the beginning
   </h3>
   <p class="page-body-copy">
-    ladadeda
+    ...there was art direction. It was 2005 and fresh out of school I got a job in Chicago creating TV commercials at a big ad agency called DDB. It was a dream job for me at that time, but intimidating – I was 25 and surrounded by some of the best comedy writers outside of Hollywood. All my partner Kent and I had to do was write funnier scripts than them, and they'd fly us out to LA to cast, shoot and edit them. And we even managed to do that a time or two.
   </p>
-  <p class="page-body-copy">
-    Obamaa
-  </p>
-  <p class="page-body-copy">
-    word
-  </p>
-  <figure class="figure-inline">
-    <img src="img/freelance/hillary-hero-section.jpg" class="hillary-hero-img" alt="Concept image for Hillary Clinton's website" />
-    <figcaption class="case-study-caption">Concept image for hillaryclinton.com</figcaption>
-  </figure>
-  <figure class="figure-inline">
-    <img src="img/freelance/hillary-post-thumbnail.jpg" class="hillary-thumbnail-img" alt="Concept image for Hillary Clinton's website" />
-    <figcaption class="case-study-caption">Concept image for hillaryclinton.com</figcaption>
-  </figure>
+
+  <iframe width="540" height="315" src="https://www.youtube.com/embed/Xw5sJ04HkbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <iframe width="540" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/48091067&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+
   <nav class="case-study-end-nav">
     <a href="/ofa" class="case-study-previous-link">
       <div class="next-link-timespan">

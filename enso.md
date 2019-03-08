@@ -20,22 +20,116 @@ permalink: /enso
 
 <div class="page-body-wrapper">
   <h3 class="page-body-subhead">
-    Enso brand
+    Omidyar Network
+  </h3>
+  <p class="page-body-copy">
+    When Pierre Omidyar started eBay, running it on a server under his desk at his full time job, he couldn't have then imagined the way it would completely transform online commerce. Fast forward to 2014, and he'd sold eBay and thrown the entire weight of his effort behind The Omidyar Network, a philanthropic investment group seeking to buoy not just single businesses, but entire sectors, in parts of the world where the boon to infrastructure is needed most.
+  </p>
+
+  <figure class="figure-pullout">
+    <img src="img/omidyar/omidyar-wires-1.png" class="omidyar-wires-img" alt="Early wireframes for information architecture and page layout" />
+    <figcaption class="case-study-caption">Early wireframes for information architecture and page layout</figcaption>
+  </figure>
+
+  <p class="page-body-copy">
+    The Omidyar Network was entering its 10th year of operation, and a refresh to the company identity and web presence as well as a clarification of its mission were a top priority, and one I was tasked with at Enso.
+  </p>
+
+  <p class="page-body-copy">
+    To begin, we took what we knew about communication goals and content strategy and loosely storyboarded the navigation and interior pages
+  </p>
+
+  <p class="page-body-copy">
+    We knew the Network had several departments that would all need their own pages. Some would be more active than others, but all needed to be fed via the same CMS without breaking the design. Responsive, of course, so it became clear that we'd need a very modular approach.
+  </p>
+
+  <p class="page-body-copy">
+    Once we had a basic idea of how things would be connected, we moved into visual design. Omidyar Network wanted a site that demonstrated how it was a large worldwide network, but that they were all still very closely connected. We landed on the idea of aligning the horizons in our photos to show all the various people and places the Network touches.
+  </p>
+
+  <figure class="figure-inline">
+    <img src="img/omidyar/omidyar-1.jpg" class="omidyar-hero-sections-img" alt="Examples of hero sections that eventually ran on the website" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
+  <p class="page-body-copy">
+    For the typography I chose H&FJ's Gotham Rounded for it's combination of approachability and strength, and Museo Slab as a sharp, readable serif that juxtaposes nicely against it.
+  </p>
+
+  <figure class="figure-inline">
+    <img src="img/omidyar/omidyar-type.jpg" class="omidyar-type-img" alt="Charts and figures showing Omidyar Network's financial commitments" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
+  <figure class="figure-inline">
+    <img src="img/omidyar/Omidyar_home.jpg" class="omidyar-home-img" alt="Final homepage mockup" />
+    <figcaption class="case-study-caption">Final homepage mockup</figcaption>
+  </figure>
+
+  <figure class="figure-inline">
+    <img src="img/omidyar/Omidyar_bio.jpg" class="omidyar-bio-img" alt="Biography page" />
+    <figcaption class="case-study-caption">Employee bio page template</figcaption>
+  </figure>
+
+  <figure class="figure-inline">
+    <img src="img/omidyar/Omidyar_people.jpg" class="omidyar-people-img" alt="Biography page" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
+  <figure class="figure-inline">
+    <img src="img/omidyar/Omidyar_initiative.jpg" class="omidyar-initiative-img" alt="Biography page" />
+    <figcaption class="case-study-caption">Employee bio page template</figcaption>
+  </figure>
+
+  <h3 class="page-body-subhead">
+    Enso
   </h3>
   <p class="page-body-copy">
     When I joined as Design Lead in 2013, Enso was a small agency with a mission that stood out to me. Their goal was to create positive social impact by partnering with brands who were starting to recognize that creating positive change with their marketing budgets wasn't just an altruistic thing – it was good for business.
   </p>
+
   <p class="page-body-copy">
-    Ensooo
+    The first order of business for me was tightening up the branding and translate it into a redesign of the agency website.
   </p>
-  <figure class="figure-inline">
-    <img src="img/freelance/hillary-hero-section.jpg" class="hillary-hero-img" alt="Concept image for Hillary Clinton's website" />
-    <figcaption class="case-study-caption">Concept image for hillaryclinton.com</figcaption>
+
+  <figure class="figure-pullout">
+    <img src="img/enso/Enso_home_dark.jpg" class="enso-home-dark-img" alt="Homepage with dark theme" />
+    <figcaption class="case-study-caption">As an easter egg, clicking the lightbulb on the home page toggled to a dark theme.</figcaption>
   </figure>
+
   <figure class="figure-inline">
-    <img src="img/freelance/hillary-post-thumbnail.jpg" class="hillary-thumbnail-img" alt="Concept image for Hillary Clinton's website" />
-    <figcaption class="case-study-caption">Concept image for hillaryclinton.com</figcaption>
+    <img src="img/enso/Enso_home_light.jpg" class="enso-home-light-img" alt="helloenso.com homepage" />
+    <figcaption class="case-study-caption">Homepage concept leading with the agency mission and values</figcaption>
   </figure>
+
+  <p class="page-body-copy">
+    Making the Team page was a lot of fun, and a project in itself. Over the course of a week we had each employee wake up early and come out to the beach. Predictably, some of the best facial expressions came when the icy water ran over our feet.
+  </p>
+
+  <figure class="figure-inline">
+    <img src="img/enso/Enso_team.jpg" class="enso-team-img" alt="The team page of the website" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
+  <p class="page-body-copy">
+    Case studies were displayed large and clean on a white background. Minimal navigation made it easy to get from one case study to the next, or to simply go back home by clicking the logo.
+  </p>
+
+  <figure class="figure-pullout">
+    <img src="img/enso/enso_blog.jpg" class="enso-blog-img" alt="The olark blog, showing a sample post with image" />
+    <figcaption class="case-study-caption">The blog got a very minimal, clean look</figcaption>
+  </figure>
+
+  <figure class="figure-inline">
+    <img src="img/enso/enso_gates.jpg" class="enso-case-study-img" alt="A case study page with clean, minimal design" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
+  <p class="page-body-copy">
+    The launch of helloenso.com was a big success, featured on awwwards, httpster, css awards and other web design curations as well as design blogs like designspiration.net. In sum, the buzz around the site led to a 164% increase in traffic compared to the month previous.
+  </p>
+
+
   <nav class="case-study-end-nav">
     <a href="/freelance" class="case-study-previous-link freelance-next-link">
       <div class="next-link-timespan">

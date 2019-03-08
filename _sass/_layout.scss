@@ -10,6 +10,10 @@
   margin-bottom: 1rem;
 }
 
+iframe {
+  display: block;
+}
+
 //Case study title treatment
 
 .slideshow {
@@ -112,10 +116,14 @@
   }
 }
 
+.page-body-interior-subhead {
+  margin-bottom: 1rem;
+}
+
 .page-body-copy {
   font-size: 20px;
   font-weight: 200;
-  line-height: 1.3em;
+  line-height: 1.4;
 
   max-width: 540px;
   margin-bottom: 2rem;
@@ -126,13 +134,20 @@
 }
 
 .case-study-caption {
-  color: $gray700;
+  color: $gray800;
   font-weight: 200;
   font-size: 14px;
 }
 
+.figure-inline {
+  img {
+    @extend .photo-treatment;
+  }
+}
+
 .figure-pullout {
   width: 400px;
+  margin-bottom: 4rem;
 
   figcaption {
     position: absolute;
@@ -186,6 +201,7 @@
 @media screen and (min-width: 1000px) {
   .figure-pullout {
     float: right;
+    margin-bottom: 0;
   }
 }
 
