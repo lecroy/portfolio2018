@@ -43,12 +43,47 @@ permalink: /agency
   </p>
 
   <p class="page-body-copy">
-    If you're a person of a certain age, you remember the "Real Men of Genius" radio campaign for Bud Light. It celebrated the often overlooked heroes of everyday of life in the good ol' US of A, and I had a chance to work on this one.
+    If you're a person of a certain age, you likely remember the "Real Men of Genius" radio campaign for Bud Light. It celebrated the often overlooked heroes of everyday of life in the good ol' US of A, and I had a chance to work on this one.
   </p>
 
   <div class="iframe-wrapper">
     <iframe width="540" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/48091067&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
   </div>
+
+  <h4 class="page-body-interior-subhead">
+    Big Ten Network
+  </h4>
+
+  <p class="page-body-copy">
+    Basketball dimples as goosebumps. It was a lot of fun seeing this one through the special effects process.
+  </p>
+
+  <div class="iframe-wrapper">
+    <iframe src="https://player.vimeo.com/video/19639144" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+
+  <h4 class="page-body-interior-subhead">
+    Premier Dermatology
+  </h4>
+
+  <p class="page-body-copy">
+    I also got to work on some smaller local clients. This campaign stood out as a time when one of them was willing to take a fun risk. The idea was that all these MediSpa's were popping up and doing dermatology work without being certified, which was as bad as trusting uncertified people in any other profession.
+  </p>
+
+  <figure class="figure-inline">
+    <img src="img/premier_derm/2_PREMIER_lifeguard.jpg" class="premier-lifeguard-img" alt="An unqualified lifeguard" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
+  <figure class="figure-inline">
+    <img src="img/premier_derm/1_PREMIER_hair.jpg" class="premier-hair-img" alt="An unqualified hairstylist" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
+  <figure class="figure-inline">
+    <img src="img/premier_derm/3_PREMIER_ref.jpg" class="premier-ref-img" alt="An unqualified referee" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
 
   <nav class="case-study-end-nav">
     <a href="/ofa" class="case-study-previous-link">
