@@ -30,9 +30,17 @@ permalink: /agency
     Bud Light
   </h4>
 
+  <p class="page-body-copy">
+    Ted Ferguson, Bud Light Daredevil was an up and coming YouTube star who would film himself doing stunts like resisting the last slice of pizza and talking to his parents about his future, all for the promise of a cold one if he could make it. We made a bunch of these but something about this one is my favorite.
+  </p>
+
   <div class="iframe-wrapper">
     <iframe width="540" height="315" src="https://www.youtube.com/embed/Xw5sJ04HkbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
+
+  <p class="page-body-copy">
+    The writer at my agency who originally pitched the chatacter did such a good job the folks at Anheuser-Busch casted him as Ted Ferguson. Shout out to Jeb Quaid.
+  </p>
 
   <p class="page-body-copy">
     If you're a person of a certain age, you remember the "Real Men of Genius" radio campaign for Bud Light. It celebrated the often overlooked heroes of everyday of life in the good ol' US of A, and I had a chance to work on this one.
