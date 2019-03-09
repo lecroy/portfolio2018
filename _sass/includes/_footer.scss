@@ -1,13 +1,8 @@
 .site-footer {
-  background: $gray50;
-
-  padding: 1rem 0;
+  padding-bottom: 3rem;
+  text-align: center;
 }
 
 .footer-link {
-  color: $gray500;
-
-  &:hover {
-    color: $gray700;
-  }
+  color: $gray900;
 }

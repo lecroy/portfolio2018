@@ -9,17 +9,34 @@
   background: white;
 
   padding: 2rem 0 0 2rem;
-  position: relative;
 }
 
-.header-name {
-  font-family: $decima;
-  font-size: 18px;
-  font-weight: 200;
-  color: $gray900;
+.thl-logotype {
+  width: 70px;
+  transform: rotate(4deg);
+}
 
-  display: inline-block;
-  float: left;
+.thl-head-shape {
+  width: 120px;
+  float: right;
+  top: 40px;
+  z-index: 0;
+  position: absolute;
+  right: 60px;
+}
+
+.homepage-animation {
+  top: 40px;
+  z-index: 0;
+  position: absolute;
+  right: 60px;
+  margin: auto;
+  text-align: center;
+}
+
+.homepage-animation-gif {
+  width: 120px;
+  position: relative;
 }
 
 .mobile-menu-icon {

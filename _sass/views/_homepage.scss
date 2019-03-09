@@ -5,23 +5,8 @@
 .home-intro {
   text-align: center;
   font-family: $decima;
-  font-size: 5vw;
+  font-size: 4vw;
   font-weight: 200;
-}
-
-.homepage-animation {
-  top: 7rem;
-  z-index: -1;
-  position: absolute;
-  right: 0;
-  left: 0;
-  margin: auto;
-  text-align: center;
-}
-
-.homepage-animation-gif {
-  width: 210px;
-  position: relative;
 }
 
 .home-timeline-container {
@@ -197,19 +182,9 @@
 }
 
 
-@media screen and (min-width: 420px) {
-  .timeline-years {
-    display: none;
-  }
-}
+
 
 @media screen and (min-width: 600px) {
-  .homepage-animation {
-    top: 0;
-    right: 0;
-    left: initial;
-    z-index: 1;
-  }
 
   .home-intro {
     text-align: left;
