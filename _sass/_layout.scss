@@ -138,6 +138,10 @@ iframe {
   font-size: 14px;
 }
 
+.iframe-wrapper {
+  margin-bottom: 2rem;
+}
+
 .figure-inline {
   img {
     @extend .photo-treatment;

@@ -26,10 +26,21 @@ permalink: /agency
     ...there was art direction. It was 2005 and fresh out of school I got a job in Chicago creating TV commercials at a big ad agency called DDB. It was a dream job for me at that time, but intimidating – I was 25 and surrounded by some of the best comedy writers outside of Hollywood. All my partner Kent and I had to do was write funnier scripts than them, and they'd fly us out to LA to cast, shoot and edit them. And we even managed to do that a time or two.
   </p>
 
-  <iframe width="540" height="315" src="https://www.youtube.com/embed/Xw5sJ04HkbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <h4 class="page-body-interior-subhead">
+    Bud Light
+  </h4>
 
-  <iframe width="540" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/48091067&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  <div class="iframe-wrapper">
+    <iframe width="540" height="315" src="https://www.youtube.com/embed/Xw5sJ04HkbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 
+  <p class="page-body-copy">
+    If you're a person of a certain age, you remember the "Real Men of Genius" radio campaign for Bud Light. It celebrated the often overlooked heroes of everyday of life in the good ol' US of A, and I had a chance to work on this one.
+  </p>
+
+  <div class="iframe-wrapper">
+    <iframe width="540" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/48091067&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  </div>
 
   <nav class="case-study-end-nav">
     <a href="/ofa" class="case-study-previous-link">
