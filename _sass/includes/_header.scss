@@ -238,3 +238,15 @@
     display: block;
   }
 }
+
+@media screen and (min-width: 1200px) {
+
+  .header-wrapper {
+    background: white;
+    padding: 2rem 0 0 0;
+  }
+
+  .timeline-nav-wrapper {
+    display: block;
+  }
+}
