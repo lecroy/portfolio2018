@@ -23,7 +23,7 @@ permalink: /olark
     Brand &amp; Design System
   </h3>
   <p class="page-body-copy">
-    By 2017, Olark had been in business 9 years. With a founding team consisting of engineers only, there hadn't been much thought given to the brand's look and feel.
+    By 2017, Olark had been in business 9 years. With a founding team consisting of engineers only, the brand's look and feel hadn't been given as much attention as other areas of the product.
   </p>
   <p class="page-body-copy">
     To begin we needed a North Star to guide our efforts. I put together a Google survey and sent it out to a cross section of coworkers with the hope of gathering varying opinions on how they perceived Olark, and how they'd like it to be perceived in the future.
