@@ -26,7 +26,7 @@ permalink: /olark
     By 2017, Olark had been in business 9 years. With a founding team consisting of engineers only, the brand's look and feel hadn't been given as much attention as other areas of the product.
   </p>
   <p class="page-body-copy">
-    To begin we needed a North Star to guide our efforts. I put together a Google survey and sent it out to a cross section of coworkers with the hope of gathering varying opinions on how they perceived Olark, and how they'd like it to be perceived in the future.
+    To begin we needed a north star to guide our efforts. I put together a Google survey and sent it out to a cross section of coworkers to get a feel for how employees generally perceived Olark as a brand, what our voice was, and how we'd like those things to be perceived in the future.
   </p>
   <p class="page-body-copy">
     From the survey results, I compiled a list of words that people used to describe the kind of company they wanted to work for. When I began tallying words used most often, a theme emerged: <span class="body-copy-strong">Humanity.</span>
