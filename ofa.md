@@ -25,7 +25,7 @@ permalink: /ofa
 
   <figure class="figure-pullout">
     <img src="img/ofa/hug.jpg" class="ofa-hug-img" alt="Me hugging Barack Obama after election day 2012" />
-    <figcaption class="case-study-caption">After election day, everyone at HQ got a handshake and hug. I hadn't bathed in 2 days. He was polite about it. I can't thank <a href="https://www.manikrathee.com/">Manik Rathee</a> enough for snapping this photo.</figcaption>
+    <figcaption class="case-study-caption">After election day, everyone at HQ got a handshake and hug. I hadn't bathed in 2 days. He was cool about it.</figcaption>
   </figure>
 
   <p class="page-body-copy">
@@ -50,7 +50,7 @@ permalink: /ofa
 
   <figure class="figure-pullout">
     <img src="img/ofa/bocom_home_sidebar.jpg" class="bocom-sidebar-img" alt="Sticky sidebar of barackobama.com" />
-    <figcaption class="case-study-caption">The sidebar stayed fixed as users scrolled through the blog items, making it easy to get involved without having to get back to the top.</figcaption>
+    <figcaption class="case-study-caption">The sidebar stayed fixed as users scrolled, making it easy to engage without going back to the top.</figcaption>
   </figure>
 
   <figure class="figure-inline">
