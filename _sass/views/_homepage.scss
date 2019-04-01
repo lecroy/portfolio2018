@@ -1,4 +1,6 @@
 .home-hero-container {
+  text-align: center;
+
   margin-top: 4rem;
 }
 
@@ -9,6 +11,24 @@
   font-weight: 200;
 }
 
+.home-location-wrapper {
+  margin: 2rem 0;
+  display: inline-block;
+}
+
+.home-location {
+  font-weight: 800;
+  text-align: center;
+  letter-spacing: -0.1px;
+  float: left;
+}
+
+.home-location-pin {
+  width: 20px;
+  float: left;
+  margin-right: .5rem;
+}
+
 .home-timeline-container {
   font-weight: 600;
 
@@ -17,7 +37,7 @@
 
 .timeline-wrapper {
   display: inline-block;
-  margin: 8rem auto 4rem;
+  margin: 2rem auto 4rem;
   width: 100%;
 }
 
@@ -186,7 +206,15 @@
 
 @media screen and (min-width: 600px) {
 
+  .home-hero-container {
+    text-align: left;
+  }
+
   .home-intro {
+    text-align: left;
+  }
+
+  .home-location {
     text-align: left;
   }
 
