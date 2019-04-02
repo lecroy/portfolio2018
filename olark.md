@@ -20,7 +20,56 @@ permalink: /olark
 
 <div class="page-body-wrapper">
   <h3 class="page-body-subhead">
-    Brand &amp; Design System
+    Admin Dashboard
+  </h3>
+  <p class="page-body-copy">
+    The dashboard project was my last one at Olark, launching in April 2019. It was a fitting end in some ironic sense, spending my last chapter at the company working on the first thing our customers see after they log in.
+  </p>
+  <p class="page-body-copy">
+    Our goal for the project was to provide more value earlier in the customer's experience. Chiefly, this meant that the dashboard needed to be a desirable destination whether the user had any chat data or not.
+  </p>
+  <p class="page-body-copy">
+    Here's what the existing dashboard looked like. Effectively, it was the navigation all over again, with a little more explanation around the links. Not a lot of value there:
+  </p>
+  <figure class="figure-inline">
+    <img src="img/olark/dashboard-old.png" class="old-dash-img" alt="The previous version of the Dashboard I was tasked with replacing" />
+    <figcaption class="case-study-caption">The old version of the Olark Dashboard was effectively just another nav.</figcaption>
+  </figure>
+  <p class="page-body-copy">
+    To begin, I mapped out a user flow that would demonstrate the value of several features whose usage we knew correlated strongly with trial conversion. Things like reporting and analytics, conversation transcripts and team metrics.
+  </p>
+  <figure class="figure-inline">
+    <img src="img/olark/dash-flow.png" class="dash-flow-img" alt="User flow diagram for the new dashboard" />
+    <figcaption class="case-study-caption">User flow diagram for a better dashboard experience</figcaption>
+  </figure>
+  <p class="page-body-copy">
+    With a path to added value getting clearer, I began prototyping this modular approach that would enable admins to customize their own dashboard, shuffling around the components or removing the ones that weren't as relevant for them.
+  </p>
+  <figure class="figure-inline">
+    <img src="img/olark/dash-wireframe.png" class="dash-wire-img" alt="Wireframe for a modular approach to the Dashboard" />
+    <figcaption class="case-study-caption">Wireframe showing a modular, customizeable approach to the Dashboard</figcaption>
+  </figure>
+  <p class="page-body-copy">
+    After working with the project team to scope the work to a specific number of sprints, we were able to make further refinements based on priority. A user stories spreadsheet helped the team build agreement on what things were musts, and which could be deprioritized if time became a factor.
+  </p>
+  <figure class="figure-pullout">
+    <img src="img/olark/dash-user-stories.png" class="dash-stories-img" alt="Spreadsheet of user stories for the new dashboard" />
+    <figcaption class="case-study-caption">User stories help build agreement on priority</figcaption>
+  </figure>
+  <p class="page-body-copy">
+    As the engineers turned the user stories into tech specs for the initial build, I refined the prototype and showed it to a handful of current customers with a short list of tasks to catch anything we might be overlooking.
+  </p>
+  <p class="page-body-copy">
+    One insight I was able to pull out from those sessions was a strong desire to be able to change the date range that the data on the dashboard would be scoped to. We had chosen 2 weeks as a default, but a lot of folks preferred various ranges for various reasons. I was able to present those findings to the team and eventually get a date range picker option shipped with the beta version. Here's how it looked at rollout:
+  </p>
+
+  <figure class="figure-inline">
+    <img src="img/olark/dash-v2.png" class="dash-finished-img" alt="The dashboard when it launched" />
+    <figcaption class="case-study-caption">The dashboard when it launched in April 2019</figcaption>
+  </figure>
+
+  <h3 class="page-body-subhead">
+    Brand &amp; UI Design System
   </h3>
   <p class="page-body-copy">
     By 2017, Olark had been in business 9 years. With a founding team consisting of engineers only, the brand's look and feel hadn't been given as much attention as other areas of the product.
