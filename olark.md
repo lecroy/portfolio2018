@@ -72,10 +72,10 @@ permalink: /olark
     Brand &amp; UI Design System
   </h3>
   <p class="page-body-copy">
-    By 2017, Olark had been in business 9 years. With a founding team consisting of engineers only, the brand's look and feel hadn't been given as much attention as other areas of the product.
+    By 2017, Olark had been in business 9 years. With a founding team consisting only of engineers, the brand's look and feel hadn't been given as much attention as, well, more engineer-y concerns.
   </p>
   <p class="page-body-copy">
-    To begin we needed a north star to guide our efforts. I put together a Google survey and sent it out to a cross section of coworkers to get a feel for how employees generally perceived Olark as a brand, what our voice was, and how we'd like those things to be perceived in the future.
+    To begin we needed a north star to guide our efforts. I put together a short survey and sent it out to a cross section of coworkers to get a feel for how employees generally perceived Olark as a brand, what our voice was, and how we'd like those things to be perceived in the future.
   </p>
   <p class="page-body-copy">
     From the survey results, I compiled a list of words that people used to describe the kind of company they wanted to work for. When I began tallying words used most often, a theme emerged: <span class="body-copy-strong">Humanity.</span>
@@ -85,7 +85,7 @@ permalink: /olark
     <figcaption class="case-study-caption">Vectorizing the new logo.</figcaption>
   </figure>
   <p class="page-body-copy">
-    When it came to the logo, I wanted to use something hand lettered to capture the human feel, while still keeping some of the flavor of the existing logo.
+    When it came to the logo, I wanted to use something hand lettered to capture the human feel. Stakeholders wanted to keep some of the flavor of the original logo, so we stayed with the speech bubble concept and the subtle upward skew.
   </p>
   <figure class="figure-inline">
     <img src="img/olark/old-vs-new-logo.png" class="olark-logo-compare-img" alt="The old logo and the new one for comparison" width="540" />
