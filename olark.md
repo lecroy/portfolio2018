@@ -23,10 +23,10 @@ permalink: /olark
     Admin Dashboard
   </h3>
   <p class="page-body-copy">
-    The dashboard project was my last one at Olark, launching in April 2019. It was a fitting end in some ironic sense, spending my last chapter at the company working on the first thing our customers see after they log in.
+    The dashboard project was my last one at Olark, launching in April 2019. An ironic end to my time there in some sense, spending my last chapter at the company working on the first thing our customers see after they log in.
   </p>
   <p class="page-body-copy">
-    Our goal for the project was to provide more value earlier in the customer's experience. Chiefly, this meant that the dashboard needed to be a desirable destination whether the user had any chat data or not.
+    Our goal for the project was to provide more value earlier in the customer's experience. Chiefly, this meant that the dashboard needed to be a desirable destination whether the person viewing it had any chat data or not.
   </p>
   <p class="page-body-copy">
     Here's what the existing dashboard looked like. Effectively, it was the navigation all over again, with a little more explanation around the links. Not a lot of value there:
