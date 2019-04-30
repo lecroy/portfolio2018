@@ -126,8 +126,20 @@ permalink: /olark
     <figcaption class="case-study-caption">Vector elements to marry the concepts of business and humanity.</figcaption>
   </figure>
   <p class="page-body-copy">
-    With the main pieces in place, I went on to define styling for typography, buttons, forms, lists, cards, spacing and other aspects. To see the whole system at work, visit <a href="https://www.olark.com" class="paragraph-link">olark.com!</a>
+    With the main pieces in place, I went on to define styling for typography, buttons, forms, lists, cards, spacing and other aspects.
   </p>
+  <h4 class="page-body-interior-subhead">
+    Marketing website
+  </h4>
+  <p class="page-body-copy">
+    Once we had consensus around the new branding, we immediately set to work applying it to a ground-up rebuild and redesign of the marketing website. Here are some of the pages at launch. To see the whole system at work, visit <a href="https://www.olark.com" class="paragraph-link">olark.com!</a>
+  </p>
+  <figure class="figure-inline">
+    <img src="img/olark/marketing-site-home.jpg" class="olark-site-home" alt="Homepage of the olark.com website after the redesign" />
+  </figure>
+  <figure class="figure-inline">
+    <img src="img/olark/marketing-site-features.jpg" class="olark-site-features" alt="Features page of the olark.com website after the redesign" />
+  </figure>
 
 
   <h3 class="page-body-subhead">

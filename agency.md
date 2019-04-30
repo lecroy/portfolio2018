@@ -23,7 +23,7 @@ permalink: /agency
     In the beginning
   </h3>
   <p class="page-body-copy">
-    ...there was art direction. It was 2005 and fresh out of school I got a job in Chicago creating TV commercials at a big ad agency called DDB. It was a dream job for me at that time, but intimidating – I was 25 and surrounded by some of the best comedy writers outside of Hollywood. All my partner Kent and I had to do was write funnier scripts than them, and they'd fly us out to LA to cast, shoot and edit them. And we somehow managed to do that a time or two.
+    ...there was art direction. It was 2005 and fresh out of school I got a job in Chicago creating TV commercials at a big ad agency called DDB. It was a dream job for me at that time, but intimidating – I was 25 and surrounded by some of the best comedy writers outside of Hollywood. All my partner and I had to do was write funnier scripts than them, and they'd fly us out to LA to cast, shoot and edit them. And we somehow managed to do that a time or two.
   </p>
 
   <h4 class="page-body-interior-subhead">
