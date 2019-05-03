@@ -36,14 +36,14 @@ permalink: /olark
     <figcaption class="case-study-caption">The old version of the Olark Dashboard was effectively just another nav.</figcaption>
   </figure>
   <p class="page-body-copy">
-    To begin, I mapped out a user flow that would demonstrate the value of several features whose usage we knew correlated strongly with trial conversion. Things like reporting and analytics, conversation transcripts and team metrics.
+    To begin, I mapped out a user flow that would demonstrate the value of features whose usage we knew correlated strongly with trial conversion. Things like reporting and analytics, and viewing chat transcripts.
   </p>
   <figure class="figure-inline">
     <img src="img/olark/dash-flow.png" class="dash-flow-img" alt="User flow diagram for the new dashboard" />
-    <figcaption class="case-study-caption">User flow diagram for a better dashboard experience</figcaption>
+    <figcaption class="case-study-caption">Early flow diagram for a better dashboard experience</figcaption>
   </figure>
   <p class="page-body-copy">
-    With a path to added value getting clearer, I began prototyping this modular approach that would enable admins to customize their own dashboard, shuffling around the components or removing the ones that weren't as relevant for them.
+    With a path to added value getting clearer, I began prototyping this modular approach that would enable admins to customize their own dashboard, shuffling the components to suit their needs or hiding the ones that weren't as relevant for them.
   </p>
   <figure class="figure-inline">
     <img src="img/olark/dash-wireframe.png" class="dash-wire-img" alt="Wireframe for a modular approach to the Dashboard" />
