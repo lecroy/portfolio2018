@@ -54,7 +54,7 @@ permalink: /olark
   </p>
   <figure class="figure-pullout">
     <img src="img/olark/dash-user-stories.png" class="dash-stories-img" alt="Spreadsheet of user stories for the new dashboard" />
-    <figcaption class="case-study-caption">User stories help build agreement on priority</figcaption>
+    <figcaption class="case-study-caption">Collaborating on user stories helps build agreement on priority</figcaption>
   </figure>
   <p class="page-body-copy">
     As the engineers turned the user stories into tech specs for the initial build, I refined the prototype and showed it to a handful of current customers with a short list of tasks to catch anything we might be overlooking.
