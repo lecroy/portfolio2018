@@ -4,5 +4,26 @@
   margin-bottom: 1rem;
 }
 
+.styleguide-card-example {
+  box-shadow: 0 12px 24px 0 rgba(0,0,0,0.1);
+  text-align: center;
+  padding: 6rem 2rem;
+  width: 320px;
+  border-radius: 22px;
+  position: relative;
+  margin: 2rem 0;
+}
 
-
+.styleguide-card-header {
+  background: #8853c6;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 22px 22px 0 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: .5rem 0;
+}

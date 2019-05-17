@@ -129,6 +129,29 @@ permalink: /olark
     With the main pieces in place, I went on to define styling for typography, buttons, forms, lists, cards, spacing and other aspects.
   </p>
   <h4 class="page-body-interior-subhead">
+    Extensible CSS
+  </h4>
+  <p class="page-body-copy">
+    Our current way of styling things showed the classic signs of different contributors doing things their own ways over the years. As is often the case when many hands are involved, from one repo to the next you might see Sass, Stylus or vanilla CSS.
+  </p>
+  <p class="page-body-copy">
+    We decided to consolidate everything to Stylus and codify the presentational aspects of the styleguide components – colors, shadows, everything except where it goes on the page and the space around it – into base classes.
+  </p>
+  <code class="element-descriptor-code"><span class="code-red">@extends</span> <span class="code-green">$card</span>
+  </code>
+  <br>
+  <code class="element-descriptor-code"><span class="code-blue">box-shadow:</span> <span class="code-purple">$card-shadow</span>
+  </code>
+  <div class="styleguide-card-example">
+    <div class="styleguide-card-header">
+      This is the card title
+    </div>
+    This is the body of the card
+  </div>
+  <p class="page-body-copy">
+    To give designers flexibility within the system, I only included the styles in the base classes that I felt strongly would apply in nearly any layout situation, allowing room for overrides in more specific classes.
+  </p>
+  <h4 class="page-body-interior-subhead">
     Marketing website
   </h4>
   <p class="page-body-copy">

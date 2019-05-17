@@ -201,6 +201,32 @@ iframe {
   font-weight: 200;
 }
 
+.element-descriptor-code {
+  background: $gray50;
+  color: $gray800;
+  border: 0;
+  border-radius: 0;
+
+  padding: .5rem;
+  display: inline-block;
+}
+
+.code-red {
+  color: $red600;
+}
+
+.code-blue {
+  color: $blue600;
+}
+
+.code-green {
+  color: $green600;
+}
+
+.code-purple {
+  color: $purple600;
+}
+
 @media screen and (min-width: 1000px) {
   .figure-pullout {
     float: right;
