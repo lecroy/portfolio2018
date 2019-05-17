@@ -137,10 +137,12 @@ permalink: /olark
   <p class="page-body-copy">
     We decided to consolidate everything to Stylus and codify the presentational aspects of the styleguide components – colors, shadows, everything except where it goes on the page and the space around it – into base classes.
   </p>
-  <code class="element-descriptor-code"><span class="code-red">@extends</span> <span class="code-green">$card</span>
+  <code class="element-descriptor-code"><div class="code-green">$card</div>
   </code>
-  <br>
-  <code class="element-descriptor-code"><span class="code-blue">box-shadow:</span> <span class="code-purple">$card-shadow</span>
+  <br/>
+  <code class="element-descriptor-code code-indented"><div class="code-blue">background-color: <span class="code-purple">white;</span></div>
+    <div class="code-blue">border-radius: <span class="code-purple">22px;</span></div>
+    <div class="code-blue">box-shadow: <span class="code-purple">$card-shadow;</span></div>
   </code>
   <div class="styleguide-card-example">
     <div class="styleguide-card-header">
@@ -148,6 +150,11 @@ permalink: /olark
     </div>
     This is the body of the card
   </div>
+  <code class="element-descriptor-code"><span class="code-red">@extends</span> <span class="code-green">$card</span>
+  </code>
+  <br>
+  <code class="element-descriptor-code bottom-pad"><span class="code-blue">text-align:</span> <span class="code-purple">center;</span>
+  </code>
   <p class="page-body-copy">
     To give designers flexibility within the system, I only included the styles in the base classes that I felt strongly would apply in nearly any layout situation, allowing room for overrides in more specific classes.
   </p>
