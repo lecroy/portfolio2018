@@ -158,19 +158,9 @@ permalink: /olark
   <p class="page-body-copy">
     To give designers flexibility within the system, I only included the styles in the base classes that I felt strongly would apply in nearly any layout situation, allowing room for overrides in more specific classes.
   </p>
-  <h4 class="page-body-interior-subhead">
-    Marketing website
-  </h4>
   <p class="page-body-copy">
-    Once we had consensus around the new branding, we immediately set to work applying it to a ground-up rebuild and redesign of the marketing website. Here are some of the pages at launch. To see the whole system at work, visit <a href="https://www.olark.com" class="paragraph-link">olark.com!</a>
+    Check out our <a href="https://www.olark.com" class="paragraph-link">public style guide</a> or see the whole system at work on <a href="https://www.olark.com" class="paragraph-link">olark.com!</a>
   </p>
-  <figure class="figure-inline">
-    <img src="img/olark/marketing-site-home.jpg" class="olark-site-home" alt="Homepage of the olark.com website after the redesign" />
-  </figure>
-  <figure class="figure-inline">
-    <img src="img/olark/marketing-site-features.jpg" class="olark-site-features" alt="Features page of the olark.com website after the redesign" />
-  </figure>
-
 
   <h3 class="page-body-subhead">
     Rethinking Billing
