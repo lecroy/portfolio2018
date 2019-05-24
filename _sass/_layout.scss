@@ -164,6 +164,12 @@ iframe {
   }
 }
 
+.figure-pullout-shure {
+  @extend .figure-pullout;
+
+  display: none;
+}
+
 .figure-inline {
   margin-bottom: 2rem;
   max-width: 540px;
@@ -239,12 +245,23 @@ iframe {
 @media screen and (min-width: 1000px) {
   .figure-pullout {
     float: right;
+    clear: both;
     margin-bottom: 0;
+    margin-top: 2rem;
     max-width: 400px;
 
     figcaption {
       max-width: 400px;
     }
+
+    &:first-of-type {
+      margin-top: 0;
+    }
+  }
+
+  .figure-pullout-shure {
+    display: block;
+    max-width: 280px;
   }
 }
 

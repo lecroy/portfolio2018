@@ -63,6 +63,18 @@ permalink: /agency
   </div>
 
   <h4 class="page-body-interior-subhead">
+    Special Olympics
+  </h4>
+
+  <p class="page-body-copy">
+    Susie Doyens was afraid to speak until she found her confidence through golf. I'm proud to have been a part of telling her story in this spot for Special Olympics with Director Martin Rodahl.
+  </p>
+
+  <div class="iframe-wrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bU3RrrpzVec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
+  <h4 class="page-body-interior-subhead">
     Premier Dermatology
   </h4>
 
@@ -83,6 +95,19 @@ permalink: /agency
   <figure class="figure-inline">
     <img src="img/premier_derm/3_PREMIER_ref.jpg" class="premier-ref-img" alt="An unqualified referee" />
     <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
+  <figure class="figure-pullout-shure">
+    <img src="img/shure/shure1.jpg" class="korte-retro2-img" alt="Retro ad for Korte construction company" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+  <figure class="figure-pullout-shure">
+    <img src="img/shure/shure2.jpg" class="korte-retro2-img" alt="Retro ad for Korte construction company" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+  <figure class="figure-pullout-shure">
+    <img src="img/shure/shure3.jpg" class="korte-retro2-img" alt="Retro ad for Korte construction company" />
+    <figcaption class="case-study-caption">Campaign for the Shure SM-58 microphone<br/> Hardcore!</figcaption>
   </figure>
 
   <h4 class="page-body-interior-subhead">
