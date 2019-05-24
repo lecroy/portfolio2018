@@ -85,6 +85,25 @@ permalink: /agency
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
+  <h4 class="page-body-interior-subhead">
+    Korte Construction
+  </h4>
+
+  <figure class="figure-inline">
+    <img src="img/korte/korte-retro1.jpg" class="korte-retro1-img" alt="Retro ad for Korte construction company" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
+  <figure class="figure-inline">
+    <img src="img/korte/korte-retro2.jpg" class="korte-retro2-img" alt="Retro ad for Korte construction company" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+
+  <figure class="figure-inline">
+    <img src="img/korte/korte-retro3.jpg" class="korte-retro3-img" alt="Retro ad for Korte construction company" />
+    <figcaption class="case-study-caption">A campaign for Korte Construction. They were getting into green building methods and wanted a cheeky campaign to show they they would even recycle their "old ads".</figcaption>
+  </figure>
+
   <nav class="case-study-end-nav">
     <a href="/ofa" class="case-study-previous-link">
       <div class="next-link-timespan">
