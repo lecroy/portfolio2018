@@ -61,10 +61,22 @@
   display: inline-block;
   position: relative;
   padding: 2rem;
-  transition: all .3s ease-in-out;
+  transition: all .25s;
 
   &:hover > .hover-image-block {
     opacity: 1;
+  }
+
+  &:hover > .timespan-wrapper > .timespan {
+    color: black;
+  }
+
+  &:hover > .attr-wrapper > .timeline-block-title {
+    color: black;
+  }
+
+  &:hover > .attr-wrapper > .timeline-block-subhead {
+    color: black;
   }
 }
 
@@ -96,14 +108,13 @@
 .olark-block {
   color: white;
   background-image: linear-gradient(-225deg, #4398DE 0%, #ACD5FB 100%);
-  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
 }
 
 .hover-image-block {
   border-radius: 6px;
-  background-blend-mode: multiply;
   background-size: cover;
   background-repeat: no-repeat;
+  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.40);
   transition: all .25s;
 
   width: 100%;
@@ -116,48 +127,44 @@
   cursor: pointer;
 
   &.olark-hover-img {
-    background-image: linear-gradient(-225deg, #4398DE 0%, #ACD5FB 100%), url('/img/index/bw-test.jpg');
+    background-image: url('/img/index/bw-test.jpg');
   }
 
   &.enso-hover-img {
-    background-image: linear-gradient(-225deg, #5EA83C 0%, #A2D48B 100%), url('/img/index/enso-bw.jpg');
+    background-image: url('/img/index/enso-bw.jpg');
   }
 
   &.ofa-hover-img {
-    background-image: linear-gradient(-225deg, #E48600 0%, #FFBD60 100%), url('/img/index/ofa-bw.jpg');
+    background-image: url('/img/index/ofa-bw.jpg');
   }
 
   &.freelance-hover-img {
-    background-image: linear-gradient(-225deg, #6C37A7 0%, #B98BEE 100%), url('/img/index/hillary-bw.jpg');
+    background-image: url('/img/index/hillary-bw.jpg');
   }
 
   &.agency-hover-img {
-    background-image: linear-gradient(-225deg, #CE1F21 0%, #F4787C 100%), url('/img/index/agency-bw.jpg');
+    background-image: url('/img/index/agency-bw.jpg');
   }
 }
 
 .freelance-block {
   color: white;
   background-image: linear-gradient(-225deg, #6C37A7 0%, #B98BEE 100%);
-  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
 }
 
 .enso-block {
   color: white;
   background-image: linear-gradient(-225deg, #5EA83C 0%, #A2D48B 100%);
-  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
 }
 
 .ofa-block {
   color: white;
   background-image: linear-gradient(-225deg, #E48600 0%, #FFBD60 100%);
-  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
 }
 
 .agency-block {
   color: white;
   background-image: linear-gradient(-225deg, #CE1F21 0%, #F4787C 100%);
-  box-shadow: 0 12px 24px 0 rgba(178,170,170,0.50);
 }
 
 .timeline-block-text-wrapper {

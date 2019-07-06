@@ -1,9 +1,13 @@
 .site-footer {
   padding-bottom: 3rem;
-  text-align: center;
+  text-align: left;
 }
 
-.footer-link {
+.footer-link a {
   color: $gray900;
   text-align: left;
+
+  &:hover {
+    opacity: .8;
+  }
 }
