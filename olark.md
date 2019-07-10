@@ -10,10 +10,10 @@ permalink: /olark
     <h1 class="word">Olark</h1>
   </div>
   <h6 class="page-subhead-timespan">
-    2014 - present
+    2014 - 2019
   </h6>
   <h6 class="page-subhead-responsibilities">
-    Product Design, Visual Design &amp; Branding
+    Sr. Product Designer
   </h6>
 </div>
 
@@ -159,35 +159,9 @@ permalink: /olark
     To give designers flexibility within the system, I only included the styles in the base classes that I felt strongly would apply in nearly any layout situation, allowing room for overrides in more specific classes.
   </p>
   <p class="page-body-copy">
-    Check out our <a href="https://www.olark.com" class="paragraph-link">public style guide</a> or see the whole system at work on <a href="https://www.olark.com" class="paragraph-link">olark.com!</a>
+    Check out our <a href="https://www.olark.com" class="paragraph-link">public style guide</a> or see the whole system at work on <a href="https://www.olark.com" class="paragraph-link">olark.com</a>
   </p>
 
-  <h3 class="page-body-subhead">
-    Rethinking Billing
-  </h3>
-  <p class="page-body-copy">
-    There's no more sensitive part of an app you can touch than the system that charges your customers money. You can play fast and loose with just about anything else and only receive mild frustration if something goes unaccounted for. Overcharge a customer by accident, and you risk being perceived as a dishonest swindler. And word travels fast.
-  </p>
-  <p class="page-body-copy">
-    When I arrived at Olark in 2014, Olark was using a simple rails app to handle billing. There soon came a desire to allow customers more options and flexibility over their live chat team and plan. This is a screen grab I took of the billing app circa that time:
-  </p>
-  <figure class="figure-inline">
-    <img src="img/olark/billing-before.png" class="olark-billing-before" alt="Screen grab of the billing app circa 2014" />
-    <figcaption class="case-study-caption">The Olark billing app, circa 2014. Simple, but inflexible.</figcaption>
-  </figure>
-  <p class="page-body-copy">
-    Customers had little control over what they were paying us each month. They could pick from four different tiers of pricing, each allowing a fixed number of agents on the chat team, and some elevated features for the more premium tiers.
-  </p>
-  <p class="page-body-copy">
-    What we found our customers wanted was more flexibility. They didn't want to pay for empty seats on their plan that they weren't using. We decided to move to a per-agent billing system, where an Olark team would be billed for only the agent seats they were using.
-  </p>
-  <p class="page-body-copy">
-    We also decided to offer a discount for a longer commitment. Paying monthly would cost a little more than paying for a year or two years at a time. Once that was decided, the project specs began to take shape. We would offer two simple choices for each plan: how many agent seats they'd like, and how often they'd like to pay. In addition, we needed to surface some valuable information that support was getting bogged down with: How many seats weren't being used, when the next billing cycle began, and the amount that would be charged at that time.
-  </p>
-  <figure class="figure-inline">
-    <img src="img/olark/billing-after.png" class="olark-billing-after" alt="Screen grab of the billing app circa 2018" />
-    <figcaption class="case-study-caption">The billing app after redesign.</figcaption>
-  </figure>
   <h3 class="page-body-subhead">
     Building out a platform
   </h3>
