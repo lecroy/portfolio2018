@@ -35,7 +35,7 @@ permalink: /freelance
   </figure>
 
   <p class="page-body-copy">
-    My homepage ideas didn't end up getting used, but the donation flow styling made it in to become the first iteration. Shortly to follow, HFA began hiring an amazing design team which took over and created a gorgeous visual campaign for candidate Clinton, and my work faded into history, but I am proud to have made some small mark on her historic run for President. Here is some of the work I delivered.
+    My homepage ideas didn't end up getting used, but the donation flow was built out as the first iteration. Shortly to follow, Hillary for America began onboarding an amazing design team which took over and created a gorgeous visual campaign for candidate Clinton. My work would rightfully fade into history soon thereafter, but I'm proud to have made some small mark on her historic run for President. Here's some of the work I delivered.
   </p>
   <figure class="figure-inline">
     <img src="img/freelance/hillary-hero-section.jpg" class="hillary-hero-img" alt="Concept image for Hillary Clinton's website" />
