@@ -23,10 +23,10 @@ permalink: /freelance
     Hillary for America
   </h3>
   <p class="page-body-copy">
-    In early 2013, before Hillary Clinton had officially announced her candidacy for President in the upcoming 2014 election, some friends from my time at The Obama campaign reached out looking for some design help to launch her campaign.
+    In the run-up to Hillary Clinton's official declaration for candidacy in the upcoming Presidential election, some friends from my time at The Obama campaign reached out looking for some design help to launch her campaign.
   </p>
   <p class="page-body-copy">
-    Working under the project management of Laura Olin at Precision Strategies, I was tasked with delivering some look-and-feel concepts for her official homepage, as well as providing some visual styling for the site's donation flow. There were loose ideas being floated for content strategy but nothing had been made official yet, so the exploration was fairly blue-sky at that point.
+    Working under the project management of Laura Olin at Precision Strategies, I was tasked with delivering some look-and-feel concepts for her official homepage and donation flow. There were loose ideas being floated for content strategy but nothing had been made official yet, so the exploration was fairly blue-sky at that point.
   </p>
 
   <figure class="figure-inline">
