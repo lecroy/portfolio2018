@@ -25,16 +25,17 @@
 }
 
 .homepage-animation {
-  top: 40px;
+  top: 20px;
   z-index: 0;
   position: absolute;
-  right: 36px;
+  right: 52px;
   margin: auto;
   text-align: center;
+  transform: rotate(-120deg);
 }
 
 .homepage-animation-gif {
-  width: 160px;
+  width: 200px;
   position: relative;
 }
 
