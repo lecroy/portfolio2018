@@ -20,7 +20,7 @@ permalink: /olark
 
 <div class="page-body-wrapper">
   <h3 class="page-body-subhead">
-    Admin Dashboard
+    Dashboard
   </h3>
   <p class="page-body-copy">
     The dashboard project was my last one at Olark, launching in April 2019. An ironic end to my time there in some sense, spending my last chapter at the company working on the first thing our customers see after they log in.
