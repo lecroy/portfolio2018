@@ -169,7 +169,7 @@ permalink: /olark
     Olark is a simple yet powerful tool for chatting with visitors on your website, but in order to me more useful to people, it needed to fit into existing workflows. Many of our customers use CRM tools like Salesforce and Zendesk to manage customer relationships over time, and a chat transcript with a customer helps add valuable context to those cases and leads.
   </p>
   <p class="page-body-copy">
-    For most of 2016, I worked on Olark's Integrations Team to build out the number and quality of our connections to third party apps, and was tasked with creating an interface for the full catalog of connections and how someone might configure them, manage them and better understand their value.
+    For most of 2016, I worked on Olark's Integrations Team to build out the number and quality of our connections to third party apps, and was tasked with creating an interface for the full catalog of connections and how our customers would configure them, manage them and better understand their value.
   </p>
   <figure class="figure-pullout">
     <img src="img/olark/integrations-flow.png" class="olark-integrations-flow" alt="Sketch showing a user flow for connecting integrations" />
