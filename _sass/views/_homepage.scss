@@ -1,5 +1,5 @@
 .home-hero-container {
-  margin-top: 4rem;
+  margin-top: 6rem;
 }
 
 .home-intro {
@@ -9,14 +9,17 @@
   font-weight: 200;
 }
 
-.home-location-wrapper {
-  margin: 0 0 2rem;
-  display: inline-block;
+.home-intro-copy {
+  max-width: 600px;
+  font-family: $avenir;
+  font-weight: 200;
+  font-size: 1.2em;
+  line-height: 1.5;
 }
 
 .home-location {
   font-weight: 400;
-  font-family: 'Decima mono', Helvetica, sans-serif;
+  font-family: $decima;
   text-align: center;
   letter-spacing: -0.1px;
   float: left;
