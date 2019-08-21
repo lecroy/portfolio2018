@@ -179,14 +179,14 @@ permalink: /olark
     Customers had little control over what they were paying us each month. They could pick from four different tiers of pricing, each allowing a fixed number of agents on the chat team, and some elevated features for the more premium tiers.
   </p>
   <p class="page-body-copy">
-    What we found our customers wanted was to pay for only what they were using, rather than prearranged batches of features and agent seats they weren't using. We decided to move to a per-agent billing system, where a customer could decide only two things: how many agents they wanted and how often they wanted to be billed. Everything else would just work.
+    What we found our customers wanted was to pay for only what they were using, rather than prearranged batches of features and agent seats they weren't using. We decided to move to a per-agent billing system, where a customer would needed only make two decisions: how many agents they wanted and how often they wanted to be billed. Everything else would just work.
   </p>
   <figure class="figure-inline">
     <img src="img/olark/billing-wire.png" class="olark-billing-wire" alt="Wireframe of the new per-agent billing concept" />
     <figcaption class="case-study-caption">Wireframe showing an early look at proposed functionality.</figcaption>
   </figure>
   <p class="page-body-copy">
-    We also decided to offer a discount for a longer commitment. Paying monthly would cost a little more than paying for a year or two years at a time. Once that was decided, the project specs began to take shape. We would offer two simple choices for each plan: how many agent seats they'd like, and how often they'd like to pay. In addition, we needed to surface some valuable information that support was getting bogged down with: How many seats weren't being used, when the next billing cycle began, and the amount that would be charged at that time.
+    We also decided to offer a discount for a longer commitment. Paying monthly would cost a little more than paying for a year or two years at a time. In addition, we wanted to surface valuable information that our CS team was getting bogged down with: How many seats weren't being used, when the next billing cycle began, and the amount that would be charged at that time.
   </p>
   <figure class="figure-inline">
     <img src="img/olark/billing-after.png" class="olark-billing-after" alt="Screen grab of the billing app circa 2018" />
