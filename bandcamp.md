@@ -96,7 +96,7 @@ permalink: /bandcamp
     <figcaption class="case-study-caption"></figcaption>
   </figure>
   <p class="page-body-copy">
-    And that's that! I'm sure some of this thinkng is naive to business and/or technical constraints, but knowing only what I know, I think it's a step in the right direction. I really enjoyed thinking through this! Cheers.
+    And that's that! I'm sure some of this thinking is naive to business and/or technical constraints, but knowing only what I know, I think it's a step in the right direction. I really enjoyed thinking through this! Cheers.
   </p>
   <nav class="case-study-end-nav">
     <a href="/" class="case-study-previous-link">
