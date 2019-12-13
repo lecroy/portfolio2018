@@ -82,6 +82,13 @@ permalink: /bandcamp
     By grouping the instant results in the dropdown together by type (artists, albums, labels), with the top result shown by default, we allow users to quickly access the type of content they're looking for, rather than sifting through all categories and results mashed together.
   </p>
   <p class="page-body-copy">
+    If a genre is searched for, say "Rock", we can use a similar pattern to lead to the genre exploration (Discover filtered by Rock), as well as results grouped by artist, album or label. Showing results that contain the string "rock" is less helpful in the search dropdown, but could be accessed and browsed as a separate category:
+  </p>
+  <figure class="figure-inline">
+    <img src="img/bandcamp/search-genre.png" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+  <p class="page-body-copy">
     The results view could then be separated by type, perhaps using tabs, and the results below treated in the same grid style as the discover results, marrying the two conceptually. The flow might look something like this:
   </p>
   <figure class="figure-inline">
