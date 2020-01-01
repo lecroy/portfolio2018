@@ -148,6 +148,12 @@ iframe {
   }
 }
 
+.figure-inline-wider {
+  img {
+    @extend .photo-treatment;
+  }
+}
+
 .figure-pullout {
   margin-bottom: 4rem;
   max-width: 540px;
@@ -173,6 +179,11 @@ iframe {
 .figure-inline {
   margin-bottom: 2rem;
   max-width: 540px;
+}
+
+.figure-inline-wider {
+  margin-bottom: 2rem;
+  max-width: 800px;
 }
 
 .paragraph-link {
