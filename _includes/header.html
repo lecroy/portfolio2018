@@ -22,6 +22,9 @@
             // src: '/public/example.riv',
             canvas: document.getElementById("canvas"),
             autoplay: true,
+            onLoad: () => {
+              r.resizeDrawingSurfaceToCanvas();
+            },
         });
     </script>
     </div>
