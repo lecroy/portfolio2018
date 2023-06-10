@@ -14,7 +14,18 @@
     </span>
     <img src="img/index/head-shape.svg" class="thl-head-shape" />
     <div class="homepage-animation">
-      <img src="img/homepage-animation.gif" class="homepage-animation-gif"/>
+      <canvas id="canvas" width="300" height="300"></canvas>
+
+      <script>
+        new rive.Rive({
+            src: "https://cdn.rive.app/animations/vehicles.riv",
+            // Or the path to a public Rive asset
+            // src: '/public/example.riv',
+            canvas: document.getElementById("canvas"),
+            autoplay: true,
+            stateMachines: "bumpy",
+        });
+    </script>
     </div>
 
   </div>
