@@ -147,67 +147,25 @@ permalink: /mural
     <img src="img/mural/prototyping.png" class="mural-prototyping" alt="A group of three Figma prototypes" />
     <figcaption class="case-study-caption">Prototyping in Figma to find what feels right and what doesn't</figcaption>
   </figure>
+  <p class="page-body-copy">
+    With the ability to interact and iterate with prototypes, we zeroed in on an interactive checklist that would live in the canvas when the new user lands for the first time. The items on the list were the ones that helped new users get acquainted and begin building a mural they were proud of, while kicking the tires and exploring at their own pace. They were also actions that correlated strongly with retention.
+  </p>
   <figure class="figure-inline">
     <img src="img/mural/mural-onboarding-final.png" class="mural-final-onboarding" alt="The finished onbaording checklist" />
     <figcaption class="case-study-caption">The final product: An answer to "What next?"</figcaption>
   </figure>
   <p class="page-body-copy">
-    In part 2 of the exercise, we'll design a new version of the dashboard to include some insight into team activity on murals and rooms, with the goal of increasing weekly engagement, and while we're at it, why not try and address some of the potential improvements from part 1.
+    The experiment proved effective, increasing 1-day retention by nearly 29%, and 1-week retention by 11%.
   </p>
-  <p class="page-body-copy">
-    I first needed to work out where in the layout an activity feed would make the most sense. Rather than hide the activity away, to be shown on a click or some other interaction, I decided to display a feed of team activity by default that could be hidden away if users were doing heads-down work or simply didn't want to see it at any time.
-  </p>
-  <p class="page-body-copy">
-    My sense was that a horizontal layout would make it difficult to read through, so I was down to two vertical layout options for the feed - one on the left side of the murals and the other on the right. I decided to try the feed on the right so that it wouldn't compete with the main navigation sidebar.
-  </p>
-  <figure class="figure-inline">
-    <img src="img/mural/news-feed-placement.png" class="news-feed-img" alt="Placement options for a team activity feed" />
-    <figcaption class="case-study-caption">I decided on a vertical layout for the team activity feed, placed on the opposite side of the main navigation sidebar.</figcaption>
-  </figure>
-  <p class="page-body-copy">
-    Based on what I know about how teams work together on Mural, I next to document which team activities a user might find value in knowing. To answer the brief, I need to focus on surfacing relevant activity on murals and rooms, and ultimately decided a user should be notified when a teammate:
-    <br/>
-    <br/>
-    • Creates a new open room
-    <br/>
-    • Creates a new mural in a room you belong to
-    <br/>
-    • Leaves comments on a mural you belong to
-    <br/>
-    • Responds to your comment
-    <br/>
-    • Invites you to a workspace, room or mural
-    <br/>
-    • Invites someone else to a room or mural you belong to
-    <br/>
-    • Archives, moves, renames or deletes a room or mural you belong to
-  </p>
-  <p class="page-body-copy">
-    It also occurred to me that a feed including all those activity types might become too noisy for some, or might contain a lot of information they may not be interested in. I made a note to try a solution with some abilty to configure the type of news that would appear in the feed.
-  </p>
-  <p class="page-body-copy">
-    One approach to satisfy the business goal of increased weekly engagement is to send out an emailed digest of activity, perhaps defaulted to once weekly. If users know there are conversations waiting for them or invitations to accept, it would be a strong incentive to open the app and complete those tasks.
-  </p>
-  <figure class="figure-inline">
-    <img src="img/mural/team-activity-options.png" class="options-img" alt="Content options for a team activity feed" />
-    <figcaption class="case-study-caption">Users might be able to choose which kinds of activity are most relevant to them.</figcaption>
-  </figure>
-  <p class="page-body-copy">
-    Here's a final mockup of everything put together, along with a link to the Figma board if you want to look around and click through the prototypes:
-  </p>
-  <figure class="figure-inline-wider">
-    <img src="img/mural/dashboard-static.png" width="800" class="options-img" alt="new dashboard concept for Mural" />
-    <figcaption class="case-study-caption">New dashboard concept for MURAL</figcaption>
-  </figure>
   <nav class="case-study-end-nav">
     <a href="/" class="case-study-previous-link">
       Home
     </a>
-    <a href="/freelance" class="case-study-next-link freelance-next-link">
+    <a href="/olark" class="case-study-next-link freelance-next-link">
       <div class="next-link-timespan">
-        2013-2014
+        2014-2019
       </div>
-      Freelance
+      Olark
     </a>
   </nav>
 </div>
