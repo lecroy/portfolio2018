@@ -123,21 +123,15 @@ permalink: /mural
     <figcaption class="case-study-caption">Sink or swim Mr. Travolta</figcaption>
   </figure>
   <p class="page-body-copy">
-    I also wondered if, rather than writing "Created by John Doe" next to the title, we might be able to represent the room creator visually.
-  </p>
-  <h4 class="page-body-interior-subhead">
-    Component 3: Main canvas
-  </h4>
-  <p class="page-body-copy">
-    In the main body of the dashboard view we see our murals organized as tiles. On my laptop, the tiles were 4-up, with one fo the four on the top row occupied by the "create a new mural" tile/button.
+    Based on what I'd discovered, my hypothesis was “We believe if we recommend next steps to new creators entering their first mural, they will create a mural they want to share during onboarding, and therefore reach the Setup Moment on day 1.”
+
+    We'd measure success based on an increase of new creators reaching Setup on day 1 by 10%; with 1-day and 1-week retention serving as secondary success metrics.
+
+    The next step was to identify many different ways to move the needle on those metrics, and weight their trade-offs.
   </p>
   <figure class="figure-pullout">
-    <img src="img/mural/mural-tooltip.gif" class="mural-img" alt="tooltip behavior" />
-    <figcaption class="case-study-caption"></figcaption>
-  </figure>
-  <figure class="figure-pullout">
-    <img src="img/mural/mural-tooltip-2.gif" class="mural-img" alt="tooltip behavior" />
-    <figcaption class="case-study-caption">Inconsistent tooltip behavior</figcaption>
+    <img src="img/mural/onboarding-brainstorm.png" class="mural-onboarding-brainstorm" alt="A brainstorm canvas" />
+    <figcaption class="case-study-caption">When I set up a brainstorm, I'm looking to tell a story with the pieces of the discovery work I find most insightful.</figcaption>
   </figure>
   <p class="page-body-copy">
     My immediate reaction was that it would be interesting to explore the trade-offs of showing the preview tiles larger, at the expense of seeing fewer on screen at one time. As I interacted with the tiles, it made me further wish for more space, not only to show more of a visual preview of the mural board, but to have more room for text and information. The preview function there now feels inconsistent with other info tooltips.
