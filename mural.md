@@ -116,11 +116,11 @@ permalink: /mural
     <figcaption class="case-study-caption">81% of new signups create a mural within 1 day, but only 65% add content to the mural.</figcaption>
   </figure>
   <p class="page-body-copy">
-    My reaction to this was that things might be grouped more contextually. The room description, or "purpose" should be visually paired with the title, and search and filtering functions should live together as well, rather than search by itself up top.
+    I had some quantitative data to go on related to user activities correlated with retention, which would help inform a solution eventually, but a simple heuristic review of the onboarding process revealed a glaring clue: We weren't answering the question "What now?" at the end of our onboarding flow. It was a very sink-or-swim feeling.
   </p>
   <figure class="figure-inline">
-    <img src="img/mural/current-top-bar.png" class="mural-img" alt="Current MURAL top bar" />
-    <figcaption class="case-study-caption">The top bar works well enough, but could make better use of space and group elements more contextually.</figcaption>
+    <img src="img/mural/travolta.gif" class="mural-onboarding-travolta" alt="A gif of John Travolta wondering what's going on" />
+    <figcaption class="case-study-caption">Sink or swim Mr. Travolta</figcaption>
   </figure>
   <p class="page-body-copy">
     I also wondered if, rather than writing "Created by John Doe" next to the title, we might be able to represent the room creator visually.
