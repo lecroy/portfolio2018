@@ -22,15 +22,16 @@ permalink: /mural
   <h3 class="page-body-subhead">
     Redesigning signup
   </h3>
+  <figure class="figure-pullout">
+    <img src="img/mural/taylor-arr.svg" width="400" class="mural-arr" alt="Image showing ARR increase after I was hired (and the pandemic started)" />
+    <figcaption class="case-study-caption">*Also the start of the pandemic, but who's to say what had the bigger impact on ARR?
+    </figcaption>
+  </figure>
   <p class="page-body-copy">
     In Spring 2021, Mural was growing quickly. The pandemic had accellerated remote work and all of a sudden everyone needed a digital whiteboard to keep collaboration flowing on their newly distributed teams. The moment called for something big. Internally, we began working toward what we called "lightning strike" moments - big upcoming releases to wow our users and announce ourselves as first-class tool in the newly coined category of Collaborative Intelligence. 
     
     In my corner of the product - Growth and Acquisition - this meant managing the bridge between marketing and the users' first product experience. Specifically, we needed to iterate on the existing signup flow to align with a company-wide brand & product refresh, with a focus on delightful moments.
   </p>
-  <figure class="figure-pullout">
-    <img src="img/mural/taylor-arr.svg" width="400" class="mural-arr" alt="Image showing ARR increase after I was hired (and the pandemic started)" />
-    <figcaption class="case-study-caption">*Also the start of the pandemic, but who's to say what had the bigger impact on ARR?</figcaption>
-  </figure>
   <h4 class="page-body-interior-subhead">
     The problem
   </h4>
