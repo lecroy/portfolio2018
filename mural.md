@@ -134,11 +134,11 @@ permalink: /mural
     <figcaption class="case-study-caption">When I set up a brainstorm, I'm looking to tell a story with the pieces of the discovery work I find most insightful.</figcaption>
   </figure>
   <p class="page-body-copy">
-    My immediate reaction was that it would be interesting to explore the trade-offs of showing the preview tiles larger, at the expense of seeing fewer on screen at one time. As I interacted with the tiles, it made me further wish for more space, not only to show more of a visual preview of the mural board, but to have more room for text and information. The preview function there now feels inconsistent with other info tooltips.
+    A colleague once explained his view of product design process, saying "You're always either making a mess, or cleaning one up." In this case, it was now time to clean up the mess of sticky notes and sketches we had on our brainstorm canvas, and start to synthesize the output. I tyically do this by grouping similar ideas and themes and then putting a low fidelity mockup against each. This allows for a followup discussion about what will most likely move the needle with as little cost as possible.
   </p>
   <figure class="figure-inline">
-    <img src="img/mural/current-main-canvas.png" class="mural-img" alt="Current MURAL top bar" />
-    <figcaption class="case-study-caption">The top bar works well enough, but could make better use of space and group elements more contextually.</figcaption>
+    <img src="img/mural/brainstorm-synthesis.png" class="mural-brainstorm-synthesis" alt="Organizing the brainstorm output into themes" />
+    <figcaption class="case-study-caption">Organizing the brainstorm output into themes</figcaption>
   </figure>
   <p class="page-body-copy">
     In addition, while I see the merit in styling the create new mural button like the murals, I feel like it's getting lost somewhat because it blends in so well. I wondered about the tradeoffs of dedicating the entire space to mural tiles.
