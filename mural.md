@@ -98,15 +98,23 @@ permalink: /mural
   <p class="page-body-copy">
     While I ended up leaving Mural before this work shipped as part of the company-wide rebrand, and thus can't speak to it's impact, I'm proud of where we ended up and think the flow looks fantastic in production today. It lives up to the promise of the brand and website and keeps the user engaged and interested as the product makes its ever-important first impression.
   </p>
+  <h3 class="page-body-subhead">
+    Onboarding refresh
+  </h3>
+  <p class="page-body-copy">
+    Another project I'm proud of from my Mural years is the work we did to get new workspace creators to the Setup Moment – defined as “Creating a new mural with relevant content” – earlier in their journey.
+  </p>
   <h4 class="page-body-interior-subhead">
-    Component 2: Top bar
+    The problem
   </h4>
   <p class="page-body-copy">
-    My attention shifted next to the top area of the dashboard interface. There's a top stripe with the Title aligned left and an Invite/Share button, search, and question mark icon aligned right. Beneath that, there's a grey bar that houses a room description and filtering options.
-  </p>
-  <p class="page-body-copy">
-    When in a room, there's a caret to the right of the room name which shows some options that can be taken on the room, and a 'person' icon to the right showing how many people have been invited to the room.
-  </p>
+    The data told us that 81% of new signups created a mural within their first day, but only 65% added content to the mural. The opportunity here as I saw it was to better enable new creators to put together a mural they were proud to share, faster.
+
+    This needed to be more than just making the share button bigger or adding a standard product tour. It wasn't enough to make sharing easy – creators had to want to share their mural. And in order to achieve that state, they needed to be proud of what they were sharing.
+  <figure class="figure-inline">
+    <img src="img/mural/onboarding-problem.png" class="mural-onboarding-problem" alt="Sticky notes showing the dropoff after signup" />
+    <figcaption class="case-study-caption">81% of new signups create a mural within 1 day, but only 65% add content to the mural.</figcaption>
+  </figure>
   <p class="page-body-copy">
     My reaction to this was that things might be grouped more contextually. The room description, or "purpose" should be visually paired with the title, and search and filtering functions should live together as well, rather than search by itself up top.
   </p>
