@@ -168,7 +168,6 @@ permalink: /mural
       Olark
     </a>
   </nav>
-</div>
 
 
 
