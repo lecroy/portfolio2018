@@ -75,14 +75,17 @@
   }
 
   &:hover > .timespan-wrapper > .timespan {
+    transition: all .25s;
     color: black;
   }
 
   &:hover > .attr-wrapper > .timeline-block-title {
+    transition: all .25s;
     color: black;
   }
 
   &:hover > .attr-wrapper > .timeline-block-subhead {
+    transition: all .25s;
     color: black;
   }
 }
@@ -152,7 +155,7 @@
 
 .mural-block {
   color: white;
-  background-image: linear-gradient(-225deg, #4398DE 0%, #ACD5FB 100%);
+  background-image: linear-gradient(108.92deg, #45474D 0%, #7E8385 100%);
 }
 
 .olark-block {

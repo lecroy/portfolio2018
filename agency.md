@@ -7,7 +7,7 @@ permalink: /agency
 <div class="page-hero-wrapper">
   <div class="slideshow">
     <div class="slide__bg slide__bg--8"></div>
-    <h1 class="word">Advertising</h1>
+    <h1 class="word">Agency work</h1>
   </div>
   <h6 class="page-subhead-timespan">
     2005-2011
