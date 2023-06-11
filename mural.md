@@ -150,7 +150,6 @@ permalink: /mural
     <img src="img/mural/dashboard-static.png" width="800" class="options-img" alt="new dashboard concept for Mural" />
     <figcaption class="case-study-caption">New dashboard concept for MURAL</figcaption>
   </figure>
-  <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FsE892MpfTsloXHv35pgSJ2%2FMural%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
   <nav class="case-study-end-nav">
     <a href="/" class="case-study-previous-link">
       Home
