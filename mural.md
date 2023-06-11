@@ -77,8 +77,12 @@ permalink: /mural
     <figcaption class="case-study-caption">A visual metaphor started to emerge</figcaption>
   </figure>
   <p class="page-body-copy">
-    Creating a new room of each type further gave me hope that the lists could become one, as I noticed the modal shown was identical for public and open, except for defaulting to the privacy type selected.
+    Next, we needed to finalize the visual hierarchy. In our case, grounding the illustration at the bottom of the viewport made conceptual sense with the chair metaphor, and allowed for easy adaptation to a single-column mobile layout.
   </p>
+  <figure class="figure-inline">
+    <img src="img/mural/chairs-hierarchy.png" class="mural-chairs-hierarchy" alt="Final layout with form centered and chairs at the bottom" />
+    <figcaption class="case-study-caption">Grounding the illustration makes conceptual sense, and centers the form as the hero</figcaption>
+  </figure>
   <p class="page-body-copy">
     Regarding the modal itself, I saw a potential improvement in that the open room modal has a tooltip that looks alarming and can't be dismissed. It's putpose is to convey what Mural means by an "Open" room type. I also noticed the interaction pattern for selecting a room type is a dropdown with only two options. In most cases I find there is a better option for the interaction and made a note to try it out in my prototype.
   </p>
