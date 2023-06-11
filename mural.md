@@ -56,7 +56,7 @@ permalink: /mural
     The approach
   </h4>
   <figure class="figure-pullout">
-    <img src="img/mural/compositions-png" class="mural-compositions" alt="Sketches of potential compositions of the signup form" />
+    <img src="img/mural/compositions.png" class="mural-compositions" alt="Sketches of potential compositions of the signup form" />
     <figcaption class="case-study-caption">Composition studies
     </figcaption>
   </figure>
@@ -70,8 +70,12 @@ permalink: /mural
     <figcaption class="case-study-caption">Working on voice and tone, and learning from previous efforts</figcaption>
   </figure>
   <p class="page-body-copy">
-    Beneath the top five links, I see rooms divided into two categories: Private and Open. I noticed from the screen shot provided in the brief that Celeste's dashboard view had a lot of overflow in these sections, and that once a certain number of rooms was reached, the list collapsed into an accordion that could be expanded back out with a button. I wondered if somehow the lists could be condensed into one, and the problem of discoverability (finding a buried list) might be mitigated.
+    From this initial exploration, a visual metaphor started to emerge. Signup should feel like an invitation. Come in. Sit down. Stay awhile.
   </p>
+  <figure class="figure-inline">
+    <img src="img/mural/chairs.png" class="mural-chairs" alt="Layout options with chairs as a visual device" />
+    <figcaption class="case-study-caption">A visual metaphor started to emerge</figcaption>
+  </figure>
   <p class="page-body-copy">
     Creating a new room of each type further gave me hope that the lists could become one, as I noticed the modal shown was identical for public and open, except for defaulting to the privacy type selected.
   </p>
