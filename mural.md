@@ -34,8 +34,16 @@ permalink: /mural
   <h4 class="page-body-interior-subhead">
     The problem
   </h4>
+  <figure class="figure-inline">
+    <img src="img/mural/mural-site.gif" class="mural-site" alt="The Mural website is colorful, full of life and movement" />
+    <figcaption class="case-study-caption">The Mural website is colorful, full of life and movement...</figcaption>
+  </figure>
+  <figure class="figure-inline">
+    <img src="img/mural/mural-signup-before.png" class="mural-signup-before" alt="The next step in the flow: a relatively lifeless signup experience" />
+    <figcaption class="case-study-caption">...contrasted with the next step in the flow: a relatively lifeless signup experience</figcaption>
+  </figure>
   <p class="page-body-copy">
-    Starting in the top left, I saw that my chosen workspace title, though rather short, was truncated after 15 characters. I bet that happens often and wondered if the font size could be smaller while still remaining accessible and readable.
+    Put bluntly, the signup flow simply didn't live up to the promise of the marketing website. Where was the collaboration, the movement, the color? It almost felt like a different company.
   </p>
   <p class="page-body-copy">
     Moving down from there, I sought to get my head around the five bolder options presented. Going through the list, it became apparent that the first three were essentially filtered views of the Workspace above. The bottom two items - Templates and Guides were more to browse suggested ways to start new murals. I made a note to explore separating those two concepts in my solution.
