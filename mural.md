@@ -45,10 +45,30 @@ permalink: /mural
   </figure>
   <p class="page-body-copy">
     Put bluntly, the signup flow simply didn't live up to the promise of the marketing website. Where was the collaboration, the movement, the color? It almost felt like a different company.
+
+    It wasn't just the first step either. The entire flow followed the same lifeless theme:
   </p>
+  <figure class="figure-inline">
+    <img src="img/mural/mural-signup-flow-before.png" class="mural-signup-flow-before" alt="The whole signup flow looking grey and bland" />
+    <figcaption class="case-study-caption">The greyness will continue until morale improves.</figcaption>
+  </figure>
+  <h4 class="page-body-interior-subhead">
+    The approach
+  </h4>
+  <figure class="figure-pullout">
+    <img src="img/mural/compositions-png" class="mural-compositions" alt="Sketches of potential compositions of the signup form" />
+    <figcaption class="case-study-caption">Composition studies
+    </figcaption>
+  </figure>
   <p class="page-body-copy">
-    Moving down from there, I sought to get my head around the five bolder options presented. Going through the list, it became apparent that the first three were essentially filtered views of the Workspace above. The bottom two items - Templates and Guides were more to browse suggested ways to start new murals. I made a note to explore separating those two concepts in my solution.
+    So how to we break this down and begin to move forward? First, we needed to decide what the voice and tone of this flow was going to be. There was some high-level guidance from the brand team, but we needed to decide what aspects of that to dial up for the signup moment specifically. Running some casual brainstorming, we aligned on a tonal direction.
+
+    We also had some previous attempts that hadn't seent he light of day to reference:
   </p>
+  <figure class="figure-inline">
+    <img src="img/mural/new-direction.png" class="mural-new-direction" alt="Sticky notes with voice and tone options" />
+    <figcaption class="case-study-caption">Working on voice and tone, and learning from previous efforts</figcaption>
+  </figure>
   <p class="page-body-copy">
     Beneath the top five links, I see rooms divided into two categories: Private and Open. I noticed from the screen shot provided in the brief that Celeste's dashboard view had a lot of overflow in these sections, and that once a certain number of rooms was reached, the list collapsed into an accordion that could be expanded back out with a button. I wondered if somehow the lists could be condensed into one, and the problem of discoverability (finding a buried list) might be mitigated.
   </p>
