@@ -127,9 +127,9 @@ permalink: /mural
 
     We'd measure success based on an increase of new creators reaching Setup on day 1 by 10%; with 1-day and 1-week retention serving as secondary success metrics.
 
-    The next step was to identify many different ways to move the needle on those metrics, and weight their trade-offs.
+    The next step was to identify many different ways to move the needle on those metrics and weigh their trade-offs.
   </p>
-  <figure class="figure-pullout">
+  <figure class="figure-inline">
     <img src="img/mural/onboarding-brainstorm.png" class="mural-onboarding-brainstorm" alt="A brainstorm canvas" />
     <figcaption class="case-study-caption">When I set up a brainstorm, I'm looking to tell a story with the pieces of the discovery work I find most insightful.</figcaption>
   </figure>
