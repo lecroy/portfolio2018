@@ -10,26 +10,25 @@ permalink: /mural
     <h1 class="word">Mural</h1>
   </div>
   <h6 class="page-subhead-timespan">
-    Technical Challenge
+    2020-2022
   </h6>
   <h6 class="page-subhead-responsibilities">
-    December 2019
+    Sr. Product Designer
   </h6>
 </div>
 
 
 <div class="page-body-wrapper">
   <h3 class="page-body-subhead">
-    Part 1 - Design Critique
+    Redesigning signup
   </h3>
   <p class="page-body-copy">
-    The first part of the design brief calls for an exploration of Mural's current dashboard experience. Problems as they relate to UX and UI are to be documented and potential improvements suggested.
-  </p>
-  <p class="page-body-copy">
-    Upon loading the dashboard on a new free trial and going through various tasks like creating new rooms and murals, I decided the best approach would be to lay out my critique one component at a time, then work toward a solution that would fit them all together.
+    In Spring 2021, Mural was growing quickly. The pandemic had accellerated remote work and all of a sudden everyone needed a digital whiteboard to keep collaboration flowing on their newly distributed teams. The moment called for something big. Internally, we began working toward what we called "lightning strike" moments - big upcoming releases to wow our users and announce ourselves as first-class tool in the newly coined category of Collaborative Intelligence. 
+    
+    In my corner of the product - Growth and Acquisition - this meant managing the bridge between marketing and the users' first product experience. Specifically, we needed to iterate on the existing signup flow to align with a company-wide brand & product refresh, with a focus on delightful moments.
   </p>
   <h4 class="page-body-interior-subhead">
-    Component 1: Left Sidebar
+    The problem
   </h4>
   <p class="page-body-copy">
     Starting in the top left, I saw that my chosen workspace title, though rather short, was truncated after 15 characters. I bet that happens often and wondered if the font size could be smaller while still remaining accessible and readable.
