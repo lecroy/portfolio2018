@@ -147,6 +147,10 @@ permalink: /mural
     <img src="img/mural/prototyping.png" class="mural-prototyping" alt="A group of three Figma prototypes" />
     <figcaption class="case-study-caption">Prototyping in Figma to find what feels right and what doesn't</figcaption>
   </figure>
+  <figure class="figure-inline">
+    <img src="img/mural/mural-onboarding-final.png" class="mural-final-onboarding" alt="The finished onbaording checklist" />
+    <figcaption class="case-study-caption">The final product: An answer to "What next?"</figcaption>
+  </figure>
   <p class="page-body-copy">
     In part 2 of the exercise, we'll design a new version of the dashboard to include some insight into team activity on murals and rooms, with the goal of increasing weekly engagement, and while we're at it, why not try and address some of the potential improvements from part 1.
   </p>
