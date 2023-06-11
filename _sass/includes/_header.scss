@@ -6,7 +6,7 @@
 .header-wrapper {
   @extend .wrapper;
 
-  background: white;
+  background: 0;
 
   padding: 2rem 0 0 2rem;
 }
@@ -18,15 +18,6 @@
 .home-location-wrapper {
   margin: 0 0 -6px 2rem;
   display: inline-block;
-}
-
-.thl-head-shape {
-  width: 120px;
-  float: right;
-  top: 40px;
-  z-index: 0;
-  position: absolute;
-  right: 60px;
 }
 
 .homepage-animation {
