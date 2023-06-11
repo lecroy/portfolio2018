@@ -37,8 +37,8 @@ permalink: /mural
     Moving down from there, I sought to get my head around the five bolder options presented. Going through the list, it became apparent that the first three were essentially filtered views of the Workspace above. The bottom two items - Templates and Guides were more to browse suggested ways to start new murals. I made a note to explore separating those two concepts in my solution.
   </p>
   <figure class="figure-pullout">
-    <img src="img/mural/mural-sidebar.png" class="mural-img" alt="Current MURAL sidebar navigation" />
-    <figcaption class="case-study-caption">Current sidebar nav</figcaption>
+    <img src="img/mural/taylor-arr.svg" width="400" class="mural-arr" alt="Image showing ARR increase after I was hired (and the pandemic started)" />
+    <figcaption class="case-study-caption">*Also the start of the pandemic, but who's to say what had the bigger impact on ARR?</figcaption>
   </figure>
   <p class="page-body-copy">
     Beneath the top five links, I see rooms divided into two categories: Private and Open. I noticed from the screen shot provided in the brief that Celeste's dashboard view had a lot of overflow in these sections, and that once a certain number of rooms was reached, the list collapsed into an accordion that could be expanded back out with a button. I wondered if somehow the lists could be condensed into one, and the problem of discoverability (finding a buried list) might be mitigated.
