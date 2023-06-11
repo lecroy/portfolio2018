@@ -132,6 +132,10 @@
   left: 0;
   cursor: pointer;
 
+  &.mural-hover-img {
+    background-image: url('/img/index/mural-bw.jpg');
+  }
+
   &.olark-hover-img {
     background-image: url('/img/index/bw-test.jpg');
   }
