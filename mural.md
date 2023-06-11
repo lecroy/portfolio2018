@@ -90,6 +90,11 @@ permalink: /mural
     <img src="img/mural/chairs-copy.png" class="mural-chairs-copy" alt="Working on the copy for the signup flow" />
     <figcaption class="case-study-caption">Nailing the copy is as important as nailing the visual design. Probably moreso.</figcaption>
   </figure>
+  <figure class="figure-pullout">
+    <img src="img/mural/signup-animation.gif" class="mural-animation" alt="A gif showing animation of the signup flow" />
+    <figcaption class="case-study-caption">Adding final touches with motion design
+    </figcaption>
+  </figure>
   <p class="page-body-copy">
     While I ended up leaving Mural before this work shipped as part of the company-wide rebrand, and thus can't speak to it's impact, I'm proud of where we ended up and think the flow looks fantastic in production today. It lives up to the promise of the brand and website and keeps the user engaged and interested as the product makes its ever-important first impression.
   </p>
