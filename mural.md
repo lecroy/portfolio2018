@@ -84,11 +84,11 @@ permalink: /mural
     <figcaption class="case-study-caption">Grounding the illustration makes conceptual sense, and centers the form as the hero</figcaption>
   </figure>
   <p class="page-body-copy">
-    Regarding the modal itself, I saw a potential improvement in that the open room modal has a tooltip that looks alarming and can't be dismissed. It's putpose is to convey what Mural means by an "Open" room type. I also noticed the interaction pattern for selecting a room type is a dropdown with only two options. In most cases I find there is a better option for the interaction and made a note to try it out in my prototype.
+    With the visual design taking shape, it was time to fine-tune the copy with our Content Design team. Copy is as crucial to the success of the final solution as visual design. In fact, probably more so.
   </p>
   <figure class="figure-inline">
-    <img src="img/mural/current-create-room.png" class="mural-img" alt="Current MURAL sidebar navigation" />
-    <figcaption class="case-study-caption">The tooltip here is just telling me what Open means, but makes me feel like I made a mistake.</figcaption>
+    <img src="img/mural/chairs-copy.png" class="mural-chairs-copy" alt="Working on the copy for the signup flow" />
+    <figcaption class="case-study-caption">Nailing the copy is as important as nailing hte visual design. Probably moreso.</figcaption>
   </figure>
   <p class="page-body-copy">
     Finally at the bottom of the sidebar I have a menu to access my personal information and account-related things. This is a pattern I'm familiar with and don't see any issue here except for the large font size mentioned regarding the Workspace dropdown.
