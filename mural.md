@@ -88,11 +88,15 @@ permalink: /mural
   </p>
   <figure class="figure-inline">
     <img src="img/mural/chairs-copy.png" class="mural-chairs-copy" alt="Working on the copy for the signup flow" />
-    <figcaption class="case-study-caption">Nailing the copy is as important as nailing hte visual design. Probably moreso.</figcaption>
+    <figcaption class="case-study-caption">Nailing the copy is as important as nailing the visual design. Probably moreso.</figcaption>
   </figure>
   <p class="page-body-copy">
-    Finally at the bottom of the sidebar I have a menu to access my personal information and account-related things. This is a pattern I'm familiar with and don't see any issue here except for the large font size mentioned regarding the Workspace dropdown.
+    I ended up leaving Mural before the full re-brand shipped, including this work, so I can't say for sure how it performed compared to the previous flow, but I'm proud of the final product and think it looks great in production today. It pays off the promise of the brand and marketing website, and continues the journey into the product in a way that keeps the user engaged and curious.
   </p>
+  <figure class="figure-inline">
+    <img src="img/mural/mural-final-signup.gif" class="mural-chairs-final" alt="The final, redesigned signup flow" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
   <h4 class="page-body-interior-subhead">
     Component 2: Top bar
   </h4>
