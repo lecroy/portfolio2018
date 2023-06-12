@@ -9,10 +9,10 @@
 title: Taylor LeCroy | Product Designer & Creative Director
 email: taylorlecroy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a designer working remotely
+  I'm a product designer working remotely
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://taylorlecroy.com" # the base hostname & protocol for your site
-currentPosition: CURRENT - Product Designer at Olark
+currentPosition: CURRENT - Principal Product Designer at Bubbles
 
 # Build settings
 markdown: kramdown
