@@ -1,6 +1,7 @@
 canvas {
   transform: scale(0.5);
   transform-origin: 0% 0%;
+  display: none;
 }
 
 .wrapper {
@@ -256,6 +257,12 @@ iframe {
 
 .bottom-pad {
   margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 766px) {
+  canvas {
+    display: block;
+  }
 }
 
 @media screen and (min-width: 1000px) {
