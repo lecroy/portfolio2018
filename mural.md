@@ -28,9 +28,9 @@ permalink: /mural
     </figcaption>
   </figure>
   <p class="page-body-copy">
-    In Spring 2021, Mural was growing quickly. The pandemic had accellerated remote work and all of a sudden everyone needed a digital whiteboard to keep collaboration flowing on their newly distributed teams. The moment called for something big. Internally, we began working toward what we called "lightning strike" moments - big upcoming releases to wow our users and announce ourselves as first-class tool in the newly coined category of Collaborative Intelligence. 
+    In Spring 2021, Mural was growing quickly. The pandemic had accelerated remote work and all of a sudden everyone needed a digital whiteboard to keep collaboration flowing on their newly distributed teams. The moment called for something big. Internally, we began working toward what we called "lightning strike" moments - big upcoming releases to wow our users and announce ourselves as first-class tool in the newly coined category of Collaborative Intelligence. 
     
-    In my corner of the product - Growth and Acquisition - this meant managing the bridge between marketing and the users' first product experience. Specifically, we needed to iterate on the existing signup flow to align with a company-wide brand & product refresh, with a focus on delightful moments.
+    In my corner of the product - Growth and Acquisition - this meant managing the bridge between marketing and the users' first product experience. Specifically, we needed to iterate on the existing signup flow to align it with a company-wide brand & product refresh, with a focus on delightful moments.
   </p>
   <h4 class="page-body-interior-subhead">
     The problem
@@ -63,7 +63,7 @@ permalink: /mural
   <p class="page-body-copy">
     So how to we break this down and begin to move forward? First, we needed to decide what the voice and tone of this flow was going to be. There was some high-level guidance from the brand team, but we needed to decide what aspects of that to dial up for the signup moment specifically. Running some casual brainstorming, we aligned on a tonal direction.
 
-    We also had some previous attempts that hadn't seent he light of day to reference:
+    For further reference, I had access to some previous attempts that hadn't seen the light of day:
   </p>
   <figure class="figure-inline">
     <img src="img/mural/new-direction.png" class="mural-new-direction" alt="Sticky notes with voice and tone options" />
@@ -134,14 +134,14 @@ permalink: /mural
     <figcaption class="case-study-caption">When I set up a brainstorm, I'm looking to tell a story with the pieces of the discovery work I find most insightful.</figcaption>
   </figure>
   <p class="page-body-copy">
-    A colleague once explained his view of product design process, saying "You're always either making a mess, or cleaning one up." In this case, it was now time to clean up the mess of sticky notes and sketches we had on our brainstorm canvas, and start to synthesize the output. I tyically do this by grouping similar ideas and themes and then putting a low fidelity mockup against each. This allows for a followup discussion about what will most likely move the needle with as little cost as possible.
+    A colleague once explained his view of product design process, saying "You're always either making a mess, or cleaning one up." In this case, it was now time to clean up the mess of sticky notes and sketches we had on our brainstorm canvas, and start to synthesize the output. I typically do this by grouping similar ideas and themes and then putting a low fidelity mockup against each. This allows for a followup discussion about what will most likely move the needle with as little cost as possible.
   </p>
   <figure class="figure-inline">
     <img src="img/mural/brainstorm-synthesis.png" class="mural-brainstorm-synthesis" alt="Organizing the brainstorm output into themes" />
     <figcaption class="case-study-caption">Organizing the brainstorm output into themes</figcaption>
   </figure>
   <p class="page-body-copy">
-    After regrouping with a PM and Eng lead for input on value and cost, respectively, it's time for my favorite part of the process: turning the abstract into something tangible using rapid prototypes. There's no substitute for putting something visual into the team's hands that we can start to mold into the right thing that properly fills the shape of the problem.
+    After regrouping with a Product Manager and Engineering lead for input on value and cost, respectively, it's time for my favorite part of the process: turning the abstract into something tangible using rapid prototypes. There's no substitute for putting something visual into the team's hands that we can start to mold into the right thing that properly fills the shape of the problem.
   </p>
   <figure class="figure-inline">
     <img src="img/mural/prototyping.png" class="mural-prototyping" alt="A group of three Figma prototypes" />
@@ -155,7 +155,7 @@ permalink: /mural
     <figcaption class="case-study-caption">The final product: An answer to "What next?"</figcaption>
   </figure>
   <p class="page-body-copy">
-    The experiment proved effective, increasing 1-day retention by nearly 29%, and 1-week retention by 11%.
+    The onboarding checklist experiment proved effective, increasing 1-day retention by nearly 29%, and 1-week retention by 11%.
   </p>
   <nav class="case-study-end-nav">
     <a href="/" class="case-study-previous-link">
