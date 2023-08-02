@@ -17,6 +17,19 @@
   line-height: 1.3;
   letter-spacing: -0.7px;
 
+  a {
+    text-decoration: none;
+    background: linear-gradient(180deg, transparent 70%, yellow 70%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    padding: 0 2px;
+
+    &:hover {
+      color:#4398DE;
+      transition: all 300ms;
+    }
+  }
+
   span {
     font-weight: 300;
   }
