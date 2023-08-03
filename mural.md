@@ -62,7 +62,7 @@ permalink: /mural
   </h4>
   <figure class="figure-pullout">
     <img src="img/mural/compositions.png" class="mural-compositions" alt="Sketches of potential compositions of the signup form" />
-    <figcaption class="case-study-caption">Composition studies
+    <figcaption class="case-study-caption">Early composition studies
     </figcaption>
   </figure>
   <p class="page-body-copy">
