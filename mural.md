@@ -24,28 +24,33 @@ permalink: /mural
   </h3>
   <figure class="figure-pullout">
     <img src="img/mural/taylor-arr.svg" width="400" class="mural-arr" alt="Image showing ARR increase after I was hired (and the pandemic started)" />
-    <figcaption class="case-study-caption">*Also the start of the pandemic, but who's to say what had the bigger impact on ARR?
+    <figcaption class="case-study-caption">*Also the start of the pandemic, but who's to say what had the bigger impact on ARR 😉
     </figcaption>
   </figure>
   <p class="page-body-copy">
-    In Spring 2021, Mural was growing quickly. The pandemic had accelerated remote work and all of a sudden everyone needed a digital whiteboard to keep collaboration flowing on their newly distributed teams. The moment called for something big. Internally, we began working toward what we called "lightning strike" moments - big upcoming releases to wow our users and announce ourselves as first-class tool in the newly coined category of Collaborative Intelligence. 
-    
-    In my corner of the product - Growth and Acquisition - this meant managing the bridge between marketing and the users' first product experience. Specifically, we needed to iterate on the existing signup flow to align it with a company-wide brand & product refresh, with a focus on delightful moments.
+    It was Spring 2020 and Mural was growing. Quickly. The pandemic had accelerated remote work and, nearly overnight, every company needed a digital whiteboard to keep collaboration flowing on their newly distributed teams. As a company, we needed to meet the moment.
+  </p>
+  <p class="page-body-copy">
+    Internally, we began working toward what we called "lightning strike" moments - big, news-worthy releases to wow our users and announce ourselves as first-class tool in a newly coined category: Collaborative Intelligence. 
+  </p>
+  <p class="page-body-copy">
+    In my corner of the product - Growth and Acquisition - this meant managing the bridge between marketing and the users' first product experience. Specifically, we needed to iterate on the existing signup flow to align it with a company-wide brand & design system refresh, with a focus on delightful moments.
   </p>
   <h4 class="page-body-interior-subhead">
     The problem
   </h4>
   <figure class="figure-inline">
     <img src="img/mural/mural-site.gif" class="mural-site" alt="The Mural website is colorful, full of life and movement" />
-    <figcaption class="case-study-caption">The Mural website is colorful, full of life and movement...</figcaption>
+    <figcaption class="case-study-caption">Our new marketing website was colorful, full of life and movement...</figcaption>
   </figure>
   <figure class="figure-inline">
     <img src="img/mural/mural-signup-before.png" class="mural-signup-before" alt="The next step in the flow: a relatively lifeless signup experience" />
-    <figcaption class="case-study-caption">...contrasted with the next step in the flow: a relatively lifeless signup experience</figcaption>
+    <figcaption class="case-study-caption">...contrasted with the next step in the flow: a flat, lifeless signup experience</figcaption>
   </figure>
   <p class="page-body-copy">
-    Put bluntly, the signup flow simply didn't live up to the promise of the marketing website. Where was the collaboration, the movement, the color? It almost felt like a different company.
-
+    Put bluntly, the signup flow simply didn't live up to the promise of the marketing website. Where was the collaboration, the movement, the color? It felt like a different brand and company.
+  </p>
+  <p class="page-body-copy">
     It wasn't just the first step either. The entire flow followed the same lifeless theme:
   </p>
   <figure class="figure-inline">
@@ -53,7 +58,7 @@ permalink: /mural
     <figcaption class="case-study-caption">The greyness will continue until morale improves.</figcaption>
   </figure>
   <h4 class="page-body-interior-subhead">
-    The approach
+    The design approach
   </h4>
   <figure class="figure-pullout">
     <img src="img/mural/compositions.png" class="mural-compositions" alt="Sketches of potential compositions of the signup form" />
@@ -61,30 +66,34 @@ permalink: /mural
     </figcaption>
   </figure>
   <p class="page-body-copy">
-    So how to we break this down and begin to move forward? First, we needed to decide what the voice and tone of this flow was going to be. There was some high-level guidance from the brand team, but we needed to decide what aspects of that to dial up for the signup moment specifically. Running some casual brainstorming, we aligned on a tonal direction.
-
-    For further reference, I had access to some previous attempts that hadn't seen the light of day:
+    We had to get this right, and the stakeholder map was wide and convoluted. I needed to break this down into manageable steps and begin to move the team forward.
+  </p>
+  <p class="page-body-copy">
+    First, we needed to align on the voice and tone of this flow. We had the beginnings of a visual style emerging from the brand team, but we needed to decide what aspects to bring into the signup moment specifically. Running some casual brainstorming, we aligned on a tonal direction.
   </p>
   <figure class="figure-inline">
     <img src="img/mural/new-direction.png" class="mural-new-direction" alt="Sticky notes with voice and tone options" />
     <figcaption class="case-study-caption">Working on voice and tone, and learning from previous efforts</figcaption>
   </figure>
   <p class="page-body-copy">
-    From this initial exploration, a visual metaphor started to emerge. Signup should feel like an invitation. Come in. Sit down. Stay awhile.
+    Inviting. Familiar. Warm. These are the feelings a proper signup experience should invoke, within the constraints of a fun and energetic brand.
+  </p>
+  <p class="page-body-copy">
+    From this initial decision, a visual metaphor then began to emerge. Signup should feel like an invitation. Come in. Sit down. Stay awhile. "Seats" aren't just an integral part of our SaaS pricing and packaging. Taken literally, they're bastions of comfort and safe havens in an increasingly troubling world.
   </p>
   <figure class="figure-inline">
     <img src="img/mural/chairs.png" class="mural-chairs" alt="Layout options with chairs as a visual device" />
     <figcaption class="case-study-caption">A visual metaphor started to emerge</figcaption>
   </figure>
   <p class="page-body-copy">
-    Next, we needed to finalize the visual hierarchy. In our case, grounding the illustration at the bottom of the viewport made conceptual sense with the chair metaphor, and allowed for easy adaptation to a single-column mobile layout.
+    Next, we needed to land on a composition and finalize the visual hierarchy. In our case, grounding the illustration at the bottom of the viewport made conceptual sense with the chair metaphor, and allowed for easy adaptation to a single-column mobile layout.
   </p>
   <figure class="figure-inline">
     <img src="img/mural/chairs-hierarchy.png" class="mural-chairs-hierarchy" alt="Final layout with form centered and chairs at the bottom" />
     <figcaption class="case-study-caption">Grounding the illustration makes conceptual sense, and centers the form as the hero</figcaption>
   </figure>
   <p class="page-body-copy">
-    With the visual design taking shape, it was time to fine-tune the copy with our Content Design team. Copy is as crucial to the success of the final solution as visual design. In fact, probably more so.
+    With the visual design taking shape, I then worked on fine-tuning the language with our Content Design team. I've always believed getting the copy right and marrying it to the visual tone is as crucial to the success of the final solution as stunning visual design. In fact, probably more so.
   </p>
   <figure class="figure-pullout">
     <img src="img/mural/signup-animation.gif" class="mural-animation" alt="A gif showing animation of the signup flow" />
