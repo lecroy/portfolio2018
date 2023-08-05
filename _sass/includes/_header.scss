@@ -15,7 +15,7 @@
 }
 
 .home-location-wrapper {
-  margin: 0 0 -6px 2rem;
+  margin: 0 0 -6px 1rem;
   display: inline-block;
 }
 
@@ -214,6 +214,10 @@
 @media screen and (min-width: 600px) {
   .mobile-menu-icon {
     display: none;
+  }
+
+  .home-location-wrapper {
+    margin: 0 0 -6px 2rem;
   }
 
   .site-title {
