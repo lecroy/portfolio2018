@@ -12,9 +12,10 @@
 
 .thl-logotype {
   width: 80px;
+  transition: all 500ms ease-in-out;
 
   &:hover {
-    transform: rotate(7deg);
+    transform: rotate(-7deg);
     transition: all 500ms ease-in-out;
   }
 }
