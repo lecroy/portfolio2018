@@ -12,6 +12,11 @@
 
 .thl-logotype {
   width: 80px;
+
+  &:hover {
+    transform: rotate(7deg);
+    transition: all 500ms ease-in-out;
+  }
 }
 
 .home-location-wrapper {
