@@ -5,6 +5,7 @@
 
 .footer-link {
   text-align: center;
+  margin-top: 20px;
 }
 
 .footer-link a {
@@ -12,8 +13,10 @@
   font-family: 'Decima mono';
   font-weight: 400;
   text-align: left;
+  margin-left: -42px;
 
   &:hover {
     opacity: .8;
+    transition: 200me all;
   }
 }
