@@ -274,9 +274,9 @@ permalink: /ofa
 
   <nav class="case-study-end-nav">
     <a href="/enso" class="case-study-previous-link freelance-next-link">
-      <div class="next-link-timespan">
+      <span class="next-link-timespan">
         2013
-      </div>
+      </span>
       Enso
     </a>
     <a href="/agency" class="case-study-next-link">

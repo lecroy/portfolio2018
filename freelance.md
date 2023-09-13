@@ -93,9 +93,9 @@ permalink: /freelance
 
   <nav class="case-study-end-nav">
     <a href="/olark" class="case-study-previous-link">
-      <div class="next-link-timespan">
+      <span class="next-link-timespan">
         2014-2019
-      </div>
+      </span>
       Olark
     </a>
     <a href="/enso" class="case-study-next-link enso-next-link">

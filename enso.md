@@ -132,9 +132,9 @@ permalink: /enso
 
   <nav class="case-study-end-nav">
     <a href="/freelance" class="case-study-previous-link freelance-next-link">
-      <div class="next-link-timespan">
+      <span class="next-link-timespan">
         2013-2014
-      </div>
+      </span>
       Freelance
     </a>
     <a href="/ofa" class="case-study-next-link">

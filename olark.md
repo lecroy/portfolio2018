@@ -238,8 +238,11 @@ permalink: /olark
     <figcaption class="case-study-caption">A side-by-side layout for the config pages allowed for a single column fieldset and a ste-by-step demo of the integration.</figcaption>
   </figure>
   <nav class="case-study-end-nav">
-    <a href="/" class="case-study-previous-link">
-      Home
+    <a href="/enso" class="case-study-previous-link freelance-next-link">
+      <span class="next-link-timespan">
+        2019-2022
+      </span>
+      Mural
     </a>
     <a href="/freelance" class="case-study-next-link freelance-next-link">
       <span class="next-link-timespan">
