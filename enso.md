@@ -138,9 +138,9 @@ permalink: /enso
       Freelance
     </a>
     <a href="/ofa" class="case-study-next-link">
-      <div class="next-link-timespan">
+      <span class="next-link-timespan">
         2011-2012
-      </div>
+      </span>
       Obama 2012
     </a>
   </nav>

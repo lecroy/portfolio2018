@@ -242,9 +242,9 @@ permalink: /olark
       Home
     </a>
     <a href="/freelance" class="case-study-next-link freelance-next-link">
-      <div class="next-link-timespan">
+      <span class="next-link-timespan">
         2013-2014
-      </div>
+      </span>
       Freelance
     </a>
   </nav>

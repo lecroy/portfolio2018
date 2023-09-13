@@ -131,9 +131,9 @@ permalink: /agency
 
   <nav class="case-study-end-nav">
     <a href="/ofa" class="case-study-previous-link">
-      <div class="next-link-timespan">
+      <span class="next-link-timespan">
         2011-2012
-      </div>
+      </span>
       Obama 2012
     </a>
     <a href="/" class="case-study-next-link home-next-link">

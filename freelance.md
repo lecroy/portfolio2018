@@ -99,9 +99,9 @@ permalink: /freelance
       Olark
     </a>
     <a href="/enso" class="case-study-next-link enso-next-link">
-      <div class="next-link-timespan">
+      <span class="next-link-timespan">
         2013
-      </div>
+      </span>
       Enso
     </a>
   </nav>

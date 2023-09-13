@@ -280,9 +280,9 @@ permalink: /ofa
       Enso
     </a>
     <a href="/agency" class="case-study-next-link">
-      <div class="next-link-timespan">
+      <span class="next-link-timespan">
         2005-2011
-      </div>
+      </span>
       Advertising
     </a>
   </nav>

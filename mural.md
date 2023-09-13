@@ -171,9 +171,9 @@ permalink: /mural
       Home
     </a>
     <a href="/olark" class="case-study-next-link freelance-next-link">
-      <div class="next-link-timespan">
+      <span class="next-link-timespan">
         2014-2019
-      </div>
+      </span>
       Olark
     </a>
   </nav>
