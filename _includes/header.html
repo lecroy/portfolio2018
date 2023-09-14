@@ -1,7 +1,19 @@
 <header class="site-header">
   <div class="header-wrapper">
 
-    <img src="img/index/thl-logotype.svg" class="thl-logotype" />
+    <div class="homepage-animation">
+      <canvas id="canvas" width="432" height="340"></canvas>
+
+      <script>
+        new rive.Rive({
+            src: "img/rocking-head.riv",
+            // Or the path to a public Rive asset
+            // src: '/public/example.riv',
+            canvas: document.getElementById("canvas"),
+            autoplay: true,
+        });
+      </script>
+    </div>
 
     <h4 class="home-location-wrapper">
       <img src="img/index/globe.svg" class="home-globe"/>
