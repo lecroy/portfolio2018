@@ -29,15 +29,8 @@
   float: right;
 }
 
-.mobile-menu-icon {
-  width: 24px;
-  height: 28px;
-
-  float: right;
-  position: absolute;
-  z-index: 1;
-  right: 2rem;
-  top: 2rem;
+.home-globe {
+  margin-top: -2px;
 }
 
 .header-email-link {
@@ -52,78 +45,7 @@
   }
 }
 
-.menu-toggle:checked ~ .mobile-menu-icon {
-  position: fixed;
-}
 
-.mobile-menu-icon-inner {
-  display: inline;
-}
-
-.mobile-icon-stroke {
-  border-radius: 4px;
-
-  width: 4px;
-  float: left;
-}
-
-.mobile-icon-stroke-wrapper {
-  width: 4px;
-  height: 100%;
-  float: left;
-  margin-left: 6px;
-}
-
-.mobile-icon-stroke-one {
-  @extend .mobile-icon-stroke;
-
-  background: $purple500;
-
-  margin-left: 0;
-  height: 100%;
-}
-
-.mobile-icon-stroke-two {
-  @extend .mobile-icon-stroke;
-
-  background: $blue500;
-
-  height: 8px;
-}
-
-.mobile-icon-stroke-three {
-  @extend .mobile-icon-stroke;
-
-  background: $green500;
-
-  height: 17px;
-  margin-top: 3px;
-}
-
-.mobile-icon-stroke-four {
-  @extend .mobile-icon-stroke;
-
-  background: $orange500;
-
-  height: 17px;
-}
-
-.mobile-icon-stroke-five {
-  @extend .mobile-icon-stroke;
-
-  background: $red500;
-
-  height: 8px;
-  margin-top: 3px;
-}
-
-.mobile-nav-link {
-  font-size: 28px;
-  color: black;
-
-  display: block;
-  text-align: center;
-}
 
 .timeline-nav-wrapper {
   display: none; //don't show on mobile
@@ -134,60 +56,6 @@
   float: left;
   position: absolute;
   left: 2rem;
-}
-
-.timeline-nav-link-wrapper {
-  color: $electric-blue;
-
-  padding-left: .5rem;
-  margin-bottom: .25rem;
-}
-
-.timeline-nav-link-olark {
-  border-left: 4px solid $purple500;
-}
-
-.timeline-nav-link-freelance {
-  border-left: 4px solid $blue500;
-}
-
-.timeline-nav-link-enso {
-  border-left: 4px solid $green500;
-}
-
-.timeline-nav-link-ofa {
-  border-left: 4px solid $orange500;
-}
-
-.timeline-nav-link-agency {
-  border-left: 4px solid $red500;
-}
-
-
-.menu-toggle {
-  display: none; // Hide checkbox that triggers mobile nav
-}
-
-/**---- Menu Icon Effects ----**/
-
-.menu-toggle:checked + .mobile-bar .menu-icon {
-  -webkit-transform: rotate(45deg);
-  transform: rotate(45deg);
-}
-
-.menu-toggle:checked + .mobile-bar span:before,
-.menu-toggle:checked + .mobile-bar span:after {
-  -webkit-transform: rotate(90deg);
-  transform: rotate(90deg);
-}
-
-// Fade-In/Out Effect/
-
-.menu-toggle:checked ~ .header {
-  visibility: visible;
-  opacity: 1;
-  -webkit-transition-delay: 0s;
-  transition-delay: 0s;
 }
 
 // Mobile Nav BG
