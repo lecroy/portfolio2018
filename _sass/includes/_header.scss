@@ -21,7 +21,10 @@
 }
 
 .home-location-wrapper {
-  float: right;
+  font-weight: 400;
+  font-family: $decima;
+  text-align: center;
+  letter-spacing: -0.1px;
   margin-top: 27px;
 }
 
@@ -38,6 +41,9 @@
 
 .header-email-link {
   color: #232323;
+  padding: 4px 8px;
+  border: 1px solid #232323;
+  border-radius: 4px;
 
   &:hover {
     color: #1449c3;
