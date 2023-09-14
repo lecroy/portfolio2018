@@ -36,6 +36,15 @@
   top: 2rem;
 }
 
+.header-email-link {
+  color: #232323;
+
+  &:hover {
+    color: #1449c3;
+    transition: all 200ms ease-in;
+  }
+}
+
 .menu-toggle:checked ~ .mobile-menu-icon {
   position: fixed;
 }
