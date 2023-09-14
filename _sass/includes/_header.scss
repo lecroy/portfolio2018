@@ -42,6 +42,11 @@
   &:hover {
     color: #1449c3;
     transition: all 200ms ease-in;
+
+    img {
+      transform: rotate(20deg);
+      transition: all 200ms ease-in-out;
+    }
   }
 }
 
