@@ -26,6 +26,7 @@
   text-align: center;
   letter-spacing: -0.1px;
   margin-top: 27px;
+  float: right;
 }
 
 .mobile-menu-icon {
@@ -225,10 +226,6 @@
 @media screen and (min-width: 600px) {
   .mobile-menu-icon {
     display: none;
-  }
-
-  .home-location-wrapper {
-    margin: 0 0 -6px 2rem;
   }
 
   .site-title {
