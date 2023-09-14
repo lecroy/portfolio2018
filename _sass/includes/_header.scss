@@ -39,6 +39,10 @@
   border: 1px solid #232323;
   border-radius: 4px;
 
+  img {
+    transition: all 200ms ease-in-out;
+  }
+
   &:hover {
     color: #1449c3;
     transition: all 200ms ease-in;
