@@ -12,11 +12,10 @@
   color: $gray900;
   font-family: 'Decima mono';
   font-weight: 400;
-  text-align: left;
-  margin-left: -42px;
+  transition: 200ms all;
 
   &:hover {
     opacity: .8;
-    transition: 200me all;
+    transition: 200ms all;
   }
 }
