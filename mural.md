@@ -28,10 +28,10 @@ permalink: /mural
     </figcaption>
   </figure>
   <p class="page-body-copy">
-    It was Spring 2020 and Mural was growing. Quickly. The pandemic had accelerated remote work and, nearly overnight, every company needed a digital whiteboard to keep collaboration flowing on their newly distributed teams. As a company, we needed to meet the moment.
+    It was Spring 2020 and Mural was growing. Quickly. The pandemic had accelerated remote work and, nearly overnight, every company needed a digital whiteboard to keep collaboration flowing on their newly distributed teams. As a product geared toward remote collaboration, we needed to meet the moment.
   </p>
   <p class="page-body-copy">
-    Internally, we began working toward what we called "lightning strike" moments - big, news-worthy releases to wow our users and announce ourselves as first-class tool in a newly coined category: Collaborative Intelligence. 
+    Internally, we began working toward what we called "lightning strike" moments - big, news-worthy releases to wow our users and position ourselves as first-class player in a newly coined category: Collaborative Intelligence. 
   </p>
   <p class="page-body-copy">
     In my corner of the product - Growth and Acquisition - this meant managing the bridge between marketing and the users' first product experience. Specifically, we needed to iterate on the existing signup flow to align it with a company-wide brand & design system refresh, with a focus on delightful moments.
