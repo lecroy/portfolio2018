@@ -88,10 +88,6 @@ permalink: /mural
   <p class="page-body-copy">
     Next, we needed to land on a composition and finalize the visual hierarchy. In our case, grounding the illustration at the bottom of the viewport made conceptual sense with the chair metaphor, and allowed for easy adaptation to a single-column mobile layout.
   </p>
-  <figure class="figure-inline">
-    <img src="img/mural/chairs-hierarchy.png" class="mural-chairs-hierarchy" alt="Final layout with form centered and chairs at the bottom" />
-    <figcaption class="case-study-caption">Grounding the illustration makes conceptual sense, and centers the form as the hero</figcaption>
-  </figure>
   <p class="page-body-copy">
     With the visual design taking shape, I then worked on fine-tuning the language with our Content Design team. I've always believed getting the copy right and marrying it to the visual tone is as crucial to the success of the final solution as stunning visual design. In fact, probably more so.
   </p>
@@ -107,6 +103,10 @@ permalink: /mural
   <p class="page-body-copy">
     While I ended up leaving Mural before this work shipped as part of the company-wide rebrand, and thus can't speak to it's impact, I'm proud of where we ended up and think the flow looks fantastic in production today. It lives up to the promise of the brand and website and keeps the user engaged and interested as the product makes its ever-important first impression.
   </p>
+  <figure class="figure-inline">
+    <img src="img/mural/signup.gif" class="mural-signup-gif" alt="Final signup screen with motion" />
+    <figcaption class="case-study-caption">The first step of signup - fulfilling the promise of the marketing website and adhering to the in-product design system.</figcaption>
+  </figure>
   <h3 class="page-body-subhead">
     Onboarding refresh
   </h3>
