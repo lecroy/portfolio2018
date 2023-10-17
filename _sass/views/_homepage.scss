@@ -275,3 +275,14 @@
   }
 }
 
+@media screen and (max-width: 1110px) {
+
+  .home-intro-copy {
+    a {
+      &:after {
+        display: none;
+      }
+    }
+  }
+}
+
