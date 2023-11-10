@@ -23,6 +23,21 @@ body {
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+
+    &::-webkit-scrollbar {
+        width: 12px; /* width of the entire scrollbar */
+      }
+    
+      &::-webkit-scrollbar-track {
+        background: white;
+        border-radius: 20px; /* color of the tracking area */
+      }
+    
+      &::-webkit-scrollbar-thumb {
+        background-color: lightgrey; /* color of the scroll thumb */
+        border-radius: 20px; /* roundness of the scroll thumb */
+        border: 3px solid white; /* creates padding around scroll thumb */
+      }
 }
 
 
