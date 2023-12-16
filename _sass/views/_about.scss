@@ -25,5 +25,9 @@
         font-weight: 800;
     }
   }
+
+  li.menu-item:not(:last-child) { 
+    margin-bottom: 3px;  
+ }
 }
 
