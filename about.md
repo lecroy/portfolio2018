@@ -4,7 +4,9 @@ title: About Me
 permalink: /about
 ---
 
+
 <h2 class="about-header">About Me</h2>
+<img src="img/about/about-hawaii.jpg">
 
 <div class="page-body-wrapper">
   <p class="page-body-copy">
