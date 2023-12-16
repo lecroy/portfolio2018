@@ -13,7 +13,7 @@ permalink: /about
     Hello! Taylor LeCroy here, but you can call me Taylor. You may know me from the Product Design world, but there’s more to me than just clever solutions and game-changing design. Let’s dive into the world of Taylor - beyond the hype.
   </p>
 
-  <h4 class="page-body-interior-subhead">
+  <h4 class="about-interior-subhead">
     Off-Duty Adventures
   </h4>
   <ul class="page-body-list">
@@ -23,7 +23,7 @@ permalink: /about
     <li><span>Struggling musician:</span> If the walls of my basement could talk, they’d probably tell me not to quit my day job.</li>
   </ul>
 
-  <h4 class="page-body-interior-subhead">
+  <h4 class="about-interior-subhead">
     Leisure Time
   </h4>
   <ul class="page-body-list">
@@ -33,7 +33,7 @@ permalink: /about
     <li><span>College football:</span> I was brought up around and molded by this amazing sport. Go Gators. Hopefully by the next time I update this website, we'll be decent again.</li>
   </ul>
 
-  <h4 class="page-body-interior-subhead">
+  <h4 class="about-interior-subhead">
     Secret Talents
   </h4>
   <ul class="page-body-list">
@@ -43,7 +43,7 @@ permalink: /about
     <li><span>Handyman:</span> Upkeep on a house never ends, just like software development. It’s all about keeping an organized backlog and ruthlessly prioritizing the right improvements.</li>
   </ul>
 
-  <h4 class="page-body-interior-subhead">
+  <h4 class="about-interior-subhead">
     Working with me
   </h4>
   <p class="page-body-copy">
