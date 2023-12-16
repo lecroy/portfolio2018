@@ -4,9 +4,8 @@ title: About Me
 permalink: /about
 ---
 
-<div class="page-hero-wrapper">
-  <h2 class="about-header">About Me</h2>
-</div>
+<h2 class="about-header">About Me</h2>
+
 
 
 <div class="page-body-wrapper">
