@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 <div class="page-hero-wrapper">
-  <h1 class="word">About Me</h1>
+  <h2 class="about-header">About Me</h2>
 </div>
 
 
@@ -18,30 +18,30 @@ permalink: /about
     Off-Duty Adventures
   </h4>
   <ul class="page-body-list">
-    <li>Hells Angels Wannabe: I ride motorcycles like I design products - with a dash of gut instinct, a heavy hand on the throttle, and a whole lot of careful steering.
+    <li><span>Hells Angels Wannabe:</span> I ride motorcycles like I design products - with a dash of gut instinct, a heavy hand on the throttle, and a whole lot of careful steering.
     </li>
-    <li>Amateur Astronomer: I’m into stargazing. It’s like market research but for giant orbs of dust and gas.</li>
-    <li>Struggling musician: If the walls of my basement could talk, they’d probably tell me not to quit my day job.</li>
+    <li><span>Amateur Astronomer:</span> I’m into stargazing. It’s like market research but for giant orbs of dust and gas.</li>
+    <li><span>Struggling musician:</span> If the walls of my basement could talk, they’d probably tell me not to quit my day job.</li>
   </ul>
 
   <h4 class="page-body-interior-subhead">
     Leisure Time
   </h4>
   <ul class="page-body-list">
-    <li>Reading: If I don’t give up on a book around the 25% mark, you can bet it’s a classic.
+    <li><span>Reading:</span> If I don’t give up on a book around the 25% mark, you can bet it’s a classic.
     </li>
-    <li>Trail running: I live right next to a beautiful mountain trail. I’ve done some of my best design work there, far from a notepad or computer screen.</li>
-    <li>College football: I was brought up around and molded by this amazing sport. Go Gators. Hopefully by the next time I update this website, we'll be decent again.</li>
+    <li><span>Trail running:</span> I live right next to a beautiful mountain trail. I’ve done some of my best design work there, far from a notepad or computer screen.</li>
+    <li><span>College football:</span> I was brought up around and molded by this amazing sport. Go Gators. Hopefully by the next time I update this website, we'll be decent again.</li>
   </ul>
 
   <h4 class="page-body-interior-subhead">
     Secret Talents
   </h4>
   <ul class="page-body-list">
-    <li>Scrabble Junkie: Word games have always come easily to me. I once started an Instagram account just to share strategy and tips.
+    <li><span>Scrabble Junkie:</span> Word games have always come easily to me. I once started an Instagram account just to share strategy and tips.
     </li>
-    <li>Master Chef: Making a recipe come together is a lot like product design. You need to include the right ingredients, blend them to create perfect chemistry, and do a whole lot of taste-testing.</li>
-    <li>Handyman: Upkeep on a house never ends, just like software development. It’s all about keeping an organized backlog and ruthlessly prioritizing the right improvements.</li>
+    <li><span>Master Chef:</span> Making a recipe come together is a lot like product design. You need to include the right ingredients, blend them to create perfect chemistry, and do a whole lot of taste-testing.</li>
+    <li><span>Handyman:</span> Upkeep on a house never ends, just like software development. It’s all about keeping an organized backlog and ruthlessly prioritizing the right improvements.</li>
   </ul>
 
   <h4 class="page-body-interior-subhead">
