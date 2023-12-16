@@ -21,13 +21,10 @@
   max-width: 540px;
 
   li {
+    margin-bottom: 10px; 
     span {
         font-weight: 800;
     }
   }
-
-  li.menu-item:not(:last-child) { 
-    margin-bottom: 3px;  
- }
 }
 
