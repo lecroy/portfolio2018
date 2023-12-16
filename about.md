@@ -5,10 +5,13 @@ permalink: /about
 ---
 
 
-<h2 class="about-header">About Me</h2>
-<img src="img/about/about-hawaii.jpg" class="about-header-img">
+
 
 <div class="page-body-wrapper">
+
+  <h2 class="about-header">About Me</h2>
+  <img src="img/about/about-hawaii.jpg" class="about-header-img">
+
   <p class="page-body-copy">
     Hello! Taylor LeCroy here, but you can call me Taylor. You may know me from the Product Design world, but there’s more to me than just clever solutions and game-changing design. Let’s dive into the world of Taylor - beyond the hype.
   </p>
