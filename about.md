@@ -22,7 +22,9 @@ permalink: /about
   <ul class="page-body-list">
     <li><span>Hells Angels Wannabe:</span> I ride motorcycles like I design products - with a dash of gut instinct, a heavy hand on the throttle, and a whole lot of careful steering.
     </li>
+    
     <li><span>Amateur Astronomer:</span> I’m into stargazing. It’s like market research but for giant orbs of dust and gas.</li>
+
     <li><span>Struggling musician:</span> If the walls of my basement could talk, they’d probably tell me not to quit my day job.</li>
   </ul>
 
