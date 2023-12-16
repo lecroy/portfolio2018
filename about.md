@@ -6,8 +6,6 @@ permalink: /about
 
 <h2 class="about-header">About Me</h2>
 
-
-
 <div class="page-body-wrapper">
   <p class="page-body-copy">
     Hello! Taylor LeCroy here, but you can call me Taylor. You may know me from the Product Design world, but there’s more to me than just clever solutions and game-changing design. Let’s dive into the world of Taylor - beyond the hype.
