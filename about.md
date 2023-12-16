@@ -6,7 +6,7 @@ permalink: /about
 
 
 <h2 class="about-header">About Me</h2>
-<img src="img/about/about-hawaii.jpg">
+<img src="img/about/about-hawaii.jpg" class="about-header-img">
 
 <div class="page-body-wrapper">
   <p class="page-body-copy">
