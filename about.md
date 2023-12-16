@@ -51,6 +51,8 @@ permalink: /about
   </h4>
   <p class="page-body-copy">
     My approach to work is grounded in authenticity. It's about being genuinely myself in every interaction, combining professionalism with personal character. This balance leads to better and more effective collaborations, as people sense and appreciate authenticity. I believe that our work is an extension of who we are, reflecting our beliefs and the impact we want to make. Daily growth in all life areas contributes to our overall success, both personally and professionally.
+    
+    <br/>
 
     My work ethic revolves around sustainable intensity, prioritizing health in all aspects – mental, physical, emotional, and spiritual. This holistic well-being is essential for peak performance. I incorporate practices like meditation, reading, exercise, and quality time with loved ones to maintain this balance. In meetings, I value humor and fun, seeing them as catalysts for productivity and enjoyment. My feedback style is direct and detailed, aiming to build trust and empowerment. In leadership, I emphasize health, authenticity, extreme ownership, autonomy, and continuous growth, fostering a culture of accountability and relentless pursuit of personal and professional development.
   </p>
