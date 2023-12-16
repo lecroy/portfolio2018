@@ -22,9 +22,7 @@ permalink: /about
   <ul class="page-body-list">
     <li><span>Hells Angels Wannabe:</span> I ride motorcycles like I design products - with a dash of gut instinct, a heavy hand on the throttle, and a whole lot of careful steering.
     </li>
-    <br/>
     <li><span>Amateur Astronomer:</span> I’m into stargazing. It’s like market research but for giant orbs of dust and gas.</li>
-    <br/>
     <li><span>Struggling musician:</span> If the walls of my basement could talk, they’d probably tell me not to quit my day job.</li>
   </ul>
 
@@ -34,9 +32,7 @@ permalink: /about
   <ul class="page-body-list">
     <li><span>Reading:</span> If I don’t give up on a book around the 25% mark, you can bet it’s a classic.
     </li>
-    <br/>
     <li><span>Trail running:</span> I live right next to a beautiful mountain trail. I’ve done some of my best design work there, far from a notepad or computer screen.</li>
-    <br/>
     <li><span>Go Gators</span> I was brought up to believe college football is almost as important as using data to inform design decisions. And I'm calling it now: by the next time I update this website, my Gators will be decent again.</li>
   </ul>
 
@@ -46,9 +42,7 @@ permalink: /about
   <ul class="page-body-list">
     <li><span>Scrabble Junkie:</span> Word games have always come easily to me. I once started an Instagram account just to share strategy and tips.
     </li>
-    <br/>
     <li><span>Master Chef:</span> Making a recipe come together is a lot like product design. You need to include the right ingredients, blend them to create perfect chemistry, and do a whole lot of taste-testing.</li>
-    <br/>
     <li><span>Handyman:</span> Upkeep on a house never ends, just like software development. It’s all about keeping an organized backlog and ruthlessly prioritizing the right improvements.</li>
   </ul>
 
