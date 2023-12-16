@@ -1,4 +1,11 @@
 .page-body-list {
   margin-bottom: 20px;
+  max-width: 540px;
+
+  li {
+    span {
+        font-weight: 800;
+    }
+  }
 }
 
