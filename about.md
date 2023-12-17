@@ -13,7 +13,7 @@ permalink: /about
   <img src="img/about/about-hawaii.jpg" class="about-header-img">
 
   <p class="page-body-copy">
-    👋 Hey! Taylor LeCroy here, but you can call me Taylor. You may know me from the Design world, but there’s more to me than just clever solutions and elegant yet intuitive design. Let’s dive in.
+    👋 Taylor LeCroy here, but you can call me Taylor. You may know me from the Design world, but there’s more to me than just clever solutions and elegant yet intuitive design. Let’s dive in.
   </p>
 
   <h4 class="about-interior-subhead">
