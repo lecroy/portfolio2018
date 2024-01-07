@@ -75,6 +75,7 @@
 .marquee__content {
   flex-shrink: 0;
   display: flex;
+  list-style-type: none;
   justify-content: space-around;
   gap: var(--gap);
   min-width: 100%;
