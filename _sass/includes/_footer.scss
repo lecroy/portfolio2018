@@ -22,18 +22,17 @@
 
 
 .a-section-marquee-box {
-  height: 180px;
+  height: 70px;
   display: flex;
-  color:#ffffff;
   align-items: center;
   overflow: hidden;
+  margin-top: 3rem;
 }
 .a-section-marquee-box h2 {
   white-space: nowrap;
   text-transform: uppercase;
   font-family: 'Decima mono';
   font-size: 2em;
-  color:#ffffff !important;
   font-weight: 100;
   flex-shrink: 0;
   width: max-content;
@@ -41,6 +40,10 @@
   align-items: center;
   transform: translateX(0);
   animation: a-text-scroll 45s linear infinite;
+
+  a {
+    color: #ffffff !important;
+  }
 }
 @keyframes a-text-scroll {
   0% { transform: translate3d(50%, 0, 0); }
