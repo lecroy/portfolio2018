@@ -1,6 +1,5 @@
 .site-footer {
   width: 100%;
-  background: #000000;
 }
 
 .footer-link {
@@ -33,6 +32,7 @@
   overflow: hidden;
   user-select: none;
   gap: var(--gap);
+  padding-top: 2rem;
 }
 
 .marquee__content {
