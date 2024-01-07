@@ -28,11 +28,13 @@
   display: flex;
   align-items: center;
   overflow: hidden;
-  border: 1px solid #181818; /* same as bg */
+  border: 1px solid #ffffff; /* same as bg */
 }
 .a-section-marquee-box h2 {
   white-space: nowrap;
   text-transform: uppercase;
+  font-family: 'Decima mono';
+  font-weight: 400;
   font-size: 7em;
   font-weight: 100;
   flex-shrink: 0;
@@ -41,7 +43,7 @@
   display: flex;
   align-items: center;
   transform: translateX(0);
-  animation: a-text-scroll 35s linear infinite;
+  animation: a-text-scroll 45s linear infinite;
 }
 @keyframes a-text-scroll {
   0% { transform: translate3d(-100%, 0, 0); }
