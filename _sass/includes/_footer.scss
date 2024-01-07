@@ -9,7 +9,7 @@
 }
 
 .footer-link a {
-  color: $gray900;
+  color:#ffffff;
   font-family: 'Decima mono';
   font-weight: 400;
   transition: 200ms all;
@@ -26,9 +26,9 @@
 .a-section-marquee-box {
   height: 180px;
   display: flex;
+  color:#ffffff;
   align-items: center;
   overflow: hidden;
-  border: 1px solid #ffffff; /* same as bg */
 }
 .a-section-marquee-box h2 {
   white-space: nowrap;
