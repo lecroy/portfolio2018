@@ -43,7 +43,7 @@ permalink: /about
     <li><span>Scrabble Junkie:</span> Word games have always come easily to me. I once started an <a href="https://www.instagram.com/scrabble_snacks">Instagram account</a> just to share strategy and tips.
     </li>
     <li><span>Master Chef:</span> Making a recipe come together isn't so dissimilar from product design - you need to include the right ingredients, blend them to create perfect chemistry, and do plenty of taste-testing.</li>
-    <li><span>Handyman:</span> Maintenance on a house never ends, just like software development. It’s all about keeping an organized backlog and ruthlessly prioritizing the right improvements.</li>
+    <li><span>Handyman:</span> Maintenance on a house never ends. Thankfully I've got plenty of experience keeping an organized backlog and ruthlessly prioritizing the most impactful improvements.</li>
   </ul>
 
   <h4 class="about-interior-subhead">
@@ -53,7 +53,6 @@ permalink: /about
     My approach to work is grounded in authenticity. It's about being genuinely myself in every interaction, combining professionalism with personal character. This balance leads to better and more effective collaborations, as people sense and appreciate authenticity. I believe that our work is an extension of who we are, reflecting our beliefs and the impact we want to make. Daily growth in all life areas contributes to our overall success, both personally and professionally.
     <br/>
     <br/>
-
     My work ethic revolves around sustainable intensity, prioritizing health in all aspects – mental, physical, emotional, and spiritual. This holistic well-being is essential for peak performance. I incorporate practices like meditation, reading, exercise, and quality time with loved ones to maintain this balance. In meetings, I value humor and fun, seeing them as catalysts for productivity and enjoyment. My feedback style is direct and detailed, aiming to build trust and empowerment. In leadership, I emphasize health, authenticity, extreme ownership, autonomy, and continuous growth, fostering a culture of accountability and relentless pursuit of personal and professional development.
   </p>
 </div>
