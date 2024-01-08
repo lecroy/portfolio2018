@@ -33,7 +33,7 @@ permalink: /about
     <li><span>Bookworm:</span> I prefer long-form reading to social media. Although in books, just as in product design, sometimes it's best to bail about 20% in and start something new.
     </li>
     <li><span>Trailblazer:</span> I live right next to a beautiful mountain trail and tend to do some of my best design work there, far from any notepad or computer screen.</li>
-    <li><span>Go Gators:</span> I was brought up to believe college football is almost as important as using data to inform design decisions. And I'm calling it now: by the next time I update this website, my Gators will be decent again.</li>
+    <li><span>Go Gators:</span> I was brought up to believe college football is almost as important as using data to inform design decisions. Calling it now: by the next time I update this website, my Gators will be decent again.</li>
   </ul>
 
   <h4 class="about-interior-subhead">
