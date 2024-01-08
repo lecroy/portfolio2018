@@ -34,6 +34,7 @@
   user-select: none;
   gap: var(--gap);
   padding-top: 2rem;
+  box-shadow: 0 12px 14px 0 rgba(0,0,0,.15);
 }
 
 .marquee__content {
@@ -43,6 +44,9 @@
   justify-content: space-around;
   gap: var(--gap);
   min-width: 100%;
+  padding: 1rem 0;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
   text-transform: uppercase;
   animation: scroll 45s linear infinite;
 
