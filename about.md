@@ -40,7 +40,7 @@ permalink: /about
     Secret Talents
   </h4>
   <ul class="page-body-list">
-    <li><span>Scrabble Junkie:</span> Word games have always come easily to me. I once started an <a href="https://www.instagram.com/scrabble_snacks">Instagram account</a> just to share strategy and tips.
+    <li><span>Scrabble Junkie:</span> Word games have always come easily to me. I once started an <a href="https://www.instagram.com/scrabble_snacks" target="_blank">Instagram account</a> just to share strategy and tips.
     </li>
     <li><span>Master Chef:</span> Making a recipe come together isn't so dissimilar from product design - you need to include the right ingredients, blend them to create perfect chemistry, and do plenty of taste-testing.</li>
     <li><span>Handyman:</span> Maintenance on a house never ends. Thankfully I've got plenty of experience keeping an organized backlog and ruthlessly prioritizing the most impactful improvements.</li>
