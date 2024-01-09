@@ -23,14 +23,14 @@ permalink: /about
     <li><span>Hells Angels Wannabe:</span> I ride motorcycles like I design products - with a dash of  instinct, just enough emphasis on speed, and a whole lot of careful steering.
     </li>
     <li><span>Amateur Astronomer:</span> I’ve always been a stargazer. It’s like market research but for giant orbs of dust and gas.</li>
-    <li><span>Struggling musician:</span> While I seem to be getting a little better, I'm pretty sure if my walls could talk, they’d tell me not to quit my day job.</li>
+    <li><span>Struggling musician:</span> I'm getting a little better with practice, but am pretty sure if my walls could talk, they’d tell me not to quit my day job.</li>
   </ul>
 
   <h4 class="about-interior-subhead">
     Leisure Time
   </h4>
   <ul class="page-body-list">
-    <li><span>Bookworm:</span> I prefer long-form reading to social media. Although in books, just as in product design, sometimes it's best to bail about 20% in and start something new.
+    <li><span>Bookworm:</span> I prefer long-form reading to social media. Although in books, just as in product design, sometimes it's best to bail part way through and start something something from scratch.
     </li>
     <li><span>Trailblazer:</span> I live right next to a beautiful mountain trail and tend to do some of my best design work there, far from any notepad or computer screen.</li>
     <li><span>Go Gators:</span> I was brought up to believe college football is almost as important as using data to inform design decisions. Calling it now: by the next time I update this website, my Gators will be decent again.</li>
