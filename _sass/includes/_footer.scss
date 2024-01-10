@@ -21,7 +21,6 @@
 
 .footer-marquee {
   position: absolute;
-  height: 100px;
   font-family: 'Decima mono';
   transform: rotate(-2deg);
 }
@@ -33,8 +32,7 @@
   overflow: hidden;
   user-select: none;
   gap: var(--gap);
-  padding-top: 2rem;
-  box-shadow: 0 12px 14px 0 rgba(0,0,0,.1);
+  box-shadow: 0 2px 14px 0 rgba(0,0,0,.1);
 }
 
 .marquee__content {
@@ -45,8 +43,6 @@
   gap: var(--gap);
   min-width: 100%;
   padding: 1rem 0;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
   text-transform: uppercase;
   animation: scroll 45s linear infinite;
   margin-left: -16px;
