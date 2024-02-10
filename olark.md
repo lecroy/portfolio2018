@@ -31,6 +31,9 @@ permalink: /olark
   <p class="page-body-copy">
     Here's what the existing dashboard looked like. Effectively, it was the navigation all over again, with a little more explanation around the links. Not a lot of value there:
   </p>
+  <h4 class="page-body-interior-subhead">
+    The old dashboard
+  </h4>
   <figure class="figure-inline">
     <img src="img/olark/dashboard-old.png" class="old-dash-img" alt="The previous version of the Dashboard I was tasked with replacing" />
     <figcaption class="case-study-caption">The old version of the Olark Dashboard was effectively just another nav.</figcaption>
@@ -171,6 +174,9 @@ permalink: /olark
   <p class="page-body-copy">
     When I arrived at Olark in 2014, Olark was using a simple rails app to handle billing. There soon came a desire to allow customers more options and flexibility over their live chat team and plan, while keeping the cognitive overhead low. This is a screen grab I took of the billing app circa that time:
   </p>
+  <h4 class="page-body-interior-subhead">
+    The old billing UI
+  </h4>
   <figure class="figure-inline">
     <img src="img/olark/billing-before.png" class="olark-billing-before" alt="Screen grab of the billing app circa 2014" />
     <figcaption class="case-study-caption">The Olark billing app circa 2014 was just three large buttons.</figcaption>
