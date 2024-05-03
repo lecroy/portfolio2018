@@ -21,12 +21,9 @@
 }
 
 .home-location-wrapper {
-  font-weight: 400;
-  font-family: $decima;
   text-align: center;
-  letter-spacing: -0.1px;
-  margin: 0 auto;
-  float: none;
+  margin-right: 6px;
+  float: right;
 }
 
 .home-pin {
@@ -125,11 +122,6 @@
 
   .site-title {
     display: inline-block;
-  }
-
-  .home-location-wrapper {
-    margin-right: 6px;
-    float: right;
   }
 
   .homepage-animation {
