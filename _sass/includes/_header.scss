@@ -56,7 +56,10 @@
 
   &:hover {
     transition: all 200ms ease-in;
-    border: 1px solid rgba(0,0,0,.5);
+    border: 1px solid transparent;
+    background: 
+        linear-gradient(#fff, #fff) padding-box,
+        linear-gradient(60deg, #00f, #00e8ff) border-box;
 
     img {
       transform: rotate(20deg);
