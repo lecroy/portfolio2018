@@ -37,7 +37,7 @@
 .header-email-link {
   color: #232323;
   padding: 8px 12px;
-  border: 1px solid #232323;
+  border: 2px solid #232323;
   border-radius: 8px;
   margin-left: 8px;
   font-family: $avenir;
@@ -55,10 +55,10 @@
   }
 
   &:hover {
-    border: 1px solid transparent;
+    border: 2px solid transparent;
     background: 
         linear-gradient(#fff, #fff) padding-box,
-        linear-gradient(60deg, #00f, #00e8ff) border-box;
+        linear-gradient(45deg, #1449c3, #9D45F6) border-box;
 
     img {
       transform: rotate(20deg);
