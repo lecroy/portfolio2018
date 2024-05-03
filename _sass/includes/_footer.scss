@@ -1,5 +1,6 @@
 .site-footer {
   width: 100%;
+  margin-bottom: 4rem;
 }
 
 .footer-link {
@@ -32,7 +33,8 @@
   user-select: none;
   background: #ffffff;
   gap: var(--gap);
-  box-shadow: 0 2px 14px 0 rgba(0,0,0,.1);
+  border-top: 2px solid #232323;
+  border-bottom: 2px solid #232323;
 }
 
 .marquee__content {
