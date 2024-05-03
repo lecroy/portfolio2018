@@ -37,14 +37,15 @@
       const email = 'taylorlecroy@gmail.com';  // The email address you want to copy
       navigator.clipboard.writeText(email)
         .then(() => {
-          alert('Email address copied to clipboard!');  // Optional: alert the user that copying was successful
+          const statusMessage = document.getElementById('copyStatus');
+          statusMessage.textContent = 'Copied!';  // Update text content of the status message
+          setTimeout(() => { statusMessage.textContent = ''; }, 2000);  // Clear the message after 2 seconds
         })
         .catch(err => {
           console.error('Failed to copy email: ', err);  // Error handling in case the copy fails
         });
       return false;  // Prevent the default href="#" behavior
     }
-
   </script>
 
 </head>
