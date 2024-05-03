@@ -34,21 +34,24 @@
   <!-- Copy email address to clipboard -->
   <script type="text/javascript">
     function copyEmail() {
-      const emailLink = document.getElementById('copyEmailLink');  // Get the link element
-      const originalContent = emailLink.innerHTML;  // Store the original HTML content
+      const emailText = document.getElementById('emailText');  // Get the text span element
+      const clipboardIcon = document.querySelector('.home-copy-clipboard'); // Get the clipboard icon
+      const originalText = emailText.textContent;  // Store the original text content
       const email = 'taylorlecroy@gmail.com';  // The email address you want to copy
 
       navigator.clipboard.writeText(email)
         .then(() => {
-          emailLink.innerHTML = '<img src="img/index/copy-clipboard.svg" class="home-copy-clipboard"/> Copied!';  // Replace the email with "Copied!"
-          emailLink.style.transition = 'opacity 1s';  // Set the transition for the fade-out effect
+          clipboardIcon.style.display = 'none'; // Hide the clipboard icon
+          emailText.textContent = 'Copied!';  // Update the text to "Copied!"
+          emailText.style.transition = 'opacity 1s';  // Set the transition for the fade-out effect
           setTimeout(() => {
-            emailLink.style.opacity = '0';  // Start fading out
+            emailText.style.opacity = '0';  // Start fading out the "Copied!" text
             setTimeout(() => {
-              emailLink.innerHTML = originalContent;  // Restore the original content
-              emailLink.style.opacity = '1';  // Reset the opacity
+              emailText.textContent = originalText;  // Restore the original text
+              emailText.style.opacity = '1';  // Reset the opacity
+              clipboardIcon.style.display = ''; // Show the clipboard icon again
             }, 1000);  // Wait for the fade-out to finish before resetting
-          }, 2000);  // Display "Copied!" for 2 seconds before fading out
+          }, 2000);  // Display "Copied!" for 2 seconds before starting the fade-out
         })
         .catch(err => {
           console.error('Failed to copy email: ', err);  // Error handling in case the copy fails
