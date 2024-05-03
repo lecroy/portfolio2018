@@ -40,9 +40,11 @@
   font-weight: 600;
   display: inline-block;
   width: 237px;
+  transition: all 200ms ease-in;
 
   a {
     font-weight: 600;
+    transition: all 200ms ease-in;
   }
 
   img {
@@ -54,13 +56,10 @@
 
   &:hover {
     border: 2px solid transparent;
+    transition: all 200ms ease-in;
     background: 
         linear-gradient(#fff, #fff) padding-box,
         linear-gradient(45deg, #1449c3, #56BB5B) border-box;
-
-    img {
-      transition: all 200ms ease-in;
-    }
   }
 }
 
