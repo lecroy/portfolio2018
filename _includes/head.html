@@ -34,12 +34,21 @@
   <!-- Copy email address to clipboard -->
   <script type="text/javascript">
     function copyEmail() {
+      const emailLink = document.getElementById('copyEmailLink');  // Get the link element
+      const originalContent = emailLink.innerHTML;  // Store the original HTML content
       const email = 'taylorlecroy@gmail.com';  // The email address you want to copy
+
       navigator.clipboard.writeText(email)
         .then(() => {
-          const statusMessage = document.getElementById('copyStatus');
-          statusMessage.textContent = 'Copied!';  // Update text content of the status message
-          setTimeout(() => { statusMessage.textContent = ''; }, 2000);  // Clear the message after 2 seconds
+          emailLink.innerHTML = '<img src="img/index/copy-clipboard.svg" class="home-copy-clipboard"/> Copied!';  // Replace the email with "Copied!"
+          emailLink.style.transition = 'opacity 1s';  // Set the transition for the fade-out effect
+          setTimeout(() => {
+            emailLink.style.opacity = '0';  // Start fading out
+            setTimeout(() => {
+              emailLink.innerHTML = originalContent;  // Restore the original content
+              emailLink.style.opacity = '1';  // Reset the opacity
+            }, 1000);  // Wait for the fade-out to finish before resetting
+          }, 2000);  // Display "Copied!" for 2 seconds before fading out
         })
         .catch(err => {
           console.error('Failed to copy email: ', err);  // Error handling in case the copy fails
