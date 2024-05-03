@@ -31,4 +31,20 @@
   </script>
   <!-- End Inspectlet Asynchronous Code -->
 
+  <!-- Copy email address to clipboard -->
+  <script type="text/javascript">
+    function copyEmail() {
+      const email = 'taylorlecroy@gmail.com';  // The email address you want to copy
+      navigator.clipboard.writeText(email)
+        .then(() => {
+          alert('Email address copied to clipboard!');  // Optional: alert the user that copying was successful
+        })
+        .catch(err => {
+          console.error('Failed to copy email: ', err);  // Error handling in case the copy fails
+        });
+      return false;  // Prevent the default href="#" behavior
+    }
+
+  </script>
+
 </head>
