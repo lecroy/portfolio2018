@@ -23,7 +23,9 @@
 .home-location-wrapper {
   text-align: center;
   float: right;
-  margin-right: 1rem;
+  position: absolute;
+  right: 12px;
+  z-index: 1;
 }
 
 .home-pin {
@@ -60,8 +62,9 @@
   position: absolute;
   left: 0;
   right: 0;
+  z-index: 0;
   height: 160px;
-  margin: 3rem auto;
+  margin: 0rem auto;
 }
 
 .timeline-nav-wrapper {
