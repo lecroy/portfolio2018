@@ -25,11 +25,6 @@
   float: right;
 }
 
-.email-text {
-  display: inline-block;
-  width: 235px; 
-}
-
 .home-pin {
   margin-top: -2px;
   width: 16px;
@@ -43,6 +38,8 @@
   margin-left: 8px;
   font-family: $avenir;
   font-weight: 600;
+  display: inline-block;
+  width: 237px;
 
   a {
     font-weight: 600;
