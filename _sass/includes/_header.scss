@@ -23,6 +23,7 @@
 .home-location-wrapper {
   text-align: center;
   float: right;
+  margin-right: 1rem;
 }
 
 .home-pin {
@@ -114,6 +115,10 @@
 
   .site-title {
     display: inline-block;
+  }
+
+  .home-location-wrapper {
+    margin-right: 0;
   }
 
   .homepage-animation {
