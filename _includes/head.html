@@ -43,7 +43,7 @@
         .then(() => {
           clipboardIcon.style.display = 'none'; // Hide the clipboard icon
           emailText.textContent = 'Copied!';  // Update the text to "Copied!"
-          emailText.style.transition = 'opacity 1s';  // Set the transition for the fade-out effect
+          emailText.style.transition = 'opacity .3s';  // Set the transition for the fade-out effect
           setTimeout(() => {
             emailText.style.opacity = '0';  // Start fading out the "Copied!" text
             setTimeout(() => {
