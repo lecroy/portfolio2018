@@ -127,10 +127,6 @@ permalink: /mural
   <p class="page-body-copy">
     I had some quantitative data to go on related to user activities correlated with retention, which would help inform a solution eventually, but a simple heuristic review of the onboarding process revealed a glaring clue: We weren't answering the question "What now?" at the end of our onboarding flow. It was a very sink-or-swim feeling.
   </p>
-  <figure class="figure-inline">
-    <img src="img/mural/travolta.gif" class="mural-onboarding-travolta" alt="A gif of John Travolta wondering what's going on" />
-    <figcaption class="case-study-caption">Sink or swim Mr. Travolta</figcaption>
-  </figure>
   <p class="page-body-copy">
     Based on what I'd discovered, my hypothesis was “We believe if we recommend next steps to new creators entering their first mural, they will create a mural they want to share during onboarding, and therefore reach the Setup Moment on day 1.”
 
