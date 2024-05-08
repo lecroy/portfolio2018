@@ -23,7 +23,7 @@ permalink: /mural
     Redesigning signup
   </h3>
   <figure class="figure-pullout">
-    <img src="img/mural/taylor-arr.svg" width="400" class="mural-arr" alt="Image showing ARR increase after I was hired (and the pandemic started)" />
+    <iframe style="border: none" width="800" height="608" src="https://rive.app/s/tutPb4s2uE_qaoTDCc0KsQ/embed" allowfullscreen allow="autoplay"></iframe>
     <figcaption class="case-study-caption">*Also the start of the pandemic, but who's to say what had the bigger impact on ARR 😉
     </figcaption>
   </figure>
