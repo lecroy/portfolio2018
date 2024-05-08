@@ -23,7 +23,7 @@ permalink: /mural
     Redesigning signup
   </h3>
   <figure class="figure-pullout">
-    <iframe style="border: none" width="800" height="608" src="https://rive.app/s/tutPb4s2uE_qaoTDCc0KsQ/embed" allowfullscreen allow="autoplay"></iframe>
+    <iframe style="border: none" width="400" height="304" src="https://rive.app/s/tutPb4s2uE_qaoTDCc0KsQ/embed" allowfullscreen allow="autoplay"></iframe>
     <figcaption class="case-study-caption">*Also the start of the pandemic, but who's to say what had the bigger impact on ARR 😉
     </figcaption>
   </figure>
