@@ -91,6 +91,11 @@ permalink: /mural
   <p class="page-body-copy">
     With the visual design taking shape, I then worked on fine-tuning the language with our Content Design team. I've always believed getting the copy right and marrying it to the visual tone is as crucial to the success of the final solution as stunning visual design. In fact, probably more so.
   </p>
+  <figure class="figure-pullout">
+    <img src="img/mural/signup-animation.gif" class="mural-animation" alt="A gif showing animation of the signup flow" />
+    <figcaption class="case-study-caption">Adding final touches with motion design
+    </figcaption>
+  </figure>
   <figure class="figure-inline">
     <img src="img/mural/chairs-copy.png" class="mural-chairs-copy" alt="Working on the copy for the signup flow" />
     <figcaption class="case-study-caption">Nailing the copy is as important as nailing the visual design. Probably moreso.</figcaption>
@@ -99,13 +104,8 @@ permalink: /mural
     While I ended up leaving Mural before this work shipped as part of the company-wide rebrand, and thus can't speak to it's impact, I'm proud of where we ended up and think the flow looks fantastic in production today. It lives up to the promise of the brand and website and keeps the user engaged and interested as the product makes its ever-important first impression.
   </p>
   <figure class="figure-inline">
-    <img src="img/mural/signup-animation.gif" class="mural-animation" alt="A gif showing animation of the signup flow" />
-    <figcaption class="case-study-caption">Adding final touches with motion design
-    </figcaption>
-  </figure>
-  <figure class="figure-inline">
     <img src="img/mural/signup.gif" class="mural-signup-gif" alt="Final signup screen with motion" />
-    <figcaption class="case-study-caption">The finished product - fulfilling the promise of the marketing website and adhering to the in-product design system.</figcaption>
+    <figcaption class="case-study-caption">The final product - fulfilling the promise of the marketing website and adhering to the in-product design system.</figcaption>
   </figure>
   <h3 class="page-body-subhead">
     Onboarding refresh
