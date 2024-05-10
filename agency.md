@@ -34,12 +34,10 @@ permalink: /agency
     Ted Ferguson, Bud Light Daredevil was an up and coming YouTube star who would film himself doing stunts like resisting the last slice of pizza and talking to his parents about his future, all for the promise of a cold one if he could make it. We made a bunch of these but something about this one is my favorite.
   </p>
 
-  <div class="iframe-wrapper">
-    <iframe width="540" height="315" src="https://www.youtube.com/embed/Xw5sJ04HkbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/bU3RrrpzVec?si=R1wo5gbkMkGTaHm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <p class="page-body-copy">
-    The writer at my agency who originally pitched the chatacter did such a good job the folks at Anheuser-Busch casted him as Ted Ferguson. Shout out to Jeb Quaid.
+    The writer at my agency who originally pitched the chatacter did such a good job the folks at Anheuser-Busch ended up casting him as Ted Ferguson. Shout out to Jeb Quaid.
   </p>
 
   <p class="page-body-copy">
@@ -68,9 +66,7 @@ permalink: /agency
     Susie Doyens was afraid to speak until she found her confidence through golf. I'm proud to have been a part of telling her story in this spot for Special Olympics with Director Martin Rodahl.
   </p>
 
-  <div class="iframe-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/bU3RrrpzVec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/bU3RrrpzVec?si=R1wo5gbkMkGTaHm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <h4 class="page-body-interior-subhead">
     Premier Dermatology
