@@ -20,7 +20,7 @@ permalink: /mural
 
 <div class="page-body-wrapper">
   <h3 class="page-body-subhead">
-    Redesigning signup
+    Selling a vision through signup
   </h3>
   <figure class="figure-pullout">
     <iframe style="border: none" width="400" height="304" src="https://rive.app/s/xYewiJtWLkSfkLxmwmBVZg/embed" allowfullscreen allow="autoplay"></iframe>
