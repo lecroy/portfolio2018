@@ -108,7 +108,7 @@ permalink: /mural
     <figcaption class="case-study-caption">The final product - fulfilling the promise of the marketing website and adhering to the in-product design system.</figcaption>
   </figure>
   <h3 class="page-body-subhead">
-    Onboarding refresh
+    Onboarding for better retention
   </h3>
   <p class="page-body-copy">
     Another project I'm proud of from my Mural years is the work we did to get new workspace creators to the Setup Moment – defined as “Creating a new mural with relevant content” – earlier in their journey.
