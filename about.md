@@ -50,12 +50,12 @@ permalink: /about
     Working with me
   </h4>
   <p class="page-body-copy">
-    My approach to work is grounded in authenticity. It's about being genuinely myself in every interaction, combining professionalism with personal character. This balance leads to better and more effective collaborations, as people sense and appreciate authenticity. I believe our work is an extension of who we are, reflecting our beliefs and the impact we want to make. Daily growth in all life areas contributes to our overall success, both personally and professionally.
+    Work is a reflection of our beliefs and the impact we aim to make. Growing daily in all aspects of life contributes to our overall success, both personally and professionally. Genuinely caring about the outcome every day is my secret sauce for success, both on the job and in life.
     <br/>
     <br/>
-    My work ethic revolves around sustainable intensity, prioritizing health in all aspects – mental, physical, emotional, and spiritual. This holistic well-being is essential for peak performance. I incorporate practices like meditation, reading, connection with nature, and quality time with family to maintain this balance. In meetings, I value humor and fun. The best input and ideas come from people who are relaxed and riffing, not stressed or just there because they're obligated to attend. 
+    You can't reach your ceiling inside or outside of work if you're running on empty. My toolkit includes tinkering with things away from the computer, reading, trail running, and making art with my two young ones. I'm the guy that goes for the joke in the middle of a tense meeting, to remind everyone that we're supposed to be doing what we love. The best ideas come from people who are relaxed and having fun, not those who look like they’re stuck in a bad sitcom. The best input and ideas always come from people who are relaxed and riffing, not stressed or just there because they're obligated to attend. 
     <br/>
     <br/>
-    My feedback style is direct and detailed, aiming to build trust by demonstrating thoughtfulness and commitment. In leadership, I emphasize health, authenticity, extreme ownership, autonomy, and continuous growth, fostering a culture of accountability and relentless pursuit of personal and professional development.
+    Collaboratively, my style is direct and my feedback detailed and considered. I build trust by showing I’m invested. In my own work, I've learned that good is the enemy of great and that commitment to craft is key to my own personal job satisfaction. Putting amazing things into the world is what makes me tick and allows me to sleep peacefully at night. It's what I was put here for and what I'll always stay committed to.
   </p>
 </div>
