@@ -33,6 +33,16 @@
   width: 16px;
 }
 
+.copy-tag {
+  font-family: $decima;
+  font-size: 10px;
+  font-weight: 600;
+  margin-top: 8px;
+  border: 1px solid #232323;
+  border-radius: 4px;
+  padding: 4px;
+}
+
 .header-email-link {
   color: #232323;
   background: rgba($color: #232323, $alpha: .05);
@@ -42,7 +52,7 @@
   font-weight: 600;
   display: inline-block;
   padding: 6px 10px 7px;
-  width: 210px;
+  width: 260px;
   font-size: 14px;
   transition: 200ms all;
 
