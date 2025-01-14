@@ -71,11 +71,11 @@ permalink: /bubbles
   </h4>
   <p class="page-body-copy">
     As we gained traction with larger teams, we recognized the need for more structured collaboration. We implemented:
-    <ul>
-      <li>Role-based access control for enterprise security</li>
-      <li>Project-based channels for organized communication</li>
-      <li>Flexible timer extensions for Pro users</li>
-    </ul>
+  </p>
+  <p class="page-body-copy">
+      • Role-based access control for enterprise security<br/>
+      • Project-based channels for organized communication<br/>
+      • Flexible timer extensions for Pro users<br/>
   </p>
   <br/>
   <h4 class="page-body-interior-subhead">
@@ -83,12 +83,12 @@ permalink: /bubbles
   </h4>
   <p class="page-body-copy">
     Our biggest bet came with the integration of AI technology. We developed an intelligent meeting recorder that could:
-    <ul>
-      <li>Connect with existing calendar systems like Google and Outlook</li>
-      <li>Automatically transcribe meetings, delivering summaries and next steps</li>
-      <li>Create smart sharing rules</li>
-      <li>Generate follow-up spaces for asynchronous discussion</li>
-    </ul>
+  </p>
+  <p class="page-body-copy">
+    • Connect with existing calendar systems like Google and Outlook<br/>
+    • Automatically transcribe meetings, delivering summaries and next steps<br/>
+    • Create smart sharing rules<br/>
+    • Generate follow-up spaces for asynchronous discussion<br/>
   </p>
   <br/>
   <h4 class="page-body-interior-subhead">
