@@ -1,5 +1,7 @@
 ---
 ---
+@charset "utf-8";
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
   "styleguide/colors",
@@ -14,13 +16,13 @@
   "includes/footer",
 
   "views/homepage",
+  "views/bubbles",
   "views/mural",
   "views/olark",
   "views/freelance",
   "views/enso",
   "views/ofa",
   "views/agency",
-  "views/bubbles",
   "views/about"
 ;
 
