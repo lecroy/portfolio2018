@@ -107,12 +107,10 @@ permalink: /bubbles
     Key Design Principles I Learned
   </h4>
   <p class="page-body-copy">
-    <ol>
-      <li>Start with user psychology, not features</li>
-      <li>Make complexity feel effortless</li>
-      <li>Design for habits, not just actions</li>
-      <li>Balance innovation with familiarity</li>
-    </ol>
+  • Start with user psychology, not features<br/>
+  • Make complexity feel effortless<br/>
+  • Design for habits, not just actions<br/>
+  • Balance innovation with familiarity<br/>
   </p>
   <br/>
   <h4 class="page-body-interior-subhead">
