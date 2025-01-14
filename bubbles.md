@@ -52,7 +52,8 @@ permalink: /bubbles
   </h4>
   <p class="page-body-copy">
     I began working with PMs to interview remote workers in our target audience, revelaing a critical insight: the true pain point for remote teams wasn't about recording quality or features – it was about <strong>uncertainty</strong>. 
-    
+  </p>
+  <p class="page-body-copy">
     Teams working across time zones were stuck in a perpetual state of limbo, never knowing when (or if) they'd receive the input or feedback needed to keep their projects moving on schedule. Projects would stall, momentum would fade, and frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
   </p>
   <h4 class="page-body-interior-subhead">
@@ -61,6 +62,10 @@ permalink: /bubbles
   <p class="page-body-copy">
     We introduced expiration dates for video messages – a seemingly simple feature that profoundly impacted user behavior. Authors could now set clear expectations for response times, and recipients understood their role in the communication flow through our "response required" vs. "response optional" system.
   </p>
+  <figure class="figure-inline">
+    <img src="img/bubbles/timer1.gif" class="bubbles-timer" alt="The bubble author adjusting the respose expectations and time frame for the desired response" />
+    <figcaption class="case-study-caption">The bubble author can adjust the respose expectations per recipient, and select the time frame for all desired responses.</figcaption>
+  </figure>
   <h4 class="page-body-interior-subhead">
     Building for Scale and Security
   </h4>
