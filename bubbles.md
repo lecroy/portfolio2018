@@ -137,11 +137,11 @@ permalink: /bubbles
     <a href="/" class="case-study-previous-link">
       Home
     </a>
-    <a href="/olark" class="case-study-next-link freelance-next-link">
+    <a href="/mural" class="case-study-next-link freelance-next-link">
       <span class="next-link-timespan">
-        2014-2019
+        2020-2022
       </span>
-      Olark
+      Mural
     </a>
   </nav>
 
