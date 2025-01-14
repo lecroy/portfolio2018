@@ -77,6 +77,7 @@ permalink: /bubbles
       <li>Flexible timer extensions for Pro users</li>
     </ul>
   </p>
+  <br/>
   <h4 class="page-body-interior-subhead">
     The AI Evolution
   </h4>
@@ -89,6 +90,7 @@ permalink: /bubbles
       <li>Generate follow-up spaces for asynchronous discussion</li>
     </ul>
   </p>
+  <br/>
   <h4 class="page-body-interior-subhead">
     The Final Vision: Your Video Inbox
   </h4>
@@ -112,6 +114,7 @@ permalink: /bubbles
       <li>Balance innovation with familiarity</li>
     </ol>
   </p>
+  <br/>
   <h4 class="page-body-interior-subhead">
     Reflection
   </h4>
