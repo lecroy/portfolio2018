@@ -32,18 +32,18 @@ permalink: /bubbles
     </figcaption>
   </figure>
   <p class="page-body-copy">
-    In Summer 2022 I joined a seed-stage startup called Bubbles as Principal Product Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become more of a back-and-forth video tool for remote team collaboration, rather than a presentational tool.
+    In Summer 2022 I joined a seed-stage startup called Bubbles as Principal Product Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become more of a back-and-forth conversational platform for remote team collaboration, rather than a presentational tool.
 
     The journey that followed would teach me valuable lessons about 0-to-1 product design, user psychology, and the delicate balance between innovation and user needs.
-  </p>
-  <p class="page-body-copy">
-    Bubbles had a core group of about 20,000 monthly active users who were big fans. They loved the app for it's lightweight onboarding, ease-of-use, and of course the fact that it was  free.
-
-    Bubbles was well-liked and useful, but not yet transformative. Users could record their screen, add their camera feed, and share links. While functional, it wasn't addressing the deeper challenges of remote collaboration.
   </p>
   <h3 class="page-body-subhead">
     The challenge
   </h3>
+  <p class="page-body-copy">
+    Bubbles had a core group of about 20,000 monthly active users who were big fans. They loved the app for it's lightweight onboarding, ease-of-use, and of course the fact that it was  free.
+
+    Bubbles was well-liked and useful, but not yet transformative. Users could record their screen, add their camera feed, and share links. While functional, it wasn't addressing the deeper challenges related to working with people who may be going to sleep when you were waking up, and vice-versa.
+  </p>
   <p class="page-body-copy">
     Having a supportive user community was great, but the writing was on the wall: Bubbles could not remain viable as a free tool and needed to find a path to monetization. Quickly.
   </p>
@@ -51,7 +51,9 @@ permalink: /bubbles
     Uncovering the Real Problem
   </h4>
   <p class="page-body-copy">
-    Our research revealed a critical insight: the true pain point for remote teams wasn't about recording quality or features – it was about uncertainty. Teams working across time zones were stuck in a perpetual state of limbo, never knowing when (or if) they'd receive the input or feedback needed to keep projects moving on schedule. Projects would stall, momentum would fade, and frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
+    I began working with PMs to interview remote workers in our target audience, revelaing a critical insight: the true pain point for remote teams wasn't about recording quality or features – it was about <strong>uncertainty</strong>. 
+    
+    Teams working across time zones were stuck in a perpetual state of limbo, never knowing when (or if) they'd receive the input or feedback needed to keep their projects moving on schedule. Projects would stall, momentum would fade, and frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
   </p>
   <h4 class="page-body-interior-subhead">
     The Power of Deadlines
@@ -62,11 +64,6 @@ permalink: /bubbles
   <h4 class="page-body-interior-subhead">
     Building for Scale and Security
   </h4>
-  <figure class="figure-pullout">
-    <img src="img/mural/compositions.png" class="mural-compositions" alt="Sketches of potential compositions of the signup form" />
-    <figcaption class="case-study-caption">Early composition studies
-    </figcaption>
-  </figure>
   <p class="page-body-copy">
     As we gained traction with larger teams, we recognized the need for more structured collaboration. We implemented:
     <ul>
