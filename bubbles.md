@@ -22,20 +22,20 @@ permalink: /bubbles
   <h3 class="page-body-subhead">
     Reimagining Remote Collaboration
   </h3>
-  <figure class="figure-inline">
-    <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="The bubbles activity inbox ahowing new videos" />
-    <figcaption class="case-study-caption">The Bubbles inbox. Wake up to a feed of screen recordings from your remote teammates, with response expectations attached.</figcaption>
-  </figure>
   <figure class="figure-pullout">
     <img src="img/bubbles/before1.png" width="400" class="bubbles-before" alt="Image showing bubbles dashboard when I started" />
     <figcaption class="case-study-caption">This was Bubbles when I started: a free-to-use, single-player screen recorder.
     </figcaption>
   </figure>
   <p class="page-body-copy">
-    In Summer 2022 I joined a seed-stage startup called Bubbles as Principal Product Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become more of a back-and-forth conversational platform for remote team collaboration, rather than a presentational tool.
+    In 2022 I joined a seed-stage startup called Bubbles as Principal Product Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become more of a back-and-forth conversational platform for remote team collaboration, rather than a presentational tool.
 
     The journey that followed would teach me valuable lessons about 0-to-1 product design, user psychology, and the delicate balance between innovation and user needs.
   </p>
+  <figure class="figure-inline">
+    <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="The bubbles activity inbox ahowing new videos" />
+    <figcaption class="case-study-caption">The Bubbles inbox. Wake up to a feed of screen recordings from your remote teammates, with response expectations attached.</figcaption>
+  </figure>
   <h3 class="page-body-subhead">
     The challenge
   </h3>
