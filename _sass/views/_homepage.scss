@@ -149,6 +149,10 @@
   left: 0;
   cursor: pointer;
 
+  &.bubbles-hover-img {
+    background-image: url('/img/index/bubbles-bw.png');
+  }
+
   &.mural-hover-img {
     background-image: url('/img/index/mural.png');
   }
