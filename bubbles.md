@@ -130,7 +130,7 @@ permalink: /bubbles
   <p class="page-body-copy">
     Looking back, Bubbles was more than a product – it was an experiment in changing how teams communicate. While we may not have reached our ultimate goal, we proved that with thoughtful design and clear focus on user needs, you can create meaningful change in how people work together.
 
-    The journey from simple screen recorder to sophisticated collaboration platform taught me that great product design isn't just about solving problems – it's about understanding human behavior and creating experiences that feel natural, intuitive, and empowering.
+    The journey from simple screen recorder to sophisticated collaboration platform taught me that great product design isn't just about solving problems – it's about understanding human behavior and folding that knowledge into crafting an experience that augments and builds upon existing behavior.
   </p>
   
   <nav class="case-study-end-nav">
