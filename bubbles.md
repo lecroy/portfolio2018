@@ -48,7 +48,7 @@ permalink: /bubbles
     Having a supportive user community was great, but the writing was on the wall: Bubbles could not remain viable as a free tool and needed to find a path to monetization. Quickly.
   </p>
   <h4 class="page-body-interior-subhead">
-    Uncovering the Real Problem
+    Uncovering the real problem
   </h4>
   <p class="page-body-copy">
     I began working with PMs to interview remote workers in our target audience, revelaing a critical insight: the true pain point for remote teams wasn't about recording quality or features – it was about <strong>uncertainty</strong>. 
@@ -57,7 +57,7 @@ permalink: /bubbles
     Teams working across time zones were stuck in a perpetual state of limbo, never knowing when (or if) they'd receive the input or feedback needed to keep their projects moving on schedule. Projects would stall, momentum would fade, and frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
   </p>
   <h4 class="page-body-interior-subhead">
-    The Power of Deadlines
+    The power of the deadline
   </h4>
   <p class="page-body-copy">
     We introduced expiration dates for video messages – a seemingly simple feature that profoundly impacted user behavior. Authors could now set clear expectations for response times, and recipients understood their role in the communication flow through our "response required" vs. "response optional" system.
@@ -66,8 +66,15 @@ permalink: /bubbles
     <img src="img/bubbles/timer1.gif" class="bubbles-timer" alt="The bubble author adjusting the respose expectations and time frame for the desired response" />
     <figcaption class="case-study-caption">The bubble author can adjust the respose expectations per recipient, and select the time frame for all desired responses.</figcaption>
   </figure>
+  <p class="page-body-copy">
+    Having video context for replies was equally important. Our core belief was that a screen share allowed for visual context that just doesn't come across in an email, bullet points or a wall of text:
+  </p>
+  <figure class="figure-inline">
+    <img src="img/bubbles/video-reply.png" class="bubbles-video-reply" alt="Participants can leave replies in the form of video and screen share as well as text." />
+    <figcaption class="case-study-caption">Participants can leave replies in multi-modal format: video, screen share, as well as text.</figcaption>
+  </figure>
   <h4 class="page-body-interior-subhead">
-    Building for Scale and Security
+    Building for scale and security
   </h4>
   <p class="page-body-copy">
     As we gained traction with larger teams, we recognized the need for more structured collaboration. We implemented:
@@ -79,7 +86,7 @@ permalink: /bubbles
   </p>
   <br/>
   <h4 class="page-body-interior-subhead">
-    The AI Evolution
+    The AI evolution
   </h4>
   <p class="page-body-copy">
     Our biggest bet came with the integration of AI technology. We developed an intelligent meeting recorder that could:
@@ -91,8 +98,12 @@ permalink: /bubbles
     • Generate follow-up spaces for asynchronous discussion<br/>
   </p>
   <br/>
+  <figure class="figure-inline">
+    <img src="img/bubbles/notetaker.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." />
+    <figcaption class="case-study-caption">Meetings are perfectly encapsulated with AI transcript and next steps, with space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting.</figcaption>
+  </figure>
   <h4 class="page-body-interior-subhead">
-    The Final Vision: Your Video Inbox
+    The final vision: Your remote video inbox
   </h4>
   <p class="page-body-copy">
     The culmination of our work was a beautifully designed video inbox – a morning destination for catching up with your team's updates. It represented a fundamental shift from reactive to proactive collaboration.
@@ -104,7 +115,7 @@ permalink: /bubbles
     While Bubbles ultimately didn't secure Series A funding, we achieved significant milestones. The company grew from $0 to $200K ARR through word-of-mouth, transformed free users into paying customers, and built a product that users genuinely loved using.
   </p>
   <h4 class="page-body-interior-subhead">
-    Key Design Principles I Learned
+    Key design principles I learned
   </h4>
   <p class="page-body-copy">
   • Start with user psychology, not features<br/>
