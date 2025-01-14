@@ -10,7 +10,7 @@ permalink: /bubbles
     <h1 class="word">Bubbles</h1>
   </div>
   <h6 class="page-subhead-timespan">
-    2022-Current
+    2022-2024
   </h6>
   <h6 class="page-subhead-responsibilities">
     Principal Product Designer
@@ -20,18 +20,26 @@ permalink: /bubbles
 
 <div class="page-body-wrapper">
   <h3 class="page-body-subhead">
-    The beginning
+    Reimagining Remote Collaboration
   </h3>
+  <figure class="figure-inline">
+    <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="The bubbles activity inbox ahowing new videos" />
+    <figcaption class="case-study-caption">The Bubbles inbox. Wake up to a feed of screen recordings from your remote teammates, with response expectations attached.</figcaption>
+  </figure>
   <figure class="figure-pullout">
-    <img src="img/mural/taylor-arr.svg" width="400" class="mural-arr" alt="Image showing ARR increase after I was hired (and the pandemic started)" />
-    <figcaption class="case-study-caption">*Also the start of the pandemic, but who's to say what had the bigger impact on ARR 😉
+    <img src="img/bubbles/before1.png" width="400" class="bubbles-before" alt="Image showing bubbles dashboard when I started" />
+    <figcaption class="case-study-caption">This was Bubbles when I started: a free-to-use, single-player screen recorder.
     </figcaption>
   </figure>
   <p class="page-body-copy">
-    In Summer 2022 I joined a seed-stage startup called Bubbles as Principal Product Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become more of a back-and-forth video tool for remote team collaboration, rather than a one-to-many presentation tool.
+    In Summer 2022 I joined a seed-stage startup called Bubbles as Principal Product Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become more of a back-and-forth video tool for remote team collaboration, rather than a presentational tool.
+
+    The journey that followed would teach me valuable lessons about 0-to-1 product design, user psychology, and the delicate balance between innovation and user needs.
   </p>
   <p class="page-body-copy">
-    Bubbles had a core group of about 20,000 monthly active users who were big fans. They loved the app for it's lightweight onboarding, ease-of-use, and of course the fact that it was entirely free.
+    Bubbles had a core group of about 20,000 monthly active users who were big fans. They loved the app for it's lightweight onboarding, ease-of-use, and of course the fact that it was  free.
+
+    Bubbles was well-liked and useful, but not yet transformative. Users could record their screen, add their camera feed, and share links. While functional, it wasn't addressing the deeper challenges of remote collaboration.
   </p>
   <h3 class="page-body-subhead">
     The challenge
@@ -40,28 +48,19 @@ permalink: /bubbles
     Having a supportive user community was great, but the writing was on the wall: Bubbles could not remain viable as a free tool and needed to find a path to monetization. Quickly.
   </p>
   <h4 class="page-body-interior-subhead">
-    The problem
+    Uncovering the Real Problem
   </h4>
-  <figure class="figure-inline">
-    <img src="img/mural/mural-site.gif" class="mural-site" alt="The Mural website is colorful, full of life and movement" />
-    <figcaption class="case-study-caption">Our new marketing website was colorful, full of life and movement...</figcaption>
-  </figure>
-  <figure class="figure-inline">
-    <img src="img/mural/mural-signup-before.png" class="mural-signup-before" alt="The next step in the flow: a relatively lifeless signup experience" />
-    <figcaption class="case-study-caption">...contrasted with the next step in the flow: a flat, lifeless signup experience</figcaption>
-  </figure>
   <p class="page-body-copy">
-    Put bluntly, the signup flow simply didn't live up to the promise of the marketing website. Where was the collaboration, the movement, the color? It felt like a different brand and company.
+    Our research revealed a critical insight: the true pain point for remote teams wasn't about recording quality or features – it was about uncertainty. Teams working across time zones were stuck in a perpetual state of limbo, never knowing when (or if) they'd receive the input or feedback needed to keep projects moving on schedule. Projects would stall, momentum would fade, and frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
   </p>
-  <p class="page-body-copy">
-    It wasn't just the first step either. The entire flow followed the same lifeless theme:
-  </p>
-  <figure class="figure-inline">
-    <img src="img/mural/mural-signup-flow-before.png" class="mural-signup-flow-before" alt="The whole signup flow looking grey and bland" />
-    <figcaption class="case-study-caption">The greyness will continue until morale improves.</figcaption>
-  </figure>
   <h4 class="page-body-interior-subhead">
-    The design approach
+    The Power of Deadlines
+  </h4>
+  <p class="page-body-copy">
+    We introduced expiration dates for video messages – a seemingly simple feature that profoundly impacted user behavior. Authors could now set clear expectations for response times, and recipients understood their role in the communication flow through our "response required" vs. "response optional" system.
+  </p>
+  <h4 class="page-body-interior-subhead">
+    Building for Scale and Security
   </h4>
   <figure class="figure-pullout">
     <img src="img/mural/compositions.png" class="mural-compositions" alt="Sketches of potential compositions of the signup form" />
@@ -69,106 +68,57 @@ permalink: /bubbles
     </figcaption>
   </figure>
   <p class="page-body-copy">
-    We had to get this right, and the stakeholder map was wide and convoluted. I needed to break this down into manageable steps and begin to move the team forward.
-  </p>
-  <p class="page-body-copy">
-    First, we needed to align on the voice and tone of this flow. We had the beginnings of a visual style emerging from the brand team, but we needed to decide what aspects to bring into the signup moment specifically. Running some casual brainstorming, we aligned on a tonal direction.
-  </p>
-  <figure class="figure-inline">
-    <img src="img/mural/new-direction.png" class="mural-new-direction" alt="Sticky notes with voice and tone options" />
-    <figcaption class="case-study-caption">Working on voice and tone, and learning from previous efforts</figcaption>
-  </figure>
-  <p class="page-body-copy">
-    Inviting. Familiar. Warm. These are the feelings a proper signup experience should invoke, within the constraints of a fun and energetic brand.
-  </p>
-  <p class="page-body-copy">
-    From this initial decision, a visual metaphor then began to emerge. Signup should feel like an invitation. Come in. Sit down. Stay awhile. "Seats" aren't just an integral part of our SaaS pricing and packaging. Taken literally, they're bastions of comfort and safe havens in an increasingly troubling world.
-  </p>
-  <figure class="figure-inline">
-    <img src="img/mural/chairs.png" class="mural-chairs" alt="Layout options with chairs as a visual device" />
-    <figcaption class="case-study-caption">A visual metaphor started to emerge</figcaption>
-  </figure>
-  <p class="page-body-copy">
-    Next, we needed to land on a composition and finalize the visual hierarchy. In our case, grounding the illustration at the bottom of the viewport made conceptual sense with the chair metaphor, and allowed for easy adaptation to a single-column mobile layout.
-  </p>
-  <p class="page-body-copy">
-    With the visual design taking shape, I then worked on fine-tuning the language with our Content Design team. I've always believed getting the copy right and marrying it to the visual tone is as crucial to the success of the final solution as stunning visual design. In fact, probably more so.
-  </p>
-  <figure class="figure-pullout">
-    <img src="img/mural/signup-animation.gif" class="mural-animation" alt="A gif showing animation of the signup flow" />
-    <figcaption class="case-study-caption">Adding final touches with motion design
-    </figcaption>
-  </figure>
-  <figure class="figure-inline">
-    <img src="img/mural/chairs-copy.png" class="mural-chairs-copy" alt="Working on the copy for the signup flow" />
-    <figcaption class="case-study-caption">Nailing the copy is as important as nailing the visual design. Probably moreso.</figcaption>
-  </figure>
-  <p class="page-body-copy">
-    While I ended up leaving Mural before this work shipped as part of the company-wide rebrand, and thus can't speak to it's impact, I'm proud of where we ended up and think the flow looks fantastic in production today. It lives up to the promise of the brand and website and keeps the user engaged and interested as the product makes its ever-important first impression.
-  </p>
-  <figure class="figure-inline">
-    <img src="img/mural/signup.gif" class="mural-signup-gif" alt="Final signup screen with motion" />
-    <figcaption class="case-study-caption">The first step of signup - fulfilling the promise of the marketing website and adhering to the in-product design system.</figcaption>
-  </figure>
-  <h3 class="page-body-subhead">
-    Onboarding refresh
-  </h3>
-  <p class="page-body-copy">
-    Another project I'm proud of from my Mural years is the work we did to get new workspace creators to the Setup Moment – defined as “Creating a new mural with relevant content” – earlier in their journey.
+    As we gained traction with larger teams, we recognized the need for more structured collaboration. We implemented:
+    <ul>
+      <li>Role-based access control for enterprise security</li>
+      <li>Project-based channels for organized communication</li>
+      <li>Flexible timer extensions for Pro users</li>
+    </ul>
   </p>
   <h4 class="page-body-interior-subhead">
-    The problem
+    The AI Evolution
   </h4>
   <p class="page-body-copy">
-    The data told us that 81% of new signups created a mural within their first day, but only 65% added content to the mural. The opportunity here as I saw it was to better enable new creators to put together a mural they were proud to share, faster.
+    Our biggest bet came with the integration of AI technology. We developed an intelligent meeting recorder that could:
+    <ul>
+      <li>Connect with existing calendar systems like Google and Outlook</li>
+      <li>Automatically transcribe meetings, delivering summaries and next steps</li>
+      <li>Create smart sharing rules</li>
+      <li>Generate follow-up spaces for asynchronous discussion</li>
+    </ul>
+  </p>
+  <h4 class="page-body-interior-subhead">
+    The Final Vision: Your Video Inbox
+  </h4>
+  <p class="page-body-copy">
+    The culmination of our work was a beautifully designed video inbox – a morning destination for catching up with your team's updates. It represented a fundamental shift from reactive to proactive collaboration.
+  </p>
+  <h3 class="page-body-subhead">
+    Impact & Learnings
+  </h3>
+  <p class="page-body-copy">
+    While Bubbles ultimately didn't secure Series A funding, we achieved significant milestones. The company grew from $0 to $200K ARR through word-of-mouth, transformed free users into paying customers, and built a product that users genuinely loved using.
+  </p>
+  <h4 class="page-body-interior-subhead">
+    Key Design Principles I Learned
+  </h4>
+  <p class="page-body-copy">
+    <ol>
+      <li>Start with user psychology, not features</li>
+      <li>Make complexity feel effortless</li>
+      <li>Design for habits, not just actions</li>
+      <li>Balance innovation with familiarity</li>
+    </ol>
+  </p>
+  <h4 class="page-body-interior-subhead">
+    Reflection
+  </h4>
+  <p class="page-body-copy">
+    Looking back, Bubbles was more than a product – it was an experiment in changing how teams communicate. While we may not have reached our ultimate goal, we proved that with thoughtful design and clear focus on user needs, you can create meaningful change in how people work together.
 
-    This needed to be more than just making the share button bigger or adding a standard product tour. It wasn't enough to make sharing easy – creators had to want to share their mural. And in order to achieve that state, they needed to be proud of what they were sharing.
-  <figure class="figure-inline">
-    <img src="img/mural/onboarding-problem.png" class="mural-onboarding-problem" alt="Sticky notes showing the dropoff after signup" />
-    <figcaption class="case-study-caption">81% of new signups create a mural within 1 day, but only 65% add content to the mural.</figcaption>
-  </figure>
-  <p class="page-body-copy">
-    I had some quantitative data to go on related to user activities correlated with retention, which would help inform a solution eventually, but a simple heuristic review of the onboarding process revealed a glaring clue: We weren't answering the question "What now?" at the end of our onboarding flow. It was a very sink-or-swim feeling.
+    The journey from simple screen recorder to sophisticated collaboration platform taught me that great product design isn't just about solving problems – it's about understanding human behavior and creating experiences that feel natural, intuitive, and empowering.
   </p>
-  <figure class="figure-inline">
-    <img src="img/mural/travolta.gif" class="mural-onboarding-travolta" alt="A gif of John Travolta wondering what's going on" />
-    <figcaption class="case-study-caption">Sink or swim Mr. Travolta</figcaption>
-  </figure>
-  <p class="page-body-copy">
-    Based on what I'd discovered, my hypothesis was “We believe if we recommend next steps to new creators entering their first mural, they will create a mural they want to share during onboarding, and therefore reach the Setup Moment on day 1.”
-
-    We'd measure success based on an increase of new creators reaching Setup on day 1 by 10%; with 1-day and 1-week retention serving as secondary success metrics.
-
-    The next step was to identify many different ways to move the needle on those metrics and weigh their trade-offs.
-  </p>
-  <figure class="figure-inline">
-    <img src="img/mural/onboarding-brainstorm.png" class="mural-onboarding-brainstorm" alt="A brainstorm canvas" />
-    <figcaption class="case-study-caption">When I set up a brainstorm, I'm looking to tell a story with the pieces of the discovery work I find most insightful.</figcaption>
-  </figure>
-  <p class="page-body-copy">
-    A colleague once explained his view of product design process, saying "You're always either making a mess, or cleaning one up." In this case, it was now time to clean up the mess of sticky notes and sketches we had on our brainstorm canvas, and start to synthesize the output. I typically do this by grouping similar ideas and themes and then putting a low fidelity mockup against each. This allows for a followup discussion about what will most likely move the needle with as little cost as possible.
-  </p>
-  <figure class="figure-inline">
-    <img src="img/mural/brainstorm-synthesis.png" class="mural-brainstorm-synthesis" alt="Organizing the brainstorm output into themes" />
-    <figcaption class="case-study-caption">Organizing the brainstorm output into themes</figcaption>
-  </figure>
-  <p class="page-body-copy">
-    After regrouping with a Product Manager and Engineering lead for input on value and cost, respectively, it's time for my favorite part of the process: turning the abstract into something tangible using rapid prototypes. There's no substitute for putting something visual into the team's hands that we can start to mold into the right thing that properly fills the shape of the problem.
-  </p>
-  <figure class="figure-inline">
-    <img src="img/mural/prototyping.png" class="mural-prototyping" alt="A group of three Figma prototypes" />
-    <figcaption class="case-study-caption">Prototyping in Figma to find what feels right and what doesn't</figcaption>
-  </figure>
-  <p class="page-body-copy">
-    With the ability to interact and iterate with prototypes, we zeroed in on an interactive checklist that would live in the canvas when the new user lands for the first time. The items on the list were the ones that helped new users get acquainted and begin building a mural they were proud of, while kicking the tires and exploring at their own pace. They were also actions that correlated strongly with retention.
-  </p>
-  <figure class="figure-inline">
-    <img src="img/mural/mural-onboarding-final.png" class="mural-final-onboarding" alt="The finished onbaording checklist" />
-    <figcaption class="case-study-caption">The final product: An answer to "What next?"</figcaption>
-  </figure>
-  <p class="page-body-copy">
-    The onboarding checklist experiment proved effective, increasing 1-day retention by nearly 29%, and 1-week retention by 11%.
-  </p>
+  
   <nav class="case-study-end-nav">
     <a href="/" class="case-study-previous-link">
       Home
