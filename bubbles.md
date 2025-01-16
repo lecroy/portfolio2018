@@ -64,10 +64,10 @@ permalink: /bubbles
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/timer1.gif" class="bubbles-timer" alt="The bubble author adjusting the respose expectations and time frame for the desired response" />
-    <figcaption class="case-study-caption">The bubble author can adjust the respose expectations per recipient, and select the time frame for all desired responses.</figcaption>
+    <figcaption class="case-study-caption">Authors can adjust the respose expectation of each recipient, and select the time frame for all desired responses.</figcaption>
   </figure>
   <p class="page-body-copy">
-    Having video context for replies was equally important. Our core belief was that a screen share allowed for visual context that just doesn't come across in an email, bullet points or a wall of text:
+    Having video context for replies was equally important. Our core belief was that screen sharing allowed for visual context that just doesn't come across in an email, bullet points or a wall of text, whether in the original video or in replies and feedback from recipients:
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/video-reply.png" class="bubbles-video-reply" alt="Participants can leave replies in the form of video and screen share as well as text." />
