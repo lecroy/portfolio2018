@@ -40,27 +40,27 @@ permalink: /bubbles
     The challenge
   </h3>
   <p class="page-body-copy">
-    Bubbles had a core group of about 20,000 monthly active users who were big fans. They loved the app for it's lightweight onboarding, ease-of-use, and of course the fact that it was  free.
+    Bubbles had a core group of about 20,000 monthly active users. They were big fans. They loved the app for it's lightweight onboarding, ease-of-use, and most of all the fact that it was entirely free.
 
-    Bubbles was well-liked and useful, but not yet transformative. Users could record their screen, add their camera feed, and share links. While functional, it wasn't addressing the deeper challenges related to working with people who may be going to sleep when you were waking up, and vice-versa.
+    Bubbles was well-liked and useful, but not yet transformative. Users could record their screen, add their camera feed, and share links. While functional, it wasn't living up to our long-term vision of an async communication platform for remote teams. My task was to begin addressing the deeper challenges of collaborating with people who may be going to sleep when you were waking up, and vice-versa.
   </p>
   <p class="page-body-copy">
-    Having a supportive user community was great, but the writing was on the wall: Bubbles could not remain viable as a free tool and needed to find a path to monetization. Quickly.
+    We also faced the challenge all venture-backed startups do: Find a path to monetization. Quickly. Bubbles was on the clock, and the clock was ticking.
   </p>
   <h4 class="page-body-interior-subhead">
     Uncovering the real problem
   </h4>
   <p class="page-body-copy">
-    I began working with PMs to interview remote workers in our target audience, revelaing a critical insight: the true pain point for remote teams wasn't about recording quality or features – it was about <strong>uncertainty</strong>. 
+    I began working with our PM to interview remote workers in our target audience, revelaing a critical insight: the true pain point for remote teams wasn't about recording quality or features – it was about <strong>uncertainty</strong>. 
   </p>
   <p class="page-body-copy">
-    Teams working across time zones were stuck in a perpetual state of limbo, never knowing when (or if) they'd receive the input or feedback needed to keep their projects moving on schedule. Projects would stall, momentum would fade, and frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
+    People working together across time zones were stuck in a perpetual state of limbo, never knowing when (or if) they'd receive the input or feedback they need to keep their projects moving on schedule. Work would stall, momentum would fade, and frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
   </p>
   <h4 class="page-body-interior-subhead">
     The power of the deadline
   </h4>
   <p class="page-body-copy">
-    We introduced expiration dates for video messages – a seemingly simple feature that profoundly impacted user behavior. Authors could now set clear expectations for response times, and recipients understood their role in the communication flow through our "response required" vs. "response optional" system.
+    We introduced a timer authors could set when authoring their video messages – a seemingly simple feature that profoundly impacted user behavior. Authors could now set clear expectations for response times, and designate recipients as either "Response required" vs. "Just FYI"; with reminders sent out to the former until the timer ran out.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/timer1.gif" class="bubbles-timer" alt="The bubble author adjusting the respose expectations and time frame for the desired response" />
