@@ -89,11 +89,11 @@ permalink: /bubbles
     The AI evolution
   </h4>
   <p class="page-body-copy">
-    Our biggest bet came with the integration of AI technology. We developed an intelligent meeting recorder that could:
+    Our biggest bet came with the integration of AI to the platform. Rather than take on the herculean task of convincing users to change their communication habits, we'd meet people where they already were - in live meetings on Zoom, MS Teams, and Google Meet. We developed an intelligent meeting recorder that could:
   </p>
   <p class="page-body-copy">
     • Connect with existing calendar systems like Google and Outlook<br/>
-    • Automatically transcribe meetings, delivering summaries and next steps<br/>
+    • Automatically transcribe meetings, delivering AI summaries and next steps<br/>
     • Create smart sharing rules<br/>
     • Generate follow-up spaces for asynchronous discussion<br/>
   </p>
@@ -101,6 +101,10 @@ permalink: /bubbles
   <figure class="figure-inline">
     <img src="img/bubbles/notetaker.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." />
     <figcaption class="case-study-caption">Meetings are perfectly encapsulated with AI transcript and next steps, with space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting.</figcaption>
+  </figure>
+  <figure class="figure-inline">
+    <img src="img/bubbles/notetaker-inbox.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." />
+    <figcaption class="case-study-caption">All recordings and transcripts were saved in the app, with granular settings to control which meetings got recorded and who they were shared with.</figcaption>
   </figure>
   <h4 class="page-body-interior-subhead">
     The final vision: Your remote video inbox
