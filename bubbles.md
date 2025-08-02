@@ -89,7 +89,7 @@ permalink: /bubbles
     The AI evolution
   </h4>
   <p class="page-body-copy">
-    Our biggest bet came with the integration of AI to the platform. Rather than take on the herculean task of convincing users to change their communication habits, we'd meet people where they already were - in live meetings on Zoom, MS Teams, and Google Meet. We developed an intelligent meeting recorder that could:
+    Our biggest bet came with the integration of AI to the platform. Rather than take on the herculean task of convincing users to change their communication habits, we'd meet people where they already were - in live meetings on Zoom, MS Teams, and Google Meet. We'd aim to become the place to unpack the meeting and distribute action items async to avoid endless, hard-to-schedule follow-ups. We developed an intelligent meeting recorder that could:
   </p>
   <p class="page-body-copy">
     • Connect with existing calendar systems like Google and Outlook<br/>
@@ -116,7 +116,7 @@ permalink: /bubbles
     Impact & Learnings
   </h3>
   <p class="page-body-copy">
-    While Bubbles ultimately didn't secure Series A funding, we achieved significant milestones. The company grew from $0 to $200K ARR through word-of-mouth, transformed free users into paying customers, and built a product that users genuinely loved using.
+    While Bubbles ultimately didn't unlock the explosive growth needed to secure its next round, we we proved our concept with significant milestones. The company grew from $0 to $500K ARR through word-of-mouth, transformed thousands of free users into paying customers, and built a product that users raved about using.
   </p>
   <h4 class="page-body-interior-subhead">
     Key design principles I learned
