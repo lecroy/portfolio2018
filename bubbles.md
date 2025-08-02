@@ -28,7 +28,7 @@ permalink: /bubbles
     </figcaption>
   </figure>
   <p class="page-body-copy">
-    In 2022 I joined a seed-stage startup called Bubbles as Principal Product Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become more of a back-and-forth conversational platform for remote team collaboration, rather than a presentational tool.
+    In 2022 I joined a seed-stage startup called Bubbles as Principal Product Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become a conversational platform for back-and-forth remote team collaboration, rather than one-way presentations.
 
     The journey that followed would teach me valuable lessons about 0-to-1 product design, user psychology, and the delicate balance between innovation and user needs.
   </p>
@@ -40,9 +40,9 @@ permalink: /bubbles
     The challenge
   </h3>
   <p class="page-body-copy">
-    Bubbles had a core group of about 20,000 monthly active users. They were big fans. They loved the app for it's lightweight onboarding, ease-of-use, and most of all the fact that it was entirely free.
+    Bubbles had a core group of about 20,000 monthly active users. They were big fans. They loved the app for its lightweight onboarding, ease-of-use, and most of all the fact that it was entirely free.
 
-    Bubbles was well-liked and useful, but not yet transformative. Users could record their screen, add their camera feed, and share links. While functional, it wasn't living up to our long-term vision of an async communication platform for remote teams. My task was to begin addressing the deeper challenges of collaborating with people who may be going to sleep when you were waking up, and vice-versa.
+    Bubbles was well-liked and useful, but not yet transformative. Users could record their screen, add their camera feed, and share links. While functional, it wasn't living up to our long-term vision of an async communication platform for remote teams. My task was to address the deeper challenges of collaborating across time zones, when your teammates are going to sleep as you're starting your day.
   </p>
   <p class="page-body-copy">
     We also faced the challenge all venture-backed startups do: Find a path to monetization. Quickly. Bubbles was on the clock, and the clock was ticking.
@@ -51,7 +51,7 @@ permalink: /bubbles
     Uncovering the real problem
   </h4>
   <p class="page-body-copy">
-    I began working with our PM to interview remote workers in our target audience, revelaing a critical insight: the true pain point for remote teams wasn't about recording quality or features – it was about <strong>uncertainty</strong>. 
+    I began working with our PM to interview remote workers in our target audience, revealing a critical insight: the true pain point for remote teams wasn't about recording quality or features – it was about <strong>uncertainty</strong>. 
   </p>
   <p class="page-body-copy">
     People working together across time zones were stuck in a perpetual state of limbo, never knowing when (or if) they'd receive the input or feedback they need to keep their projects moving on schedule. Work would stall, momentum would fade, and frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
@@ -60,11 +60,11 @@ permalink: /bubbles
     The power of the deadline
   </h4>
   <p class="page-body-copy">
-    We introduced a timer authors could set when authoring their video messages – a seemingly simple feature that profoundly impacted user behavior. Authors could now set clear expectations for response times, and designate recipients as either "Response required" vs. "Just FYI"; with reminders sent out to the former until the timer ran out.
+    We introduced a timer that creators could set when recording their video messages – a seemingly simple feature that profoundly impacted user behavior. Authors could now set clear expectations for response times, and designate recipients as either "Response required" vs. "Just FYI"; with reminders sent out to the former until the timer ran out.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/timer1.gif" class="bubbles-timer" alt="The bubble author adjusting the respose expectations and time frame for the desired response" />
-    <figcaption class="case-study-caption">Authors can adjust the respose expectation of each recipient, and select the time frame for all desired responses.</figcaption>
+    <figcaption class="case-study-caption">Authors can choose who they need a response from and by when, with smart reminders sent until the deadline.</figcaption>
   </figure>
   <p class="page-body-copy">
     Having video context for replies was equally important. Our core belief was that screen sharing allowed for visual context that just doesn't come across in an email, bullet points or a wall of text, whether in the original video or in replies and feedback from recipients:
