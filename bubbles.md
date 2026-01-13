@@ -28,7 +28,7 @@ permalink: /bubbles
     </figcaption>
   </figure>
   <p class="page-body-copy">
-    In 2022 I joined a seed-stage startup called Bubbles as Principal Product Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become a conversational platform for back-and-forth remote team collaboration, rather than one-way presentations.
+    In 2022 I joined a seed-stage startup called Bubbles as Principal Product Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become a video-first conversational platform for remote team collaboration, rather than one-way presentations.
 
     What followed was two years of learning how hard it is to get people to actually change how they work – and occasionally succeeding anyway.
   </p>
