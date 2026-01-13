@@ -116,7 +116,7 @@ permalink: /bubbles
     Impact & Learnings
   </h3>
   <p class="page-body-copy">
-    While Bubbles ultimately didn't unlock the explosive growth needed to secure its next round, we we proved our concept with significant milestones. The company grew from $0 to $500K ARR through word-of-mouth, transformed thousands of free users into paying customers, and built a product that users raved about using.
+    While Bubbles ultimately didn't unlock the explosive growth needed to secure its next round, we we proved our concept with significant milestones. The company grew from $0 to $500K ARR through word-of-mouth, converted thousands of free users into paying customers, and built a product that users raved about using.
   </p>
   <h4 class="page-body-interior-subhead">
     Key design principles I learned
@@ -132,9 +132,12 @@ permalink: /bubbles
     Reflection
   </h4>
   <p class="page-body-copy">
-    Looking back, Bubbles was more than a product – it was an experiment in changing how teams communicate. While we may not have reached our ultimate goal, we proved that with thoughtful design and clear focus on user needs, you can create meaningful change in how people work together.
-
-    The journey from simple screen recorder to sophisticated collaboration platform taught me that great product design isn't just about solving problems – it's about understanding human behavior and folding that knowledge into crafting an experience that augments and builds upon existing behavior.
+    Bottom line: Bubbles didn't become the new Slack. We built something people genuinely loved, grew to half a million in ARR through pure word-of-mouth, and got really good at async collaboration. Then the market decided it wasn't quite ready to break up with Zoom.
+  </p>
+  <p class="page-body-copy">
+    Turns out, getting people to change how they communicate is hard. Like, <em>really</em> hard. You can nail the UX, solve real problems, and still lose to the inertia of "this is how we've always done it."
+    But I'm proud of what we built. We proved that deadlines make async actually work. We showed that screen sharing beats text walls 10 times out of 10. And we created a product that people actively missed when it was gone – which might be the best measure of good design there is.
+    Sometimes you build the right thing at the wrong time. That's startup life. At least we looked good doing it.
   </p>
   
   <nav class="case-study-end-nav">
