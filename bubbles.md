@@ -30,7 +30,7 @@ permalink: /bubbles
   <p class="page-body-copy">
     In 2022 I joined a seed-stage startup called Bubbles as Principal Product Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become a conversational platform for back-and-forth remote team collaboration, rather than one-way presentations.
 
-    The journey that followed would teach me valuable lessons about 0-to-1 product design, user psychology, and the delicate balance between innovation and user needs.
+    What followed was two years of learning how hard it is to get people to actually change how they work – and occasionally succeeding anyway.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="The bubbles activity inbox ahowing new videos" />
@@ -45,13 +45,13 @@ permalink: /bubbles
     Bubbles was well-liked and useful, but not yet transformative. Users could record their screen, add their camera feed, and share links. While functional, it wasn't living up to our long-term vision of an async communication platform for remote teams. My task was to address the deeper challenges of collaborating across time zones, when your teammates are going to sleep as you're starting your day.
   </p>
   <p class="page-body-copy">
-    We also faced the challenge all venture-backed startups do: Find a path to monetization. Quickly. Bubbles was on the clock, and the clock was ticking.
+    We also faced the existential crisis all venture-backed startups eventually hit: figure out how to make money, or die trying.
   </p>
   <h4 class="page-body-interior-subhead">
     Uncovering the real problem
   </h4>
   <p class="page-body-copy">
-    I began working with our PM to interview remote workers in our target audience, revealing a critical insight: the true pain point for remote teams wasn't about recording quality or features – it was about <strong>uncertainty</strong>. 
+    After interviewing a bunch of remote workers, we realized we'd been solving the wrong problem. Nobody actually cared about recording quality or features. What was killing them was uncertainty – the awful limbo of not knowing if your teammate in Berlin would get back to you before your deadline in SF. 
   </p>
   <p class="page-body-copy">
     People working together across time zones were stuck in a perpetual state of limbo, never knowing when (or if) they'd receive the input or feedback they need to keep their projects moving on schedule. Work would stall, momentum would fade, and frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
@@ -60,7 +60,7 @@ permalink: /bubbles
     The power of the deadline
   </h4>
   <p class="page-body-copy">
-    We introduced a timer that creators could set when recording their video messages – a seemingly simple feature that profoundly impacted user behavior. Authors could now set clear expectations for response times, and designate recipients as either "Response required" vs. "Just FYI"; with reminders sent out to the former until the timer ran out.
+    We introduced a timer that creators could set when recording their video messages – a simple feature that profoundly impacted users' behavior. Authors could set clear expectations for response times and tag people as either 'Response required' or 'Just FYI.' We'd send reminders to the first group until the deadline hit.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/timer1.gif" class="bubbles-timer" alt="The bubble author adjusting the respose expectations and time frame for the desired response" />
@@ -77,11 +77,11 @@ permalink: /bubbles
     Building for scale and security
   </h4>
   <p class="page-body-copy">
-    As we gained traction with larger teams, we recognized the need for more structured collaboration. We implemented:
+    Once actual enterprises started kicking the tires, we had to grow up fast. That meant:
   </p>
   <p class="page-body-copy">
-      • Role-based access control for enterprise security<br/>
-      • Project-based channels for organized communication<br/>
+      • Role-based access control (because not everyone should see everything)<br/>
+      • Project channels (because '#General' is where conversations go to die)<br/>
       • Flexible timer extensions for Pro users<br/>
   </p>
   <br/>
@@ -89,13 +89,13 @@ permalink: /bubbles
     The AI evolution
   </h4>
   <p class="page-body-copy">
-    Our biggest bet came with the integration of AI to the platform. Rather than take on the herculean task of convincing users to change their communication habits, we'd meet people where they already were - in live meetings on Zoom, MS Teams, and Google Meet. We'd aim to become the place to unpack the meeting and distribute action items async to avoid endless, hard-to-schedule follow-ups. We developed an intelligent meeting recorder that could:
+    Then we made our biggest bet: if we couldn't convince people to change their habits, we'd meet them where they already were – in endless meetings on Zoom, MS Teams, and Google Meet. We'd aim to become the place to unpack the meeting and distribute action items async to avoid endless, hard-to-schedule follow-ups. We developed an intelligent meeting recorder that could:
   </p>
   <p class="page-body-copy">
-    • Connect with existing calendar systems like Google and Outlook<br/>
-    • Automatically transcribe meetings, delivering AI summaries and next steps<br/>
-    • Create smart sharing rules<br/>
-    • Generate follow-up spaces for asynchronous discussion<br/>
+    • Deadlines are more powerful than features. A simple timer did more for collaboration than any amount of slick UI.<br/>
+    • People hate changing their communication habits more than they hate bad communication. We had to piggyback on existing workflows (Zoom) instead of replacing them.<br/>
+    • Free users are great for ego, terrible for business. Love doesn't pay the bills.<br/>
+    • The best validation isn't what users say – it's whether they actually miss your product when it's gone.<br/>
   </p>
   <br/>
   <figure class="figure-inline">
@@ -110,7 +110,7 @@ permalink: /bubbles
     The final vision: Your remote video inbox
   </h4>
   <p class="page-body-copy">
-    The culmination of our work was a beautifully designed video inbox – a morning destination for catching up with your team's updates. It represented a fundamental shift from reactive to proactive collaboration.
+    The end product of our work was a beautifully designed video inbox – a morning destination for catching up with your team's updates. It represented a fundamental shift from reactive to proactive collaboration.
   </p>
   <h3 class="page-body-subhead">
     Impact & Learnings
