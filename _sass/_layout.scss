@@ -153,6 +153,7 @@ iframe {
   img {
     @extend .photo-treatment;
   }
+  border: 1px solid rgba(0, 0, 0, .2);
 }
 
 .figure-inline-wider {
