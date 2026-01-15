@@ -23,7 +23,7 @@ permalink: /bubbles
     Reimagining Remote Collaboration
   </h3>
   <figure class="figure-pullout">
-    <img src="img/bubbles/before1.png" width="400" class="bubbles-before" alt="Image showing bubbles dashboard when I started" />
+    <img src="img/bubbles/before1.png" width="400" class="bubbles-before" alt="Image showing bubbles dashboard when I started" loading="lazy" />
     <figcaption class="case-study-caption">This was Bubbles when I started: a free-to-use, single-player screen recorder.
     </figcaption>
   </figure>
@@ -33,7 +33,7 @@ permalink: /bubbles
     What followed was two years of learning how hard it is to get people to actually change how they work – and occasionally succeeding anyway.
   </p>
   <figure class="figure-inline">
-    <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="The bubbles activity inbox ahowing new videos" />
+    <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="The bubbles activity inbox ahowing new videos" loading="lazy" />
     <figcaption class="case-study-caption">The Bubbles inbox. Wake up to a feed of screen recordings from your remote teammates, with response expectations attached.</figcaption>
   </figure>
   <h3 class="page-body-subhead">
@@ -63,14 +63,14 @@ permalink: /bubbles
     We introduced a timer that creators could set when recording their video messages – a simple feature that profoundly impacted users' behavior. Authors could set clear expectations for response times and tag people as either 'Response required' or 'Just FYI.' We'd send reminders to the first group until the deadline hit.
   </p>
   <figure class="figure-inline">
-    <img src="img/bubbles/timer1.gif" class="bubbles-timer" alt="The bubble author adjusting the respose expectations and time frame for the desired response" />
+    <img src="img/bubbles/timer1.gif" class="bubbles-timer" alt="The bubble author adjusting the respose expectations and time frame for the desired response" loading="lazy" />
     <figcaption class="case-study-caption">Authors can choose who they need a response from and by when, with smart reminders sent until the deadline.</figcaption>
   </figure>
   <p class="page-body-copy">
     Having video context for replies was equally important. Our core belief was that screen sharing allowed for visual context that just doesn't come across in an email, bullet points or a wall of text, whether in the original video or in replies and feedback from recipients:
   </p>
   <figure class="figure-inline">
-    <img src="img/bubbles/video-reply.png" class="bubbles-video-reply" alt="Participants can leave replies in the form of video and screen share as well as text." />
+    <img src="img/bubbles/video-reply.png" class="bubbles-video-reply" alt="Participants can leave replies in the form of video and screen share as well as text." loading="lazy" />
     <figcaption class="case-study-caption">Participants can leave replies in multi-modal format: video, screen share, as well as text.</figcaption>
   </figure>
   <h4 class="page-body-interior-subhead">
@@ -99,11 +99,11 @@ permalink: /bubbles
   </p>
   <br/>
   <figure class="figure-inline">
-    <img src="img/bubbles/notetaker.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." />
+    <img src="img/bubbles/notetaker.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
     <figcaption class="case-study-caption">Meetings are perfectly encapsulated with AI transcript and next steps, with space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting.</figcaption>
   </figure>
   <figure class="figure-inline">
-    <img src="img/bubbles/notetaker-inbox.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." />
+    <img src="img/bubbles/notetaker-inbox.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
     <figcaption class="case-study-caption">All recordings and transcripts were saved in the app, with granular settings to control which meetings got recorded and who they were shared with.</figcaption>
   </figure>
   <h4 class="page-body-interior-subhead">

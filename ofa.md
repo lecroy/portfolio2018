@@ -24,7 +24,7 @@ permalink: /ofa
   </h3>
 
   <figure class="figure-pullout">
-    <img src="img/ofa/hug.jpg" class="ofa-hug-img" alt="Me hugging Barack Obama after election day 2012" />
+    <img src="img/ofa/hug.jpg" class="ofa-hug-img" alt="Me hugging Barack Obama after election day 2012" loading="lazy" />
     <figcaption class="case-study-caption">After election day, everyone at HQ got a handshake and hug. I hadn't bathed in 2 days. He was cool about it.</figcaption>
   </figure>
 
@@ -36,11 +36,11 @@ permalink: /ofa
     With accessibility as our North Star, we organized the most basic levels of engagement into three clear buckets: "Get the Facts", "Get the Latest", and "Get Involved"; creating a minimal header that left little room for confusion.
   </p>
   <figure class="figure-inline">
-    <img src="img/ofa/bocom_home_header.jpg" class="bocom-hero-img" alt="Hero area for Barack Obama's 2012 website" />
+    <img src="img/ofa/bocom_home_header.jpg" class="bocom-hero-img" alt="Hero area for Barack Obama's 2012 website" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
   <figure class="figure-inline">
-    <img src="img/ofa/bocom_home_header_nav.jpg" class="bocom-nav-img" alt="Main navigation for Barack Obama's 2012 website" />
+    <img src="img/ofa/bocom_home_header_nav.jpg" class="bocom-nav-img" alt="Main navigation for Barack Obama's 2012 website" loading="lazy" />
     <figcaption class="case-study-caption">A mega menu dropdown revealed options for each top level category</figcaption>
   </figure>
 
@@ -49,12 +49,12 @@ permalink: /ofa
   </p>
 
   <figure class="figure-pullout">
-    <img src="img/ofa/bocom_home_sidebar.jpg" class="bocom-sidebar-img" alt="Sticky sidebar of barackobama.com" />
+    <img src="img/ofa/bocom_home_sidebar.jpg" class="bocom-sidebar-img" alt="Sticky sidebar of barackobama.com" loading="lazy" />
     <figcaption class="case-study-caption">The sidebar stayed fixed as users scrolled, making it easy to engage without going back to the top.</figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/ofa/bocom_home.jpg" class="bocom-home-img" alt="Homepage of barackobama.com" />
+    <img src="img/ofa/bocom_home.jpg" class="bocom-home-img" alt="Homepage of barackobama.com" loading="lazy" />
     <figcaption class="case-study-caption">A mega menu dropdown revealed options for each top level category</figcaption>
   </figure>
 
@@ -63,12 +63,12 @@ permalink: /ofa
   </p>
 
   <figure class="figure-inline">
-    <img src="img/ofa/bocom_convention.jpg" class="bocom-convention-img" alt="Homepage takeover on barackobama.com" />
+    <img src="img/ofa/bocom_convention.jpg" class="bocom-convention-img" alt="Homepage takeover on barackobama.com" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/ofa/R2C_tiles.jpg" class="bocom-tiles-img" alt="Share graphics depicting events in various cities" />
+    <img src="img/ofa/R2C_tiles.jpg" class="bocom-tiles-img" alt="Share graphics depicting events in various cities" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
@@ -77,7 +77,7 @@ permalink: /ofa
   </p>
 
   <figure class="figure-inline">
-    <img src="img/ofa/bocom_convention2.jpg" class="bocom-convention-two-img" alt="Homepage takeover on barackobama.com" />
+    <img src="img/ofa/bocom_convention2.jpg" class="bocom-convention-two-img" alt="Homepage takeover on barackobama.com" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
@@ -89,7 +89,7 @@ permalink: /ofa
   </p>
 
   <figure class="figure-pullout">
-    <img src="img/ofa/dash-mood-board.jpg" class="dash-mood-board-img" alt="An early mood board" />
+    <img src="img/ofa/dash-mood-board.jpg" class="dash-mood-board-img" alt="An early mood board" loading="lazy" />
     <figcaption class="case-study-caption">An early mood board</figcaption>
   </figure>
 
@@ -102,7 +102,7 @@ permalink: /ofa
   </p>
 
   <figure class="figure-inline">
-    <img src="img/ofa/dashboard_v1.jpg" class="dash-mvp-img" alt="Minimum viable product of the Dashboard app" />
+    <img src="img/ofa/dashboard_v1.jpg" class="dash-mvp-img" alt="Minimum viable product of the Dashboard app" loading="lazy" />
     <figcaption class="case-study-caption">Dashboard MVP. We shipped it to thousands. They hated it. We started over.</figcaption>
   </figure>
 
@@ -115,12 +115,12 @@ permalink: /ofa
   </p>
 
   <figure class="figure-inline">
-    <img src="img/ofa/DB_home.jpg" class="dash-home-img" alt="Version 2 of the Dashboard home page" />
+    <img src="img/ofa/DB_home.jpg" class="dash-home-img" alt="Version 2 of the Dashboard home page" loading="lazy" />
     <figcaption class="case-study-caption">Dashboard v2. People hated it less. We were getting somewhere.</figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/ofa/DB_landing.jpg" class="dash-landing-img" alt="Marketing site selling the benefits of Dashboard" />
+    <img src="img/ofa/DB_landing.jpg" class="dash-landing-img" alt="Marketing site selling the benefits of Dashboard" loading="lazy" />
     <figcaption class="case-study-caption">A landing page on barackobama.com served as a de facto marketing site</figcaption>
   </figure>
 
@@ -129,7 +129,7 @@ permalink: /ofa
   </p>
 
   <figure class="figure-inline">
-    <img src="img/ofa/Call_tool.jpg" class="dash-call-tool-img" alt="An online tool for making phone calls" />
+    <img src="img/ofa/Call_tool.jpg" class="dash-call-tool-img" alt="An online tool for making phone calls" loading="lazy" />
     <figcaption class="case-study-caption">The call tool would provide volunteers with numbers to call and a loose script to follow.</figcaption>
   </figure>
 
@@ -138,7 +138,7 @@ permalink: /ofa
   </p>
 
   <figure class="figure-inline">
-    <img src="img/ofa/call_tool_analytics.jpg" class="dash-call-tool-analytics-img" alt="Analytics showing lower bounce rate and increase in page visits after launch" />
+    <img src="img/ofa/call_tool_analytics.jpg" class="dash-call-tool-analytics-img" alt="Analytics showing lower bounce rate and increase in page visits after launch" loading="lazy" />
     <figcaption class="case-study-caption">The launch coincided with a plummet in bounce rate and big boost in pages/visit.</figcaption>
   </figure>
 
@@ -147,7 +147,7 @@ permalink: /ofa
   </p>
 
   <figure class="figure-inline">
-    <img src="img/ofa/Goals.jpg" class="dash-goals-img" alt="An online tool for tracking outreach goals for field teams" />
+    <img src="img/ofa/Goals.jpg" class="dash-goals-img" alt="An online tool for tracking outreach goals for field teams" loading="lazy" />
     <figcaption class="case-study-caption">The Dashboard Goals view allowed field team leaders to track their progress toward outreach goals</figcaption>
   </figure>
 
@@ -156,12 +156,12 @@ permalink: /ofa
   </p>
 
   <figure class="figure-inline">
-    <img src="img/ofa/daily_report.jpg" class="dash-report-img" alt="An online tool for delivering a daily report to field team leadership" />
+    <img src="img/ofa/daily_report.jpg" class="dash-report-img" alt="An online tool for delivering a daily report to field team leadership" loading="lazy" />
     <figcaption class="case-study-caption">An view for delivering a daily report to field team leadership</figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/ofa/Activity_feed.jpg" class="dash-activity-feed-img" alt="A social news feed allowed field team members to share and communicate internally" />
+    <img src="img/ofa/Activity_feed.jpg" class="dash-activity-feed-img" alt="A social news feed allowed field team members to share and communicate internally" loading="lazy" />
     <figcaption class="case-study-caption">A news feed allowed field team members to share and communicate internally</figcaption>
   </figure>
 
@@ -181,17 +181,17 @@ permalink: /ofa
   </h4>
 
   <figure class="figure-inline">
-    <img src="img/ofa/YA_home.jpg" class="ya-home-img" alt="Website geared toward younger voters" />
+    <img src="img/ofa/YA_home.jpg" class="ya-home-img" alt="Website geared toward younger voters" loading="lazy" />
     <figcaption class="case-study-caption">Young Americans for Obama website homepage</figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/ofa/YA_page.jpg" class="ya-page-img" alt="Website geared toward younger voters" />
+    <img src="img/ofa/YA_page.jpg" class="ya-page-img" alt="Website geared toward younger voters" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/ofa/YA_page_two.jpg" class="ya-page-two-img" alt="Website geared toward younger voters" />
+    <img src="img/ofa/YA_page_two.jpg" class="ya-page-two-img" alt="Website geared toward younger voters" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
@@ -204,12 +204,12 @@ permalink: /ofa
   </p>
 
   <figure class="figure-inline">
-    <img src="img/ofa/dw_landing_page.jpg" class="dw-landing-img" alt="Fundraising website that collected money baed on how many keywords were mentioned during republican debates" />
+    <img src="img/ofa/dw_landing_page.jpg" class="dw-landing-img" alt="Fundraising website that collected money baed on how many keywords were mentioned during republican debates" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/ofa/dw_live_page.jpg" class="dw-live-img" alt="Fundraising website that collected money baed on how many keywords were mentioned during republican debates" />
+    <img src="img/ofa/dw_live_page.jpg" class="dw-live-img" alt="Fundraising website that collected money baed on how many keywords were mentioned during republican debates" loading="lazy" />
     <figcaption class="case-study-caption">During the debates, the site updated in real time with a each buzzword mention in leaderboard format.</figcaption>
   </figure>
 
@@ -218,12 +218,12 @@ permalink: /ofa
   </h4>
 
   <figure class="figure-inline">
-    <img src="img/ofa/re_home.jpg" class="re-home-img" alt="Website with case studies pertaining to Mitt Romney's stint at Bain Capital" />
+    <img src="img/ofa/re_home.jpg" class="re-home-img" alt="Website with case studies pertaining to Mitt Romney's stint at Bain Capital" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/ofa/re_outsourcing.jpg" class="re-outsourcing-img" alt="Website with case studies pertaining to Mitt Romney's stint at Bain Capital" />
+    <img src="img/ofa/re_outsourcing.jpg" class="re-outsourcing-img" alt="Website with case studies pertaining to Mitt Romney's stint at Bain Capital" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
@@ -236,17 +236,17 @@ permalink: /ofa
   </p>
 
   <figure class="figure-inline">
-    <img src="img/ofa/influencers_home.jpg" class="influencers-home-img" alt="Website to help celebrities use their popularity to rally support for the president" />
+    <img src="img/ofa/influencers_home.jpg" class="influencers-home-img" alt="Website to help celebrities use their popularity to rally support for the president" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/ofa/hhp.jpg" class="influencers-home-img" alt="Website to help celebrities use their popularity to rally support for the president" />
+    <img src="img/ofa/hhp.jpg" class="influencers-home-img" alt="Website to help celebrities use their popularity to rally support for the president" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/ofa/get_published.jpg" class="influencers-home-img" alt="Website to help celebrities use their popularity to rally support for the president" />
+    <img src="img/ofa/get_published.jpg" class="influencers-home-img" alt="Website to help celebrities use their popularity to rally support for the president" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
@@ -258,7 +258,7 @@ permalink: /ofa
   </p>
 
   <figure class="figure-inline">
-    <img src="img/ofa/hope-poster.jpg" class="hope-poster-img" alt="Poster that reads - Hope is that thing inside us that insists, despite all the evidence to the contrary, that something better awaits us if we have the courage to reach for it and to work for it and to fight for it." />
+    <img src="img/ofa/hope-poster.jpg" class="hope-poster-img" alt="Poster that reads - Hope is that thing inside us that insists, despite all the evidence to the contrary, that something better awaits us if we have the courage to reach for it and to work for it and to fight for it." loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
@@ -267,7 +267,7 @@ permalink: /ofa
   </p>
 
   <figure class="figure-inline">
-    <img src="img/ofa/autographed_bw.jpg" class="hope-sig-img" alt="Barack Obama's signature on my poster" />
+    <img src="img/ofa/autographed_bw.jpg" class="hope-sig-img" alt="Barack Obama's signature on my poster" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 

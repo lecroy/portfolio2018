@@ -5,19 +5,33 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Taylor LeCroy | Product Design Leader</title>
-  <meta name="description" content="Product Design Leader">
+  <title>{% if page.title %}{{ page.title }} | Taylor LeCroy{% else %}Taylor LeCroy | Product Design Leader{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}Taylor LeCroy is a Principal Product Designer with 15+ years experience leading design teams at Bubbles, Mural, Olark, and Obama for America. View portfolio and case studies.{% endif %}">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} | Taylor LeCroy{% else %}Taylor LeCroy | Product Design Leader{% endif %}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}15+ years leading product design teams. Currently at Bubbles. View case studies from Mural, Olark, Obama 2012, and more.{% endif %}">
+  <meta property="og:image" content="{{ site.url }}/img/index/thl-logotype.svg">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | Taylor LeCroy{% else %}Taylor LeCroy | Product Design Leader{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}15+ years leading product design. View portfolio case studies.{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}/img/index/thl-logotype.svg">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
-  <link rel="alternate" type="application/rss+xml" title="Taylor LeCroy" href="http://localhost:4000/feed.xml">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="alternate" type="application/rss+xml" title="Taylor LeCroy" href="{{ site.url }}/feed.xml">
 
 
-  <script src="/js/charming.min.js"></script>
-  <script src="/js/anime.min.js"></script>
-  <script src="/js/wordFx.js"></script>
+  <script src="/js/charming.min.js" defer></script>
+  <script src="/js/anime.min.js" defer></script>
+  <script src="/js/wordFx.js" defer></script>
 
-  <script src="https://unpkg.com/@rive-app/canvas@1.0.102"></script>
+  <script src="https://unpkg.com/@rive-app/canvas@1.0.102" defer></script>
 
   <!-- Begin Inspectlet Asynchronous Code -->
   <script type="text/javascript">

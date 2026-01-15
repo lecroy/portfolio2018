@@ -77,30 +77,30 @@ permalink: /agency
   </p>
 
   <figure class="figure-inline">
-    <img src="img/premier_derm/2_PREMIER_lifeguard.jpg" class="premier-lifeguard-img" alt="An unqualified lifeguard" />
+    <img src="img/premier_derm/2_PREMIER_lifeguard.jpg" class="premier-lifeguard-img" alt="An unqualified lifeguard" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/premier_derm/1_PREMIER_hair.jpg" class="premier-hair-img" alt="An unqualified hairstylist" />
+    <img src="img/premier_derm/1_PREMIER_hair.jpg" class="premier-hair-img" alt="An unqualified hairstylist" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/premier_derm/3_PREMIER_ref.jpg" class="premier-ref-img" alt="An unqualified referee" />
+    <img src="img/premier_derm/3_PREMIER_ref.jpg" class="premier-ref-img" alt="An unqualified referee" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-pullout-shure">
-    <img src="img/shure/shure1.jpg" class="korte-retro2-img" alt="Retro ad for Korte construction company" />
+    <img src="img/shure/shure1.jpg" class="korte-retro2-img" alt="Retro ad for Korte construction company" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
   <figure class="figure-pullout-shure">
-    <img src="img/shure/shure2.jpg" class="korte-retro2-img" alt="Retro ad for Korte construction company" />
+    <img src="img/shure/shure2.jpg" class="korte-retro2-img" alt="Retro ad for Korte construction company" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
   <figure class="figure-pullout-shure">
-    <img src="img/shure/shure3.jpg" class="korte-retro2-img" alt="Retro ad for Korte construction company" />
+    <img src="img/shure/shure3.jpg" class="korte-retro2-img" alt="Retro ad for Korte construction company" loading="lazy" />
     <figcaption class="case-study-caption">Campaign for the Shure SM-58 microphone<br/> Hardcore!</figcaption>
   </figure>
 
@@ -109,17 +109,17 @@ permalink: /agency
   </h4>
 
   <figure class="figure-inline">
-    <img src="img/korte/korte-retro1.jpg" class="korte-retro1-img" alt="Retro ad for Korte construction company" />
+    <img src="img/korte/korte-retro1.jpg" class="korte-retro1-img" alt="Retro ad for Korte construction company" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/korte/korte-retro2.jpg" class="korte-retro2-img" alt="Retro ad for Korte construction company" />
+    <img src="img/korte/korte-retro2.jpg" class="korte-retro2-img" alt="Retro ad for Korte construction company" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/korte/korte-retro3.jpg" class="korte-retro3-img" alt="Retro ad for Korte construction company" />
+    <img src="img/korte/korte-retro3.jpg" class="korte-retro3-img" alt="Retro ad for Korte construction company" loading="lazy" />
     <figcaption class="case-study-caption">A campaign for Korte Construction. They were getting into green building methods and wanted a cheeky campaign to show they they would even recycle their "old ads".</figcaption>
   </figure>
 

@@ -30,7 +30,7 @@ permalink: /freelance
   </p>
 
   <figure class="figure-inline">
-    <img src="img/freelance/hillary-donate.jpg" class="hfa-donate-img" alt="The interface for HFA's donation flow" />
+    <img src="img/freelance/hillary-donate.jpg" class="hfa-donate-img" alt="The interface for HFA's donation flow" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
@@ -38,11 +38,11 @@ permalink: /freelance
     My homepage ideas didn't end up getting used, but the donation flow was built out as the first iteration. Shortly to follow, Hillary for America began onboarding an amazing design team which took over and created a gorgeous visual campaign for candidate Clinton. My work would rightfully fade into history soon thereafter, but I'm proud to have made some small mark on her historic run for President. Here's some of the work I delivered.
   </p>
   <figure class="figure-inline">
-    <img src="img/freelance/hillary-hero-section.jpg" class="hillary-hero-img" alt="Concept image for Hillary Clinton's website" />
+    <img src="img/freelance/hillary-hero-section.jpg" class="hillary-hero-img" alt="Concept image for Hillary Clinton's website" loading="lazy" />
     <figcaption class="case-study-caption">Concept image for hillaryclinton.com</figcaption>
   </figure>
   <figure class="figure-inline">
-    <img src="img/freelance/hillary-post-thumbnail.jpg" class="hillary-thumbnail-img" alt="Concept image for Hillary Clinton's website" />
+    <img src="img/freelance/hillary-post-thumbnail.jpg" class="hillary-thumbnail-img" alt="Concept image for Hillary Clinton's website" loading="lazy" />
     <figcaption class="case-study-caption">Concept image for hillaryclinton.com</figcaption>
   </figure>
 
@@ -55,7 +55,7 @@ permalink: /freelance
   </p>
 
   <figure class="figure-inline">
-    <img src="img/freelance/wfp-cover.jpg" class="wfp-cover-img" alt="Cover of the World Food Program annual report" />
+    <img src="img/freelance/wfp-cover.jpg" class="wfp-cover-img" alt="Cover of the World Food Program annual report" loading="lazy" />
     <figcaption class="case-study-caption">Cover of the report with chaptered navigation</figcaption>
   </figure>
 
@@ -64,12 +64,12 @@ permalink: /freelance
   </p>
 
   <figure class="figure-inline">
-    <img src="img/freelance/wfp-plane.jpg" class="wfp-plane-img" alt="A large airplane being loaded up with food" />
+    <img src="img/freelance/wfp-plane.jpg" class="wfp-plane-img" alt="A large airplane being loaded up with food" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-pullout">
-    <img src="img/freelance/wfp-scrolling.gif" class="wfp-scrolling-img" alt="The information architecture allowed for scrolling in any direction on most views." />
+    <img src="img/freelance/wfp-scrolling.gif" class="wfp-scrolling-img" alt="The information architecture allowed for scrolling in any direction on most views." loading="lazy" />
     <figcaption class="case-study-caption">The information architecture allowed for keyboard friendly scrolling in any direction on most views.</figcaption>
   </figure>
 
@@ -78,12 +78,12 @@ permalink: /freelance
   </p>
 
   <figure class="figure-inline">
-    <img src="img/freelance/wfp-graph.jpg" class="wfp-graph-img" alt="Pie chart showing which regions received the most WFP grants" />
+    <img src="img/freelance/wfp-graph.jpg" class="wfp-graph-img" alt="Pie chart showing which regions received the most WFP grants" loading="lazy" />
     <figcaption class="case-study-caption">Dynamically generated pie chart showing which regions received the most WFP grants</figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/freelance/wfp-thankyou.jpg" class="wfp-thankyou-img" alt="Children wave and show peace signs from a window" />
+    <img src="img/freelance/wfp-thankyou.jpg" class="wfp-thankyou-img" alt="Children wave and show peace signs from a window" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 

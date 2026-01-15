@@ -27,7 +27,7 @@ permalink: /enso
   </p>
 
   <figure class="figure-pullout">
-    <img src="img/omidyar/omidyar-wires-1.png" class="omidyar-wires-img" alt="Early wireframes for information architecture and page layout" />
+    <img src="img/omidyar/omidyar-wires-1.png" class="omidyar-wires-img" alt="Early wireframes for information architecture and page layout" loading="lazy" />
     <figcaption class="case-study-caption">Early wireframes for information architecture and page layout</figcaption>
   </figure>
 
@@ -48,7 +48,7 @@ permalink: /enso
   </p>
 
   <figure class="figure-inline">
-    <img src="img/omidyar/omidyar-1.jpg" class="omidyar-hero-sections-img" alt="Examples of hero sections that eventually ran on the website" />
+    <img src="img/omidyar/omidyar-1.jpg" class="omidyar-hero-sections-img" alt="Examples of hero sections that eventually ran on the website" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
@@ -57,27 +57,27 @@ permalink: /enso
   </p>
 
   <figure class="figure-inline">
-    <img src="img/omidyar/omidyar-type.jpg" class="omidyar-type-img" alt="Charts and figures showing Omidyar Network's financial commitments" />
+    <img src="img/omidyar/omidyar-type.jpg" class="omidyar-type-img" alt="Charts and figures showing Omidyar Network's financial commitments" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/omidyar/Omidyar_home.jpg" class="omidyar-home-img" alt="Final homepage mockup" />
+    <img src="img/omidyar/Omidyar_home.jpg" class="omidyar-home-img" alt="Final homepage mockup" loading="lazy" />
     <figcaption class="case-study-caption">Final homepage mockup</figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/omidyar/Omidyar_bio.jpg" class="omidyar-bio-img" alt="Biography page" />
+    <img src="img/omidyar/Omidyar_bio.jpg" class="omidyar-bio-img" alt="Biography page" loading="lazy" />
     <figcaption class="case-study-caption">Employee bio page template</figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/omidyar/Omidyar_people.jpg" class="omidyar-people-img" alt="Biography page" />
+    <img src="img/omidyar/Omidyar_people.jpg" class="omidyar-people-img" alt="Biography page" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/omidyar/Omidyar_initiative.jpg" class="omidyar-initiative-img" alt="Biography page" />
+    <img src="img/omidyar/Omidyar_initiative.jpg" class="omidyar-initiative-img" alt="Biography page" loading="lazy" />
     <figcaption class="case-study-caption">Employee bio page template</figcaption>
   </figure>
 
@@ -93,12 +93,12 @@ permalink: /enso
   </p>
 
   <figure class="figure-pullout">
-    <img src="img/enso/Enso_home_dark.jpg" class="enso-home-dark-img" alt="Homepage with dark theme" />
+    <img src="img/enso/Enso_home_dark.jpg" class="enso-home-dark-img" alt="Homepage with dark theme" loading="lazy" />
     <figcaption class="case-study-caption">As an easter egg, clicking the lightbulb on the home page toggled to a dark theme.</figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/enso/Enso_home_light.jpg" class="enso-home-light-img" alt="helloenso.com homepage" />
+    <img src="img/enso/Enso_home_light.jpg" class="enso-home-light-img" alt="helloenso.com homepage" loading="lazy" />
     <figcaption class="case-study-caption">Homepage concept leading with the agency mission and values</figcaption>
   </figure>
 
@@ -107,7 +107,7 @@ permalink: /enso
   </p>
 
   <figure class="figure-inline">
-    <img src="img/enso/Enso_team.jpg" class="enso-team-img" alt="The team page of the website" />
+    <img src="img/enso/Enso_team.jpg" class="enso-team-img" alt="The team page of the website" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
@@ -116,12 +116,12 @@ permalink: /enso
   </p>
 
   <figure class="figure-pullout">
-    <img src="img/enso/enso_blog.jpg" class="enso-blog-img" alt="The olark blog, showing a sample post with image" />
+    <img src="img/enso/enso_blog.jpg" class="enso-blog-img" alt="The olark blog, showing a sample post with image" loading="lazy" />
     <figcaption class="case-study-caption">The blog got a very minimal, clean look</figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/enso/enso_gates.jpg" class="enso-case-study-img" alt="A case study page with clean, minimal design" />
+    <img src="img/enso/enso_gates.jpg" class="enso-case-study-img" alt="A case study page with clean, minimal design" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 

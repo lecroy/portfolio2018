@@ -10,7 +10,7 @@ permalink: /about
 <div class="page-body-wrapper">
 
   <h2 class="about-header">About me</h2>
-  <img src="img/about/about-hawaii.jpg" class="about-header-img">
+  <img src="img/about/about-hawaii.jpg" class="about-header-img" loading="lazy">
 
   <p class="page-body-copy">
     👋 Taylor LeCroy here, but you can call me Taylor. You may know me from the Design world, but there’s more to me than just clever, elegant, intuitive, ground-breaking...you get the point. Let’s dive in.

@@ -35,28 +35,28 @@ permalink: /olark
     The old dashboard
   </h4>
   <figure class="figure-inline">
-    <img src="img/olark/dashboard-old.png" class="old-dash-img" alt="The previous version of the Dashboard I was tasked with replacing" />
+    <img src="img/olark/dashboard-old.png" class="old-dash-img" alt="The previous version of the Dashboard I was tasked with replacing" loading="lazy" />
     <figcaption class="case-study-caption">The old version of the Olark Dashboard was effectively just another nav.</figcaption>
   </figure>
   <p class="page-body-copy">
     To begin, I mapped out a user flow that would demonstrate the value of features whose usage we knew correlated strongly with trial conversion. Things like reporting and analytics, and viewing chat transcripts.
   </p>
   <figure class="figure-inline">
-    <img src="img/olark/dash-flow.png" class="dash-flow-img" alt="User flow diagram for the new dashboard" />
+    <img src="img/olark/dash-flow.png" class="dash-flow-img" alt="User flow diagram for the new dashboard" loading="lazy" />
     <figcaption class="case-study-caption">Early flow diagram for a better dashboard experience</figcaption>
   </figure>
   <p class="page-body-copy">
     With a path to added value getting clearer, I began prototyping this modular approach that would enable admins to customize their own dashboard, shuffling the components to suit their needs or hiding the ones that weren't as relevant for them.
   </p>
   <figure class="figure-inline">
-    <img src="img/olark/dash-wireframe.png" class="dash-wire-img" alt="Wireframe for a modular approach to the Dashboard" />
+    <img src="img/olark/dash-wireframe.png" class="dash-wire-img" alt="Wireframe for a modular approach to the Dashboard" loading="lazy" />
     <figcaption class="case-study-caption">Wireframe showing a modular, customizeable approach to the Dashboard</figcaption>
   </figure>
   <p class="page-body-copy">
     After working with the project team to scope the work to a specific number of sprints, we were able to make further refinements based on priority. Design specs mapped to user stories (e.g. "As an admin, I can see which agents are logged in now") helped the team build agreement on what things were musts, and which could be deprioritized if time became a factor.
   </p>
   <figure class="figure-pullout">
-    <img src="img/olark/dash-user-stories.png" class="dash-stories-img" alt="Spreadsheet of user stories for the new dashboard" />
+    <img src="img/olark/dash-user-stories.png" class="dash-stories-img" alt="Spreadsheet of user stories for the new dashboard" loading="lazy" />
     <figcaption class="case-study-caption">Design specs mapped to user stories help build agreement on priority.</figcaption>
   </figure>
   <p class="page-body-copy">
@@ -67,7 +67,7 @@ permalink: /olark
   </p>
 
   <figure class="figure-inline">
-    <img src="img/olark/dash-v2.png" class="dash-finished-img" alt="The dashboard when it launched" />
+    <img src="img/olark/dash-v2.png" class="dash-finished-img" alt="The dashboard when it launched" loading="lazy" />
     <figcaption class="case-study-caption">The dashboard when it launched in April 2019</figcaption>
   </figure>
 
@@ -84,14 +84,14 @@ permalink: /olark
     From the survey results, I compiled a list of words that people used to describe the kind of company they wanted to work for. When I began tallying words used most often, a theme emerged: <span class="body-copy-strong">Humanity.</span>
   </p>
   <figure class="figure-pullout">
-    <img src="img/olark/olark-logo.gif" class="olark-logo-gif" alt="Animation showing the logo redesign process" />
+    <img src="img/olark/olark-logo.gif" class="olark-logo-gif" alt="Animation showing the logo redesign process" loading="lazy" />
     <figcaption class="case-study-caption">Vectorizing the new logo.</figcaption>
   </figure>
   <p class="page-body-copy">
     When it came to the logo, I wanted to use something hand lettered to capture the human feel. Stakeholders wanted to keep some of the flavor of the original logo, so we stayed with the speech bubble concept and the subtle upward skew.
   </p>
   <figure class="figure-inline">
-    <img src="img/olark/old-vs-new-logo.png" class="olark-logo-compare-img" alt="The old logo and the new one for comparison" width="540" />
+    <img src="img/olark/old-vs-new-logo.png" class="olark-logo-compare-img" alt="The old logo and the new one for comparison" width="540" loading="lazy" />
     <figcaption class="case-study-caption">Original logo on left, redesign on right.</figcaption>
   </figure>
   <p class="page-body-copy">
@@ -101,21 +101,21 @@ permalink: /olark
     The tradeoff I faced with using real photography was that I was going to have to use stock photography. We didn't have the time or resources to do our own shoot. Fortunately, I was able to find a nice set of portraits with a background I could recreate for future use.
   </p>
   <figure class="figure-inline">
-    <img src="img/olark/portrait-example.jpg" class="portrait-example" alt="Sample of portrait images used in the styleguide" width="540" />
+    <img src="img/olark/portrait-example.jpg" class="portrait-example" alt="Sample of portrait images used in the styleguide" width="540" loading="lazy" />
     <figcaption class="case-study-caption">Well-lit portraits would be used to represent chat agents and customers. It was important to include a diversity of racial backgrounds and ages.</figcaption>
   </figure>
   <p class="page-body-copy">
     To round out the photography specs in the styleguide, I wanted to create a photo treatment that any designer could use, that would make our lifestyle imagery feel less stock-y and give it all a consistent feel. I settled on a dreamy, almost light-leaky treatment that felt human and warm. I then recorded a <a href="https://www.youtube.com/watch?v=ow-m6EErJuk" class="paragraph-link">screencast tutorial</a> so that other designers would be able to easily apply the treatment.
   </p>
   <figure class="figure-inline">
-    <img src="img/olark/photo-treatment.jpg" class="olark-photo-treatment-img" alt="A woman sitting at a computer" width="540" />
+    <img src="img/olark/photo-treatment.jpg" class="olark-photo-treatment-img" alt="A woman sitting at a computer" width="540" loading="lazy" />
     <figcaption class="case-study-caption">I chose a warm, dreamy treatment for lifestyle photography.</figcaption>
   </figure>
   <p class="page-body-copy">
     Next up, we needed a color palette. I'd learned from trying to work within previous styleguides that having too limited a palette led to frustration and an overwhelming desire to use "in-between" colors in certain sitations where the guide didn't spec out something light or dark enough. This was often the case with section backgrounds. To keep it feeling human and diverse, I decided on a full-spectrum palette that would include all colors of the spectrum, rather than honing in on one color that the brand would try to own.
   </p>
   <figure class="figure-pullout">
-    <img src="img/olark/color-palette.png" class="olark-color-palette" alt="The color palette for Olark Live Chat" />
+    <img src="img/olark/color-palette.png" class="olark-color-palette" alt="The color palette for Olark Live Chat" loading="lazy" />
     <figcaption class="case-study-caption">Olark's color palette</figcaption>
   </figure>
   <p class="page-body-copy">
@@ -125,7 +125,7 @@ permalink: /olark
     Another important aspect of the redesigned branding would be vector elements. "Make Business Human" was our new tagline, so it was important to have some consistent pieces that designers could use to convey humanity and business graphically.
   </p>
   <figure class="figure-inline">
-    <img src="img/olark/vector-elements.png" class="olark-vector-elements" alt="Vector elements including slimey faces and various graphs and charts" />
+    <img src="img/olark/vector-elements.png" class="olark-vector-elements" alt="Vector elements including slimey faces and various graphs and charts" loading="lazy" />
     <figcaption class="case-study-caption">Vector elements to marry the concepts of business and humanity.</figcaption>
   </figure>
   <p class="page-body-copy">
@@ -178,7 +178,7 @@ permalink: /olark
     The old billing UI
   </h4>
   <figure class="figure-inline">
-    <img src="img/olark/billing-before.png" class="olark-billing-before" alt="Screen grab of the billing app circa 2014" />
+    <img src="img/olark/billing-before.png" class="olark-billing-before" alt="Screen grab of the billing app circa 2014" loading="lazy" />
     <figcaption class="case-study-caption">The Olark billing app circa 2014 was just three large buttons.</figcaption>
   </figure>
   <p class="page-body-copy">
@@ -188,14 +188,14 @@ permalink: /olark
     What we found our customers wanted was to pay for only what they were using, rather than prearranged batches of features and agent seats they weren't using. We decided to move to a per-agent billing system, where a customer would needed only make two decisions: how many agents they wanted and how often they wanted to be billed. Everything else would just work.
   </p>
   <figure class="figure-inline">
-    <img src="img/olark/billing-wire.png" class="olark-billing-wire" alt="Wireframe of the new per-agent billing concept" />
+    <img src="img/olark/billing-wire.png" class="olark-billing-wire" alt="Wireframe of the new per-agent billing concept" loading="lazy" />
     <figcaption class="case-study-caption">Wireframe showing an early look at proposed functionality.</figcaption>
   </figure>
   <p class="page-body-copy">
     We also decided to offer a discount for a longer commitment. Paying monthly would cost a little more than paying for a year or two years at a time. In addition, we wanted to surface valuable information that our CS team was getting bogged down with: How many seats weren't being used, when the next billing cycle began, and the amount that would be charged at that time.
   </p>
   <figure class="figure-inline">
-    <img src="img/olark/billing-after.png" class="olark-billing-after" alt="Screen grab of the billing app circa 2018" />
+    <img src="img/olark/billing-after.png" class="olark-billing-after" alt="Screen grab of the billing app circa 2018" loading="lazy" />
     <figcaption class="case-study-caption">The billing app after redesign.</figcaption>
   </figure>
 
@@ -209,14 +209,14 @@ permalink: /olark
     For most of 2016, I worked on Olark's Integrations Team to build out the number and quality of our connections to third party apps, and was tasked with creating an interface for the full catalog of connections and how our customers would configure them, manage them and better understand their value.
   </p>
   <figure class="figure-pullout">
-    <img src="img/olark/integrations-flow.png" class="olark-integrations-flow" alt="Sketch showing a user flow for connecting integrations" />
+    <img src="img/olark/integrations-flow.png" class="olark-integrations-flow" alt="Sketch showing a user flow for connecting integrations" loading="lazy" />
     <figcaption class="case-study-caption">An early user flow diagram showing integrations with user stories.</figcaption>
   </figure>
   <p class="page-body-copy">
     After wireframing the flow to better understand how user needs would map to page states, I began exploring layout options that would give a summary of the benefits of each integration option in an easily scannable menu.
   </p>
   <figure class="figure-inline">
-    <img src="img/olark/integrations-portal-iter.jpg" class="olark-integrations-iter" alt="Early iteration of Olark's integrations portal" />
+    <img src="img/olark/integrations-portal-iter.jpg" class="olark-integrations-iter" alt="Early iteration of Olark's integrations portal" loading="lazy" />
     <figcaption class="case-study-caption">One early iteration of the integrations portal.</figcaption>
   </figure>
   <p class="page-body-copy">
@@ -226,21 +226,21 @@ permalink: /olark
     In parallel, I also began defining the experience of configuring each individual integration. An early idea looked clean and simple, but I wasn't satisfied with the side-by-side layout of the form fields. It looked like too much work compared to a single-column fieldset:
   </p>
   <figure class="figure-inline">
-    <img src="img/olark/integration-config-page-iter.png" class="olark-config-page-iter" alt="Early iteration of an individual integration config page" />
+    <img src="img/olark/integration-config-page-iter.png" class="olark-config-page-iter" alt="Early iteration of an individual integration config page" loading="lazy" />
     <figcaption class="case-study-caption">An early idea for the configuration page that didn't make the cut.</figcaption>
   </figure>
   <p class="page-body-copy">
     Wanting to make the portal page easier to scan, I tried a list layout instead of a grid and found it made a world of difference. We then added search and filtering by integration type to make it a snap to find the app a visitor was looking for.
   </p>
   <figure class="figure-inline">
-    <img src="img/olark/integrations-portal-final.png" class="olark-integrations-final" alt="Final design of Olark's integrations portal" />
+    <img src="img/olark/integrations-portal-final.png" class="olark-integrations-final" alt="Final design of Olark's integrations portal" loading="lazy" />
     <figcaption class="case-study-caption">We finally settled on a list-based layout for easy scanning.</figcaption>
   </figure>
   <p class="page-body-copy">
     For the configuration pages, we moved toward a side-by-side layout that would allow a single column fieldset to sit alongside a step-by-step visual demonstration of the benefits of the integration, in order to both sell the merits of connecting Olark to the app and make it easy to set things up to certain specifications.
   </p>
   <figure class="figure-inline">
-    <img src="img/olark/integration-config-page-final.png" class="olark-config-page-final" alt="Final iteration of an individual integration config page" />
+    <img src="img/olark/integration-config-page-final.png" class="olark-config-page-final" alt="Final iteration of an individual integration config page" loading="lazy" />
     <figcaption class="case-study-caption">A side-by-side layout for the config pages allowed for a single column fieldset and a ste-by-step demo of the integration.</figcaption>
   </figure>
   <nav class="case-study-end-nav">

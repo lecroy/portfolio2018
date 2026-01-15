@@ -40,11 +40,11 @@ permalink: /mural
     The problem
   </h4>
   <figure class="figure-inline">
-    <img src="img/mural/mural-site.gif" class="mural-site" alt="The Mural website is colorful, full of life and movement" />
+    <img src="img/mural/mural-site.gif" class="mural-site" alt="The Mural website is colorful, full of life and movement" loading="lazy" />
     <figcaption class="case-study-caption">Our new marketing website was colorful, full of life and movement...</figcaption>
   </figure>
   <figure class="figure-inline">
-    <img src="img/mural/mural-signup-before.png" class="mural-signup-before" alt="The next step in the flow: a relatively lifeless signup experience" />
+    <img src="img/mural/mural-signup-before.png" class="mural-signup-before" alt="The next step in the flow: a relatively lifeless signup experience" loading="lazy" />
     <figcaption class="case-study-caption">...contrasted with the next step in the flow: a flat, lifeless signup experience</figcaption>
   </figure>
   <p class="page-body-copy">
@@ -54,14 +54,14 @@ permalink: /mural
     It wasn't just the first step either. The entire flow followed the same lifeless theme:
   </p>
   <figure class="figure-inline">
-    <img src="img/mural/mural-signup-flow-before.png" class="mural-signup-flow-before" alt="The whole signup flow looking grey and bland" />
+    <img src="img/mural/mural-signup-flow-before.png" class="mural-signup-flow-before" alt="The whole signup flow looking grey and bland" loading="lazy" />
     <figcaption class="case-study-caption">The greyness will continue until morale improves.</figcaption>
   </figure>
   <h4 class="page-body-interior-subhead">
     The design approach
   </h4>
   <figure class="figure-pullout">
-    <img src="img/mural/compositions.png" class="mural-compositions" alt="Sketches of potential compositions of the signup form" />
+    <img src="img/mural/compositions.png" class="mural-compositions" alt="Sketches of potential compositions of the signup form" loading="lazy" />
     <figcaption class="case-study-caption">Early composition studies
     </figcaption>
   </figure>
@@ -72,7 +72,7 @@ permalink: /mural
     First, we needed to align on the voice and tone of this flow. We had the beginnings of a visual style emerging from the brand team, but we needed to decide what aspects to bring into the signup moment specifically. Running some casual brainstorming, we aligned on a tonal direction.
   </p>
   <figure class="figure-inline">
-    <img src="img/mural/new-direction.png" class="mural-new-direction" alt="Sticky notes with voice and tone options" />
+    <img src="img/mural/new-direction.png" class="mural-new-direction" alt="Sticky notes with voice and tone options" loading="lazy" />
     <figcaption class="case-study-caption">Working on voice and tone, and learning from previous efforts</figcaption>
   </figure>
   <p class="page-body-copy">
@@ -82,7 +82,7 @@ permalink: /mural
     From this initial decision, a visual metaphor then began to emerge. Signup should feel like an invitation. Come in. Sit down. Stay awhile. "Seats" aren't just an integral part of our SaaS pricing and packaging. Taken literally, they're bastions of comfort and safe havens in an increasingly troubling world.
   </p>
   <figure class="figure-inline">
-    <img src="img/mural/chairs.png" class="mural-chairs" alt="Layout options with chairs as a visual device" />
+    <img src="img/mural/chairs.png" class="mural-chairs" alt="Layout options with chairs as a visual device" loading="lazy" />
     <figcaption class="case-study-caption">A visual metaphor started to emerge</figcaption>
   </figure>
   <p class="page-body-copy">
@@ -92,19 +92,19 @@ permalink: /mural
     With the visual design taking shape, I then worked on fine-tuning the language with our Content Design team. I've always believed getting the copy right and marrying it to the visual tone is as crucial to the success of the final solution as stunning visual design. In fact, probably more so.
   </p>
   <figure class="figure-pullout">
-    <img src="img/mural/signup-animation.gif" class="mural-animation" alt="A gif showing animation of the signup flow" />
+    <img src="img/mural/signup-animation.gif" class="mural-animation" alt="A gif showing animation of the signup flow" loading="lazy" />
     <figcaption class="case-study-caption">Adding final touches with motion design
     </figcaption>
   </figure>
   <figure class="figure-inline">
-    <img src="img/mural/chairs-copy.png" class="mural-chairs-copy" alt="Working on the copy for the signup flow" />
+    <img src="img/mural/chairs-copy.png" class="mural-chairs-copy" alt="Working on the copy for the signup flow" loading="lazy" />
     <figcaption class="case-study-caption">Nailing the copy is as important as nailing the visual design. Probably moreso.</figcaption>
   </figure>
   <p class="page-body-copy">
     While I ended up leaving Mural before this work shipped as part of the company-wide rebrand, and thus can't speak to it's impact, I'm proud of where we ended up and think the flow looks fantastic in production today. It lives up to the promise of the brand and website and keeps the user engaged and interested as the product makes its ever-important first impression.
   </p>
   <figure class="figure-inline">
-    <img src="img/mural/signup.gif" class="mural-signup-gif" alt="Final signup screen with motion" />
+    <img src="img/mural/signup.gif" class="mural-signup-gif" alt="Final signup screen with motion" loading="lazy" />
     <figcaption class="case-study-caption">The final product - fulfilling the promise of the marketing website and adhering to the in-product design system.</figcaption>
   </figure>
   <h3 class="page-body-subhead">
@@ -121,7 +121,7 @@ permalink: /mural
 
     This needed to be more than just making the share button bigger or adding a standard product tour. It wasn't enough to make sharing easy – creators had to want to share their mural. And in order to achieve that state, they needed to be proud of what they were sharing.
   <figure class="figure-inline">
-    <img src="img/mural/onboarding-problem.png" class="mural-onboarding-problem" alt="Sticky notes showing the dropoff after signup" />
+    <img src="img/mural/onboarding-problem.png" class="mural-onboarding-problem" alt="Sticky notes showing the dropoff after signup" loading="lazy" />
     <figcaption class="case-study-caption">81% of new signups create a mural within 1 day, but only 65% add content to the mural.</figcaption>
   </figure>
   <p class="page-body-copy">
@@ -135,28 +135,28 @@ permalink: /mural
     The next step was to identify many different ways to move the needle on those metrics and weigh their trade-offs.
   </p>
   <figure class="figure-inline">
-    <img src="img/mural/onboarding-brainstorm.png" class="mural-onboarding-brainstorm" alt="A brainstorm canvas" />
+    <img src="img/mural/onboarding-brainstorm.png" class="mural-onboarding-brainstorm" alt="A brainstorm canvas" loading="lazy" />
     <figcaption class="case-study-caption">When I set up a brainstorm, I'm looking to tell a story with the pieces of the discovery work I find most insightful.</figcaption>
   </figure>
   <p class="page-body-copy">
     A colleague once explained his view of product design process, saying "You're always either making a mess, or cleaning one up." In this case, it was now time to clean up the mess of sticky notes and sketches we had on our brainstorm canvas, and start to synthesize the output. I typically do this by grouping similar ideas and themes and then putting a low fidelity mockup against each. This allows for a followup discussion about what will most likely move the needle with as little cost as possible.
   </p>
   <figure class="figure-inline">
-    <img src="img/mural/brainstorm-synthesis.png" class="mural-brainstorm-synthesis" alt="Organizing the brainstorm output into themes" />
+    <img src="img/mural/brainstorm-synthesis.png" class="mural-brainstorm-synthesis" alt="Organizing the brainstorm output into themes" loading="lazy" />
     <figcaption class="case-study-caption">Organizing the brainstorm output into themes</figcaption>
   </figure>
   <p class="page-body-copy">
     After regrouping with a Product Manager and Engineering lead for input on value and cost, respectively, it's time for my favorite part of the process: turning the abstract into something tangible using rapid prototypes. There's no substitute for putting something visual into the team's hands that we can start to mold into the right thing that properly fills the shape of the problem.
   </p>
   <figure class="figure-inline">
-    <img src="img/mural/prototyping.png" class="mural-prototyping" alt="A group of three Figma prototypes" />
+    <img src="img/mural/prototyping.png" class="mural-prototyping" alt="A group of three Figma prototypes" loading="lazy" />
     <figcaption class="case-study-caption">Prototyping in Figma to find what feels right and what doesn't</figcaption>
   </figure>
   <p class="page-body-copy">
     With the ability to interact and iterate with prototypes, we zeroed in on an interactive checklist that would live in the canvas when the new user lands for the first time. The items on the list were the ones that helped new users get acquainted and begin building a mural they were proud of, while kicking the tires and exploring at their own pace. They were also actions that correlated strongly with retention.
   </p>
   <figure class="figure-inline">
-    <img src="img/mural/mural-onboarding-final.png" class="mural-final-onboarding" alt="The finished onbaording checklist" />
+    <img src="img/mural/mural-onboarding-final.png" class="mural-final-onboarding" alt="The finished onbaording checklist" loading="lazy" />
     <figcaption class="case-study-caption">The final product: An answer to "What next?"</figcaption>
   </figure>
   <p class="page-body-copy">
