@@ -29,12 +29,6 @@
     &:hover {
       color:#1449c3;
       box-shadow: inset 0 -0.1em 0 0 #1449c3;
-
-      &:after {
-        transform: translateY(-20px); 
-        opacity: 1;
-        transition: all 300ms ease-in;       
-      }
     }
   }
 }
