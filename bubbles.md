@@ -54,7 +54,7 @@ permalink: /bubbles
     After interviewing a bunch of remote workers, we realized we'd been solving the wrong problem. Nobody actually cared about recording quality or features. What was killing them was uncertainty – the awful limbo of not knowing if your teammate in Berlin would get back to you before your deadline in SF. 
   </p>
   <p class="page-body-copy">
-    People working together across time zones were stuck in a perpetual state of limbo, never knowing when (or if) they'd receive the input or feedback they need to keep their projects moving on schedule. Work would stall, momentum would fade, and frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
+    People working together across time zones were stuck in perpetual uncertainty, never knowing when (or if) they'd get the input or feedback they need to keep their projects moving on schedule. Work would stall, momentum would fade, frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
   </p>
   <h4 class="page-body-interior-subhead">
     The power of the deadline
