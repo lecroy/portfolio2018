@@ -24,7 +24,7 @@ permalink: /bubbles
   </h3>
   <figure class="figure-pullout">
     <img src="img/bubbles/before1.png" width="400" class="bubbles-before" alt="Image showing bubbles dashboard when I started" loading="lazy" />
-    <figcaption class="case-study-caption">This was Bubbles when I started: a free-to-use, single-player screen recorder.
+    <figcaption class="case-study-caption">When I started, Bubbles was a free-to-use, single-player screen recorder.
     </figcaption>
   </figure>
   <p class="page-body-copy">

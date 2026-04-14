@@ -26,11 +26,6 @@ permalink: /enso
     When Pierre Omidyar started eBay, running it on a server under his desk at his full time job, he couldn't have then imagined the way it would completely transform online commerce. Fast forward to 2014, and he'd sold eBay and thrown the entire weight of his effort behind The Omidyar Network, a philanthropic investment group seeking to buoy not just single businesses, but entire sectors, in parts of the world where the boon to infrastructure is needed most.
   </p>
 
-  <figure class="figure-pullout">
-    <img src="img/omidyar/omidyar-wires-1.png" class="omidyar-wires-img" alt="Early wireframes for information architecture and page layout" loading="lazy" />
-    <figcaption class="case-study-caption">Early wireframes for information architecture and page layout</figcaption>
-  </figure>
-
   <p class="page-body-copy">
     The Omidyar Network was entering its 10th year of operation, and a refresh to the company identity and web presence as well as a clarification of its mission were a top priority, and one I was tasked with at Enso.
   </p>

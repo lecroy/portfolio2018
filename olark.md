@@ -55,10 +55,6 @@ permalink: /olark
   <p class="page-body-copy">
     After working with the project team to scope the work to a specific number of sprints, we were able to make further refinements based on priority. Design specs mapped to user stories (e.g. "As an admin, I can see which agents are logged in now") helped the team build agreement on what things were musts, and which could be deprioritized if time became a factor.
   </p>
-  <figure class="figure-pullout">
-    <img src="img/olark/dash-user-stories.png" class="dash-stories-img" alt="Spreadsheet of user stories for the new dashboard" loading="lazy" />
-    <figcaption class="case-study-caption">Design specs mapped to user stories help build agreement on priority.</figcaption>
-  </figure>
   <p class="page-body-copy">
     As the engineers turned the user stories into tech specs for the initial build, I refined the prototype and showed it to a handful of current customers with a short list of tasks to catch anything we might be overlooking.
   </p>

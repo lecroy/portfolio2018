@@ -22,6 +22,10 @@
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}15+ years leading product design. View portfolio case studies.{% endif %}">
   <meta name="twitter:image" content="{{ site.url }}/img/index/thl-logotype.svg">
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   <link rel="alternate" type="application/rss+xml" title="Taylor LeCroy" href="{{ site.url }}/feed.xml">
@@ -32,6 +36,11 @@
   <script src="/js/wordFx.js"></script>
 
   <script src="https://unpkg.com/@rive-app/canvas@1.0.102"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/lenis@1.1.13/dist/lenis.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+  <script src="/js/motion.js" defer></script>
 
   <!-- Begin Inspectlet Asynchronous Code -->
   <script type="text/javascript">
@@ -48,29 +57,28 @@
   <!-- Copy email address to clipboard -->
   <script type="text/javascript">
     function copyEmail() {
-      const emailText = document.getElementById('emailText');  // Get the text span element
-      const clipboardIcon = document.querySelector('.home-copy-clipboard'); // Get the clipboard icon
-      const originalText = emailText.textContent;  // Store the original text content
-      const email = 'taylorlecroy@gmail.com';  // The email address you want to copy
+      const link = document.getElementById('copyEmailLink');
+      const emailText = document.getElementById('emailText');
+      const email = 'taylorlecroy@gmail.com';
 
       navigator.clipboard.writeText(email)
         .then(() => {
-          clipboardIcon.style.display = 'none'; // Hide the clipboard icon
-          emailText.textContent = 'Copied!';  // Update the text to "Copied!"
-          emailText.style.transition = 'opacity .3s';  // Set the transition for the fade-out effect
+          link.classList.add('is-copied');
+          emailText.textContent = 'Copied';
+
           setTimeout(() => {
-            emailText.style.opacity = '0';  // Start fading out the "Copied!" text
+            emailText.style.transition = 'opacity 0.3s';
+            emailText.style.opacity = '0';
             setTimeout(() => {
-              emailText.textContent = originalText;  // Restore the original text
-              emailText.style.opacity = '1';  // Reset the opacity
-              clipboardIcon.style.display = ''; // Show the clipboard icon again
-            }, 1000);  // Wait for the fade-out to finish before resetting
-          }, 2000);  // Display "Copied!" for 2 seconds before starting the fade-out
+              link.classList.remove('is-copied');
+              emailText.textContent = email;
+              emailText.style.opacity = '1';
+              emailText.style.transition = '';
+            }, 300);
+          }, 2000);
         })
-        .catch(err => {
-          console.error('Failed to copy email: ', err);  // Error handling in case the copy fails
-        });
-      return false;  // Prevent the default href="#" behavior
+        .catch(err => console.error('Failed to copy email: ', err));
+      return false;
     }
   </script>
 
