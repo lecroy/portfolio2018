@@ -23,11 +23,11 @@ permalink: /enso
     Omidyar Network
   </h3>
   <p class="page-body-copy">
-    When Pierre Omidyar started eBay, running it on a server under his desk at his full time job, he couldn't have then imagined the way it would completely transform online commerce. Fast forward to 2014, and he'd sold eBay and thrown the entire weight of his effort behind The Omidyar Network, a philanthropic investment group seeking to buoy not just single businesses, but entire sectors, in parts of the world where the boon to infrastructure is needed most.
+    When Pierre Omidyar started eBay on a server under his desk, he probably wasn't thinking about global philanthropy. But by the time we worked with him, he'd long since sold the company and thrown his full weight behind The Omidyar Network — a philanthropic investment firm with an unusually ambitious goal: not just funding individual companies, but lifting entire sectors in parts of the world that needed it most.
   </p>
 
   <p class="page-body-copy">
-    The Omidyar Network was entering its 10th year of operation, and a refresh to the company identity and web presence as well as a clarification of its mission were a top priority, and one I was tasked with at Enso.
+    The Network was entering its 10th year, and a refresh of its identity, web presence, and mission clarity had become a real priority. I led that work at Enso.
   </p>
 
   <p class="page-body-copy">
@@ -39,7 +39,7 @@ permalink: /enso
   </p>
 
   <p class="page-body-copy">
-    Once we had a basic idea of how things would be connected, we moved into visual design. Omidyar Network wanted a site that demonstrated how it was a large worldwide network, but that they were all still very closely connected. We landed on the idea of aligning the horizons in our photos to show all the various people and places the Network touches.
+    Once we had a sense of the structure, we moved into visual design. The Network wanted a site that felt both vast and tight-knit — a worldwide operation where everything still felt connected. We landed on aligning the horizon lines across all our photography, a subtle device that tied together images of wildly different people and places.
   </p>
 
   <figure class="figure-inline">
@@ -48,7 +48,7 @@ permalink: /enso
   </figure>
 
   <p class="page-body-copy">
-    For the typography I chose H&FJ's Gotham Rounded for it's combination of approachability and strength, and Museo Slab as a sharp, readable serif that juxtaposes nicely against it.
+    For typography I chose H&FJ's Gotham Rounded for its combination of approachability and strength, paired with Museo Slab — a sharp, readable serif that holds up well against it.
   </p>
 
   <figure class="figure-inline">
@@ -84,10 +84,10 @@ permalink: /enso
   </p>
 
   <p class="page-body-copy">
-    The first order of business for me was tightening up the branding and translate it into a redesign of the agency website.
+    The first order of business was tightening up the branding and translating it into a redesign of the agency website.
   </p>
 
-  <figure class="figure-pullout">
+  <figure class="figure-inline">
     <img src="img/enso/Enso_home_dark.jpg" class="enso-home-dark-img" alt="Homepage with dark theme" loading="lazy" />
     <figcaption class="case-study-caption">As an easter egg, clicking the lightbulb on the home page toggled to a dark theme.</figcaption>
   </figure>
@@ -110,7 +110,7 @@ permalink: /enso
     Case studies were displayed large and clean on a white background. Minimal navigation made it easy to get from one case study to the next, or to simply go back home by clicking the logo.
   </p>
 
-  <figure class="figure-pullout">
+  <figure class="figure-inline">
     <img src="img/enso/enso_blog.jpg" class="enso-blog-img" alt="The olark blog, showing a sample post with image" loading="lazy" />
     <figcaption class="case-study-caption">The blog got a very minimal, clean look</figcaption>
   </figure>
@@ -121,7 +121,7 @@ permalink: /enso
   </figure>
 
   <p class="page-body-copy">
-    The launch of helloenso.com was a big success, featured on awwwards, httpster, css awards and other web design curations as well as design blogs like designspiration.net. In sum, the buzz around the site led to a 164% increase in traffic compared to the month previous.
+    The launch was a big success — featured on Awwwards, Httpster, CSS Awards and a handful of design blogs including Designspiration. The buzz translated to a 164% increase in traffic compared to the previous month.
   </p>
 
 

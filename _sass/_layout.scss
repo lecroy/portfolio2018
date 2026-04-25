@@ -122,7 +122,8 @@ iframe {
   line-height: 1.2;
   color: #232323;
 
-  margin: 5rem 0 1.5rem;
+  max-width: 660px;
+  margin: 5rem auto 1.5rem;
 
   &:after {
     display: none;
@@ -136,8 +137,8 @@ iframe {
   letter-spacing: 0.07em;
   text-transform: uppercase;
   color: $gray700;
-  margin-bottom: 0.75rem;
-  margin-top: 2rem;
+  max-width: 660px;
+  margin: 2rem auto 0.75rem;
 }
 
 .page-body-copy {
@@ -147,7 +148,7 @@ iframe {
   color: #3a3a3a;
 
   max-width: 660px;
-  margin-bottom: 1.75rem;
+  margin: 0 auto 1.75rem;
 }
 
 .body-copy-strong {
@@ -162,6 +163,7 @@ iframe {
   line-height: 1.5;
   margin-top: 0.6rem;
   display: block;
+  text-align: center;
 }
 
 .iframe-wrapper {
@@ -169,30 +171,35 @@ iframe {
 }
 
 .figure-inline {
-  img {
+  img, iframe {
     @extend .photo-treatment;
     border: 1px solid rgba(0, 0, 0, .2);
+    display: block;
+    max-width: 100%;
   }
 }
 
 .figure-inline-wider {
   img {
     @extend .photo-treatment;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
 .figure-pullout {
-  margin-bottom: 2.5rem;
-  width: 100%;
-  max-width: 660px;
+  margin: 0 auto 2.5rem;
+  width: fit-content;
+  max-width: 400px;
 
   figcaption {
     margin-top: 0.6rem;
-    max-width: 660px;
   }
 
   img {
-    width: 100%;
+    display: block;
+    max-width: 100%;
     border-radius: 12px;
     box-shadow: 0 10px 32px 0 $gray300;
   }
@@ -205,8 +212,9 @@ iframe {
 }
 
 .figure-inline {
-  margin-bottom: 2.5rem;
-  max-width: 660px;
+  margin: 0 auto 2.5rem;
+  max-width: 960px;
+  width: fit-content;
 }
 
 .figure-inline-wider {
@@ -272,7 +280,7 @@ iframe {
   width: 100%;
   max-width: 660px;
   padding: 2.5rem 0;
-  margin-top: 4rem;
+  margin: 4rem auto 0;
 
   a {
     color: #232323;
@@ -334,31 +342,6 @@ iframe {
 }
 
 
-@media screen and (min-width: 1280px) {
-  .figure-pullout {
-    float: right;
-    clear: both;
-    margin-bottom: 0;
-    margin-top: 2rem;
-    margin-left: 3rem;
-    max-width: 400px;
-
-    figcaption {
-      position: absolute;
-      margin-top: 1rem;
-      max-width: 400px;
-    }
-
-    &:first-of-type {
-      margin-top: 0;
-    }
-  }
-
-  .figure-pullout-shure {
-    display: block;
-    max-width: 280px;
-  }
-}
 
 
 @media screen and (min-width: 1200px) {

@@ -23,10 +23,10 @@ permalink: /freelance
     Hillary for America
   </h3>
   <p class="page-body-copy">
-    In the run-up to Hillary Clinton's official declaration for candidacy in the upcoming Presidential election, some friends from my time at The Obama campaign reached out looking for some design help to launch her campaign.
+    In the run-up to Hillary Clinton's announcement, some friends from my Obama campaign days reached out looking for design help to get her campaign off the ground.
   </p>
   <p class="page-body-copy">
-    Working under the project management of Laura Olin at Precision Strategies, I was tasked with delivering some look-and-feel concepts for her official homepage and donation flow. There were loose ideas being floated for content strategy but nothing had been made official yet, so the exploration was fairly blue-sky at that point.
+    Working with Laura Olin at Precision Strategies, I delivered look-and-feel concepts for the homepage and donation flow. Content strategy was still pretty fluid at that stage, so the exploration was fairly blue-sky.
   </p>
 
   <figure class="figure-inline">
@@ -35,7 +35,7 @@ permalink: /freelance
   </figure>
 
   <p class="page-body-copy">
-    My homepage ideas didn't end up getting used, but the donation flow was built out as the first iteration. Shortly to follow, Hillary for America began onboarding an amazing design team which took over and created a gorgeous visual campaign for candidate Clinton. My work would rightfully fade into history soon thereafter, but I'm proud to have made some small mark on her historic run for President. Here's some of the work I delivered.
+    My homepage concepts didn't make the cut, but the donation flow shipped as the first iteration. Shortly after, Hillary for America brought on an incredible in-house design team who took it from there and built something genuinely beautiful. My contribution faded quickly into the background — which felt about right — but I'm proud to have made some small mark on her historic run. Here's some of the work I delivered.
   </p>
   <figure class="figure-inline">
     <img src="img/freelance/hillary-hero-section.jpg" class="hillary-hero-img" alt="Concept image for Hillary Clinton's website" loading="lazy" />
@@ -68,13 +68,13 @@ permalink: /freelance
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
-  <figure class="figure-pullout">
+  <figure class="figure-inline">
     <img src="img/freelance/wfp-scrolling.gif" class="wfp-scrolling-img" alt="The information architecture allowed for scrolling in any direction on most views." loading="lazy" />
     <figcaption class="case-study-caption">The information architecture allowed for keyboard friendly scrolling in any direction on most views.</figcaption>
   </figure>
 
   <p class="page-body-copy">
-    Beyond conveying emotion, WFP needed to communicate what it had delivered over the previous year with data. The report would eventually include tables, graphs and an interactive world map showing all the locations visited, and benefitted, by WFP that year.
+    Beyond the emotion, WFP needed hard data — what they'd actually delivered over the previous year. The report included tables, graphs, and an interactive world map showing every location visited and benefited by WFP that year.
   </p>
 
   <figure class="figure-inline">

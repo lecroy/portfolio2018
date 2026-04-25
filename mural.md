@@ -22,8 +22,8 @@ permalink: /mural
   <h3 class="page-body-subhead">
     Selling a vision through signup
   </h3>
-  <figure class="figure-pullout">
-    <iframe style="border: none" width="400" height="304" src="https://rive.app/s/xYewiJtWLkSfkLxmwmBVZg/embed" allowfullscreen allow="autoplay"></iframe>
+  <figure class="figure-inline">
+    <iframe style="border: none; display: block; margin: 0 auto;" width="800" height="608" src="https://rive.app/s/xYewiJtWLkSfkLxmwmBVZg/embed" allowfullscreen allow="autoplay"></iframe>
     <figcaption class="case-study-caption">*Also the start of the pandemic, but who's to say what had the bigger impact on ARR 😉
     </figcaption>
   </figure>
@@ -34,7 +34,7 @@ permalink: /mural
     Internally, we began working toward what we called "lightning strike" moments - big, news-worthy releases to wow our users and position ourselves as first-class player in a newly coined category: Collaborative Intelligence. 
   </p>
   <p class="page-body-copy">
-    In my corner of the product - Growth and Acquisition - this meant managing the bridge between marketing and the users' first product experience. Specifically, we needed to iterate on the existing signup flow to align it with a company-wide brand & design system refresh, with a focus on delightful moments.
+    In my corner of the product — Growth and Acquisition — that meant owning the seam between the marketing site and the user's first product experience. Our mandate: rebuild the signup flow from scratch to match the new brand direction, and make it feel like it belonged there.
   </p>
   <h4 class="page-body-interior-subhead">
     The problem
@@ -60,7 +60,7 @@ permalink: /mural
   <h4 class="page-body-interior-subhead">
     The design approach
   </h4>
-  <figure class="figure-pullout">
+  <figure class="figure-inline">
     <img src="img/mural/compositions.png" class="mural-compositions" alt="Sketches of potential compositions of the signup form" loading="lazy" />
     <figcaption class="case-study-caption">Early composition studies
     </figcaption>
@@ -79,7 +79,7 @@ permalink: /mural
     Inviting. Familiar. Warm. These are the feelings a proper signup experience should invoke, within the constraints of a fun and energetic brand.
   </p>
   <p class="page-body-copy">
-    From this initial decision, a visual metaphor then began to emerge. Signup should feel like an invitation. Come in. Sit down. Stay awhile. "Seats" aren't just an integral part of our SaaS pricing and packaging. Taken literally, they're bastions of comfort and safe havens in an increasingly troubling world.
+    From this initial decision, a visual metaphor started to emerge. Signup should feel like an invitation. Come in. Sit down. Stay awhile. "Seats" aren't just a SaaS pricing unit — taken literally, they're a place to belong.
   </p>
   <figure class="figure-inline">
     <img src="img/mural/chairs.png" class="mural-chairs" alt="Layout options with chairs as a visual device" loading="lazy" />
@@ -89,9 +89,9 @@ permalink: /mural
     Next, we needed to land on a composition and finalize the visual hierarchy. In our case, grounding the illustration at the bottom of the viewport made conceptual sense with the chair metaphor, and allowed for easy adaptation to a single-column mobile layout.
   </p>
   <p class="page-body-copy">
-    With the visual design taking shape, I then worked on fine-tuning the language with our Content Design team. I've always believed getting the copy right and marrying it to the visual tone is as crucial to the success of the final solution as stunning visual design. In fact, probably more so.
+    With the visual design taking shape, I worked closely with our Content Design team to nail the language. Getting the words right — and making them feel like they belong with the visuals — matters just as much as the design itself. Probably more, honestly.
   </p>
-  <figure class="figure-pullout">
+  <figure class="figure-inline">
     <img src="img/mural/signup-animation.gif" class="mural-animation" alt="A gif showing animation of the signup flow" loading="lazy" />
     <figcaption class="case-study-caption">Adding final touches with motion design
     </figcaption>
@@ -101,7 +101,7 @@ permalink: /mural
     <figcaption class="case-study-caption">Nailing the copy is as important as nailing the visual design. Probably moreso.</figcaption>
   </figure>
   <p class="page-body-copy">
-    While I ended up leaving Mural before this work shipped as part of the company-wide rebrand, and thus can't speak to it's impact, I'm proud of where we ended up and think the flow looks fantastic in production today. It lives up to the promise of the brand and website and keeps the user engaged and interested as the product makes its ever-important first impression.
+    While I ended up leaving Mural before this work shipped as part of the company-wide rebrand, and thus can't speak to its impact, I'm proud of where we ended up and think the flow looks fantastic in production today. It lives up to the promise of the brand and website and keeps the user engaged and interested as the product makes its ever-important first impression.
   </p>
   <figure class="figure-inline">
     <img src="img/mural/signup.gif" class="mural-signup-gif" alt="Final signup screen with motion" loading="lazy" />
@@ -117,7 +117,7 @@ permalink: /mural
     The problem
   </h4>
   <p class="page-body-copy">
-    The data told us that 81% of new signups created a mural within their first day, but only 65% added content to the mural. The opportunity here as I saw it was to better enable new creators to put together a mural they were proud to share, faster.
+    The data told us that 81% of new signups created a mural within their first day, but only 65% added any content to it. The goal: help new creators build something they were actually proud to share — and get there faster.
 
     This needed to be more than just making the share button bigger or adding a standard product tour. It wasn't enough to make sharing easy – creators had to want to share their mural. And in order to achieve that state, they needed to be proud of what they were sharing.
   <figure class="figure-inline">

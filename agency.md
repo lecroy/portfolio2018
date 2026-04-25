@@ -37,7 +37,7 @@ permalink: /agency
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Xw5sJ04HkbM?si=HOXC8cx1syGcVwaf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <p class="page-body-copy">
-    The writer at my agency who originally pitched the chatacter did such a good job the folks at Anheuser-Busch ended up casting him as Ted Ferguson. Shout out to Jeb Quaid.
+    The writer at my agency who originally pitched the character did such a good job the folks at Anheuser-Busch ended up casting him as Ted Ferguson. Shout out to Jeb Quaid.
   </p>
 
   <p class="page-body-copy">
@@ -73,7 +73,7 @@ permalink: /agency
   </h4>
 
   <p class="page-body-copy">
-    I also got to work on some smaller local clients. This campaign stood out as a time when one of them was willing to take a fun risk. The idea was that all these MediSpa's were popping up and doing dermatology work without being certified, which was as bad as trusting uncertified people in any other profession.
+    I also worked on some smaller local clients. This one stood out — they were genuinely willing to take a fun risk. The idea: MediSpas were popping up everywhere doing dermatology work without proper certification, which is exactly as sketchy as hiring uncertified people in any other profession.
   </p>
 
   <figure class="figure-inline">

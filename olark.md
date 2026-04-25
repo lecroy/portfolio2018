@@ -26,7 +26,7 @@ permalink: /olark
     The dashboard project was my last one at Olark, launching in April 2019. An ironic end to my time there in some sense, spending my last chapter at the company working on the first thing our customers see after they log in.
   </p>
   <p class="page-body-copy">
-    Our goal for the project was to provide more value earlier in the customer's experience. Chiefly, this meant that the dashboard needed to be a desirable destination whether the person viewing it had any chat data or not.
+    Our goal was to provide more value earlier in the customer's experience — which meant the dashboard needed to be worth visiting whether you had a month of chat data or had never started a conversation.
   </p>
   <p class="page-body-copy">
     Here's what the existing dashboard looked like. Effectively, it was the navigation all over again, with a little more explanation around the links. Not a lot of value there:
@@ -79,7 +79,7 @@ permalink: /olark
   <p class="page-body-copy">
     From the survey results, I compiled a list of words that people used to describe the kind of company they wanted to work for. When I began tallying words used most often, a theme emerged: <span class="body-copy-strong">Humanity.</span>
   </p>
-  <figure class="figure-pullout">
+  <figure class="figure-inline">
     <img src="img/olark/olark-logo.gif" class="olark-logo-gif" alt="Animation showing the logo redesign process" loading="lazy" />
     <figcaption class="case-study-caption">Vectorizing the new logo.</figcaption>
   </figure>
@@ -91,10 +91,10 @@ permalink: /olark
     <figcaption class="case-study-caption">Original logo on left, redesign on right.</figcaption>
   </figure>
   <p class="page-body-copy">
-    Another decision I made early on was that I wanted to use real photography rather then illustration. Besides being the more Human thing to do, real faces cause visceral reactions in audiences. There was also a sea of sameness emerging around that time with tech companies and startups all using illustration on their branding and marketing sites.
+    Another early call: real photography over illustration. Real faces get a reaction in a way that illustrations just don't, and there was a sea of sameness forming around that time with every startup leaning on the same flat vector aesthetic.
   </p>
   <p class="page-body-copy">
-    The tradeoff I faced with using real photography was that I was going to have to use stock photography. We didn't have the time or resources to do our own shoot. Fortunately, I was able to find a nice set of portraits with a background I could recreate for future use.
+    The tradeoff was that we'd have to use stock. We didn't have the time or budget for a shoot. Fortunately, I found a portrait set with a backdrop I could recreate, which gave us room to expand it later.
   </p>
   <figure class="figure-inline">
     <img src="img/olark/portrait-example.jpg" class="portrait-example" alt="Sample of portrait images used in the styleguide" width="540" loading="lazy" />
@@ -110,7 +110,7 @@ permalink: /olark
   <p class="page-body-copy">
     Next up, we needed a color palette. I'd learned from trying to work within previous styleguides that having too limited a palette led to frustration and an overwhelming desire to use "in-between" colors in certain sitations where the guide didn't spec out something light or dark enough. This was often the case with section backgrounds. To keep it feeling human and diverse, I decided on a full-spectrum palette that would include all colors of the spectrum, rather than honing in on one color that the brand would try to own.
   </p>
-  <figure class="figure-pullout">
+  <figure class="figure-inline">
     <img src="img/olark/color-palette.png" class="olark-color-palette" alt="The color palette for Olark Live Chat" loading="lazy" />
     <figcaption class="case-study-caption">Olark's color palette</figcaption>
   </figure>
@@ -136,24 +136,26 @@ permalink: /olark
   <p class="page-body-copy">
     We decided to consolidate everything to Stylus and codify the presentational aspects of the styleguide components – colors, shadows, everything except where it goes on the page and the space around it – into base classes.
   </p>
-  <code class="element-descriptor-code"><div class="code-green">$card</div>
-  </code>
-  <br/>
-  <code class="element-descriptor-code code-indented"><div class="code-blue">background-color: <span class="code-purple">white;</span></div>
-    <div class="code-blue">border-radius: <span class="code-purple">22px;</span></div>
-    <div class="code-blue">box-shadow: <span class="code-purple">$card-shadow;</span></div>
-  </code>
-  <div class="styleguide-card-example">
-    <div class="styleguide-card-header">
-      This is the card title
+  <figure class="figure-inline">
+    <code class="element-descriptor-code"><div class="code-green">$card</div>
+    </code>
+    <br/>
+    <code class="element-descriptor-code code-indented"><div class="code-blue">background-color: <span class="code-purple">white;</span></div>
+      <div class="code-blue">border-radius: <span class="code-purple">22px;</span></div>
+      <div class="code-blue">box-shadow: <span class="code-purple">$card-shadow;</span></div>
+    </code>
+    <div class="styleguide-card-example">
+      <div class="styleguide-card-header">
+        This is the card title
+      </div>
+      This is the body of the card
     </div>
-    This is the body of the card
-  </div>
-  <code class="element-descriptor-code"><span class="code-red">@extends</span> <span class="code-green">$card</span>
-  </code>
-  <br>
-  <code class="element-descriptor-code bottom-pad"><span class="code-blue">text-align:</span> <span class="code-purple">center;</span>
-  </code>
+    <code class="element-descriptor-code"><span class="code-red">@extends</span> <span class="code-green">$card</span>
+    </code>
+    <br>
+    <code class="element-descriptor-code bottom-pad"><span class="code-blue">text-align:</span> <span class="code-purple">center;</span>
+    </code>
+  </figure>
   <p class="page-body-copy">
     To give designers flexibility within the system, I only included the styles in the base classes that I felt strongly would apply in nearly any layout situation, allowing room for overrides in more specific classes.
   </p>
@@ -188,7 +190,7 @@ permalink: /olark
     <figcaption class="case-study-caption">Wireframe showing an early look at proposed functionality.</figcaption>
   </figure>
   <p class="page-body-copy">
-    We also decided to offer a discount for a longer commitment. Paying monthly would cost a little more than paying for a year or two years at a time. In addition, we wanted to surface valuable information that our CS team was getting bogged down with: How many seats weren't being used, when the next billing cycle began, and the amount that would be charged at that time.
+    We also added a discount for longer commitments — monthly was a bit pricier than annual or two-year plans. And we wanted to surface the stuff our CS team was constantly fielding: how many seats were going unused, when the next billing cycle started, and exactly what they'd be charged.
   </p>
   <figure class="figure-inline">
     <img src="img/olark/billing-after.png" class="olark-billing-after" alt="Screen grab of the billing app circa 2018" loading="lazy" />
@@ -202,9 +204,9 @@ permalink: /olark
     Olark is a simple yet powerful tool for chatting with visitors on your website, but in order to me more useful to people, it needed to fit into existing workflows. Many of our customers use CRM tools like Salesforce and Zendesk to manage customer relationships over time, and a chat transcript with a customer helps add valuable context to those cases and leads.
   </p>
   <p class="page-body-copy">
-    For most of 2016, I worked on Olark's Integrations Team to build out the number and quality of our connections to third party apps, and was tasked with creating an interface for the full catalog of connections and how our customers would configure them, manage them and better understand their value.
+    For most of 2016, I worked on Olark's Integrations Team, expanding and improving our connections to third-party apps. My job was to design the full catalog experience — how customers would discover, configure, and get value from each integration.
   </p>
-  <figure class="figure-pullout">
+  <figure class="figure-inline">
     <img src="img/olark/integrations-flow.png" class="olark-integrations-flow" alt="Sketch showing a user flow for connecting integrations" loading="lazy" />
     <figcaption class="case-study-caption">An early user flow diagram showing integrations with user stories.</figcaption>
   </figure>
@@ -216,7 +218,7 @@ permalink: /olark
     <figcaption class="case-study-caption">One early iteration of the integrations portal.</figcaption>
   </figure>
   <p class="page-body-copy">
-    An early layout option, shown above, made it easy to understand which integrations were connected and how to configure them, but in the context of an ever-growing list we weren't satisfied that it would be easy to scan the list and find the integration one was looking for.
+    That early layout made it easy to see what was connected and how to configure it, but as the list grew we weren't confident people could actually find what they were looking for.
   </p>
   <p class="page-body-copy">
     In parallel, I also began defining the experience of configuring each individual integration. An early idea looked clean and simple, but I wasn't satisfied with the side-by-side layout of the form fields. It looked like too much work compared to a single-column fieldset:
@@ -233,7 +235,7 @@ permalink: /olark
     <figcaption class="case-study-caption">We finally settled on a list-based layout for easy scanning.</figcaption>
   </figure>
   <p class="page-body-copy">
-    For the configuration pages, we moved toward a side-by-side layout that would allow a single column fieldset to sit alongside a step-by-step visual demonstration of the benefits of the integration, in order to both sell the merits of connecting Olark to the app and make it easy to set things up to certain specifications.
+    For the configuration pages, we landed on a side-by-side layout: a clean single-column form on one side, a step-by-step visual walkthrough on the other. It let us sell the value of the integration while making it easy to actually set up.
   </p>
   <figure class="figure-inline">
     <img src="img/olark/integration-config-page-final.png" class="olark-config-page-final" alt="Final iteration of an individual integration config page" loading="lazy" />

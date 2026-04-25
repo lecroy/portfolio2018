@@ -19,17 +19,17 @@ permalink: /ofa
 
 
 <div class="page-body-wrapper">
-  <h3 class="page-body-subhead">
-    barackobama.com
-  </h3>
-
-  <figure class="figure-pullout">
+  <figure class="figure-inline">
     <img src="img/ofa/hug.jpg" class="ofa-hug-img" alt="Me hugging Barack Obama after election day 2012" loading="lazy" />
     <figcaption class="case-study-caption">After election day, everyone at HQ got a handshake and hug. I hadn't bathed in 2 days. He was cool about it.</figcaption>
   </figure>
 
+  <h3 class="page-body-subhead">
+    barackobama.com
+  </h3>
+
   <p class="page-body-copy">
-    "I want you to redesign barackobama dot com". I'll never forget hearing Design Director John Higgins say that to me. It hit me in stages. The first thing I thought was 'What an opportunity!' which was followed quickly by 'If I screw this up, it will be the most profoud failure of my life'. So y'know, no pressure.
+    "I want you to redesign barackobama dot com." I'll never forget hearing Design Director John Higgins say that to me. It hit me in stages — first, 'What an opportunity!', then almost immediately, 'If I screw this up, it will be the most profound failure of my life.' So, y'know. No pressure.
   </p>
 
   <p class="page-body-copy">
@@ -45,10 +45,10 @@ permalink: /ofa
   </figure>
 
   <p class="page-body-copy">
-    The header area needed to accomodate several featured items or events, but we were careful to preserve hierarchy and always let the top item stand out visually. We created an area directly beneath the full-width image dedicated to secondary topics and an overview of the President's stance on major issues, then dedicated the sidebar to quick donation, social sharing and a host of ways to get involved. Below that, a cascade of recent stories presented further opportunities to get informed and share news.
+    The header needed to accommodate several featured items at once without everything fighting for attention — the top story always won. Below the hero image we carved out space for secondary topics and a quick read on the President's positions, with the sidebar dedicated to donations, social sharing, and ways to get involved. Scroll down and a cascade of recent stories gave you more to dig into or share.
   </p>
 
-  <figure class="figure-pullout">
+  <figure class="figure-inline">
     <img src="img/ofa/bocom_home_sidebar.jpg" class="bocom-sidebar-img" alt="Sticky sidebar of barackobama.com" loading="lazy" />
     <figcaption class="case-study-caption">The sidebar stayed fixed as users scrolled, making it easy to engage without going back to the top.</figcaption>
   </figure>
@@ -85,10 +85,10 @@ permalink: /ofa
     Dashboard
   </h3>
   <p class="page-body-copy">
-    On the morning of my third day at the campaign I was walking to my desk when someone stood up and introduced himself. His name was David Osborne, and he was the Product Manager on something kind of secretive which at the time was being called WIRE. Someone had told David that I was the new digital designer who could handle the project, and I was happy to play along. What would follow was a year and a half of daily check-ins, puddles of blood sweat and tears, and three complete css re-writes of production code that was shipped to thousands.
+    On the morning of my third day at the campaign I was walking to my desk when someone stood up and introduced himself. His name was David Osborne, and he was the Product Manager on something kind of secretive which at the time was being called WIRE. Someone had told David that I was the new digital designer who could handle the project, and I was happy to play along. What followed was a year and a half of daily check-ins, genuine blood sweat and tears, and three complete CSS rewrites of production code shipped to hundreds of thousands.
   </p>
 
-  <figure class="figure-pullout">
+  <figure class="figure-inline">
     <img src="img/ofa/dash-mood-board.jpg" class="dash-mood-board-img" alt="An early mood board" loading="lazy" />
     <figcaption class="case-study-caption">An early mood board</figcaption>
   </figure>
@@ -107,7 +107,7 @@ permalink: /ofa
   </figure>
 
   <p class="page-body-copy">
-    And boy oh boy, did they hate it. We frantically tried to identify and address the most important issues through a small but tireless support team that had tickets pouring in left and right. Volunteers were threatening to dump the product and go back to excel spreadsheets, and stakeholders within the campaign were getting restless.
+    And boy oh boy, did they hate it. We frantically tried to identify and address the most important issues through a small but tireless support team that had tickets pouring in left and right. Volunteers were threatening to dump the product and go back to Excel spreadsheets, and stakeholders within the campaign were getting restless.
   </p>
 
   <p class="page-body-copy">
@@ -143,7 +143,7 @@ permalink: /ofa
   </figure>
 
   <p class="page-body-copy">
-    Most of the work volunteers were doing on Dashboard involved reporting and recording data so that regional managers could easily see which teams or team members were performing well and which needed shoring up. The challenge in designing the interface was that the information shown varied widely in complexity based on the "rank" of the volunteer. Below is a goal setting interface for a manager of an entire region. The controllable graph points allowed them to distribute segments of an overall goal week-by-week in order to arrive at a predetermined total.
+    Most of the work volunteers were doing on Dashboard involved reporting and recording data so that regional managers could easily see which teams or team members were performing well and which needed shoring up. The tricky part was that what you saw on Dashboard depended heavily on where you sat in the org. Below is the goal-setting view for a regional manager — draggable points on a graph let them spread a total goal across weeks however made sense for their team.
   </p>
 
   <figure class="figure-inline">
@@ -173,7 +173,7 @@ permalink: /ofa
     Microsites
   </h3>
   <p class="page-body-copy">
-    A major presidential campaign had many different departments: Field teams, Surrogates, Opposition Research and may more. Each of these departments had its own needs and more often than not, those needs included a website of some sort. Following are several microsites I had the opportunity to design.
+    A major presidential campaign has a lot of moving parts — field teams, surrogates, opposition research, and plenty more. Each department had its own needs, and more often than not, those needs included a website. Following are several microsites I had the opportunity to design.
   </p>
 
   <h4 class="page-body-interior-subhead">

@@ -22,8 +22,8 @@ permalink: /bubbles
   <h3 class="page-body-subhead">
     Reimagining Remote Collaboration
   </h3>
-  <figure class="figure-pullout">
-    <img src="img/bubbles/before1.png" width="400" class="bubbles-before" alt="Image showing bubbles dashboard when I started" loading="lazy" />
+  <figure class="figure-inline">
+    <img src="img/bubbles/before1.png" class="bubbles-before" alt="Image showing bubbles dashboard when I started" loading="lazy" />
     <figcaption class="case-study-caption">When I started, Bubbles was a free-to-use, single-player screen recorder.
     </figcaption>
   </figure>
