@@ -1,51 +1,30 @@
 <header role="banner" class="site-header">
-
   <div class="header-wrapper">
 
-    <a href="/">
-      <img src="img/index/thl-logotype.svg" class="thl-logotype" />
+    <a href="/" class="nav-rive-link" aria-label="Home">
+      <canvas id="canvas-nav" width="90" height="71"></canvas>
     </a>
 
+    <script>
+      new rive.Rive({
+        src: "/img/index/rocking-head-2026.riv",
+        canvas: document.getElementById("canvas-nav"),
+        autoplay: true,
+        useOffscreenRenderer: true,
+      });
+    </script>
 
-    <!-- mobile nav probably not necessary
-    <input type="checkbox" class="menu-toggle" id="menu-toggle">
-      <label for="menu-toggle" class="mobile-menu-icon">
-        <div class="mobile-menu-icon-inner">
-          <div class="mobile-icon-stroke-one"></div>
-          <div class="mobile-icon-stroke-wrapper">
-            <div class="mobile-icon-stroke-two"></div>
-            <div class="mobile-icon-stroke-three"></div>
-          </div>
-          <div class="mobile-icon-stroke-wrapper">
-            <div class="mobile-icon-stroke-four"></div>
-            <div class="mobile-icon-stroke-five"></div>
-          </div>
-        </div>
-      </label>
-
-    <div class="header">
-      <nav class="mobile-nav" id="mobile-navigation">
-        <ul>
-          <li>
-            <a href="/olark" class="mobile-nav-link">Olark</a>
-          </li>
-          <li>
-            <a href="/freelance" class="mobile-nav-link">Freelance</a>
-          </li>
-          <li>
-            <a href="/enso" class="mobile-nav-link">Enso</a>
-          </li>
-          <li>
-            <a href="/ofa" class="mobile-nav-link">Obama 2012</a>
-          </li>
-          <li>
-            <a href="/advertising" class="mobile-nav-link">Advertising</a>
-          </li>
-        </ul>
-      </nav>
-    </div>
-  -->
+    <h4 class="home-location-wrapper">
+      <span>
+        <a href="#" id="copyEmailLink" class="header-email-link" onclick="copyEmail()">
+          <svg class="copy-checkmark" width="13" height="13" viewBox="0 0 13 13" fill="none" aria-hidden="true">
+            <path d="M2 6.5L5.2 9.75L11 3.5" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <img src="/img/index/copy-clipboard.svg" class="home-copy-clipboard"/>
+          <span id="emailText" class="email-text">taylorlecroy@gmail.com</span>
+        </a>
+      </span>
+    </h4>
 
   </div>
-
 </header>

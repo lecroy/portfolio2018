@@ -20,6 +20,11 @@
   }
 }
 
+.nav-rive-link {
+  display: inline-block;
+  line-height: 0;
+}
+
 .home-location-wrapper {
   text-align: center;
   float: right;
@@ -99,6 +104,8 @@
   z-index: 0;
   height: 160px;
   margin: -1rem auto 0 -12px;
+  cursor: pointer;
+  display: block;
 }
 
 .timeline-nav-wrapper {
