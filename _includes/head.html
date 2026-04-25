@@ -63,6 +63,7 @@
 
       navigator.clipboard.writeText(email)
         .then(() => {
+          link.style.width = link.offsetWidth + 'px';
           link.classList.add('is-copied');
           emailText.textContent = 'Copied';
 
@@ -74,6 +75,7 @@
               emailText.textContent = email;
               emailText.style.opacity = '1';
               emailText.style.transition = '';
+              link.style.width = '';
             }, 300);
           }, 2000);
         })

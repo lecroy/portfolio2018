@@ -47,10 +47,10 @@
   font-weight: 400;
   display: inline-flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 5px;
+  justify-content: flex-start;
+  gap: 6px;
   padding: 6px 10px;
-  width: 192px;
+  width: fit-content;
   font-size: 12px;
   white-space: nowrap;
   transition:
@@ -160,7 +160,6 @@
 
   .header-email-link {
     font-size: 13px;
-    width: 202px;
   }
 
   .homepage-animation {
