@@ -1,9 +1,9 @@
 <header role="banner" class="site-header">
   <div class="header-wrapper">
 
+    {% if page.url == '/' %}
     <a href="/" class="homepage-animation" aria-label="Home">
       <canvas id="canvas" width="432" height="340"></canvas>
-
       <script>
         new rive.Rive({
             src: "img/index/rocking-head-2026.riv",
@@ -13,6 +13,11 @@
         });
       </script>
     </a>
+    {% else %}
+    <a href="/" class="case-study-logo" aria-label="Home">
+      <img src="/img/index/head-solo.svg" class="head-solo" alt="Home" />
+    </a>
+    {% endif %}
 
     <h4 class="home-location-wrapper">
       <span>

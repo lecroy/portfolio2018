@@ -34,7 +34,9 @@ permalink: /agency
     Ted Ferguson, Bud Light Daredevil was an up and coming YouTube star who would film himself doing stunts like resisting the last slice of pizza and talking to his parents about his future, all for the promise of a cold one if he could make it. We made a bunch of these but something about this one is my favorite.
   </p>
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Xw5sJ04HkbM?si=HOXC8cx1syGcVwaf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figure class="figure-inline">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Xw5sJ04HkbM?si=HOXC8cx1syGcVwaf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </figure>
 
   <p class="page-body-copy">
     The writer at my agency who originally pitched the character did such a good job the folks at Anheuser-Busch ended up casting him as Ted Ferguson. Shout out to Jeb Quaid.
@@ -44,9 +46,9 @@ permalink: /agency
     If you're a person of a certain age, you likely remember the "Real Men of Genius" radio campaign for Bud Light. It celebrated the often overlooked heroes of everyday of life in the good ol' US of A, and I had a chance to work on this one.
   </p>
 
-  <div class="iframe-wrapper">
+  <figure class="figure-inline">
     <iframe width="540" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/48091067&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-  </div>
+  </figure>
 
   <h4 class="page-body-interior-subhead">
     Big Ten Network
@@ -56,7 +58,10 @@ permalink: /agency
     Basketball dimples as goosebumps. It was a lot of fun seeing this one through the special effects process.
   </p>
 
-  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/19639144?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Big Ten Network - Goosebumps"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+  <figure class="figure-inline">
+    <div style="padding:56.25% 0 0 0;position:relative;width:100%;"><iframe src="https://player.vimeo.com/video/19639144?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Big Ten Network - Goosebumps"></iframe></div>
+  </figure>
+  <script src="https://player.vimeo.com/api/player.js"></script>
 
   <h4 class="page-body-interior-subhead">
     Special Olympics
@@ -66,7 +71,9 @@ permalink: /agency
     Susie Doyens was afraid to speak until she found her confidence through golf. I'm proud to have been a part of telling her story in this spot for Special Olympics with Director Martin Rodahl.
   </p>
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/bU3RrrpzVec?si=R1wo5gbkMkGTaHm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figure class="figure-inline">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bU3RrrpzVec?si=R1wo5gbkMkGTaHm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </figure>
 
   <h4 class="page-body-interior-subhead">
     Premier Dermatology
@@ -77,17 +84,17 @@ permalink: /agency
   </p>
 
   <figure class="figure-inline">
-    <img src="img/premier_derm/2_PREMIER_lifeguard.jpg" class="premier-lifeguard-img" alt="An unqualified lifeguard" loading="lazy" />
+    <img src="img/premier_derm/2_PREMIER_lifeguard.jpg" class="premier-lifeguard-img" alt="An unqualified lifeguard" width="763" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/premier_derm/1_PREMIER_hair.jpg" class="premier-hair-img" alt="An unqualified hairstylist" loading="lazy" />
+    <img src="img/premier_derm/1_PREMIER_hair.jpg" class="premier-hair-img" alt="An unqualified hairstylist" width="763" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
   <figure class="figure-inline">
-    <img src="img/premier_derm/3_PREMIER_ref.jpg" class="premier-ref-img" alt="An unqualified referee" loading="lazy" />
+    <img src="img/premier_derm/3_PREMIER_ref.jpg" class="premier-ref-img" alt="An unqualified referee" width="763" loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
 
