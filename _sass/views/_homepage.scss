@@ -327,38 +327,60 @@
   flex-shrink: 0;
 }
 
-.in-progress-dot {
+.metaball-loader {
   position: relative;
   display: inline-block;
-  width: 7px;
-  height: 7px;
+  width: 30px;
+  height: 20px;
   flex-shrink: 0;
-
-  &::before,
-  &::after {
-    content: '';
-    position: absolute;
-    inset: 0;
-    border-radius: 50%;
-  }
-
-  // Solid core dot
-  &::before {
-    background: $electric-blue;
-    opacity: 0.7;
-  }
-
-  // Pulsing ring
-  &::after {
-    background: $electric-blue;
-    animation: livePulse 2s ease-out infinite;
-  }
+  filter: url(#metaball-filter);
 }
 
-@keyframes livePulse {
-  0%   { transform: scale(1);   opacity: 0.5; }
-  60%  { transform: scale(2.6); opacity: 0;   }
-  100% { transform: scale(2.6); opacity: 0;   }
+.metaball-blob {
+  position: absolute;
+  border-radius: 50%;
+  background: rgb(150, 150, 150);
+}
+
+.metaball-blob--a {
+  width: 12px;
+  height: 12px;
+  animation: mb-a 3.1s ease-in-out infinite;
+}
+
+.metaball-blob--b {
+  width: 8px;
+  height: 8px;
+  animation: mb-b 2.4s ease-in-out infinite;
+  animation-delay: -0.9s;
+}
+
+.metaball-blob--c {
+  width: 6px;
+  height: 6px;
+  animation: mb-c 4.3s ease-in-out infinite;
+  animation-delay: -1.6s;
+}
+
+@keyframes mb-a {
+  0%   { left: 1px;  top: 1px;  }
+  35%  { left: 17px; top: 8px;  }
+  65%  { left: 6px;  top: 5px;  }
+  100% { left: 1px;  top: 1px;  }
+}
+
+@keyframes mb-b {
+  0%   { left: 20px; top: 3px;  }
+  30%  { left: 2px;  top: 12px; }
+  65%  { left: 13px; top: 1px;  }
+  100% { left: 20px; top: 3px;  }
+}
+
+@keyframes mb-c {
+  0%   { left: 12px; top: 13px; }
+  40%  { left: 1px;  top: 2px;  }
+  75%  { left: 22px; top: 7px;  }
+  100% { left: 12px; top: 13px; }
 }
 
 

@@ -2,6 +2,16 @@
 layout: default
 ---
 
+<svg aria-hidden="true" focusable="false" style="position:absolute;width:0;height:0;overflow:hidden">
+  <defs>
+    <filter id="metaball-filter">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+      <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -9" result="goo"/>
+      <feComposite in="SourceGraphic" in2="goo" operator="atop"/>
+    </filter>
+  </defs>
+</svg>
+
 <div class="home-hero-container">
   <h1 class="home-intro-copy">
     <span class="reveal-line"><span class="reveal-inner">Make pixels work hard</span></span> <span class="reveal-line"><span class="reveal-inner" style="--delay: 1s; --dur: 2.2s">so people don't have to.</span></span>
@@ -10,7 +20,11 @@ layout: default
     <div class="current-work-card">
       <p class="current-work-text"><span class="current-work-timespan">2024 – Current</span> Designing the agent-building platform for enterprise at <a href="https://workato.com">Workato</a></p>
       <div class="in-progress-pill">
-        <span class="in-progress-dot"></span>
+        <span class="metaball-loader" aria-hidden="true">
+          <span class="metaball-blob metaball-blob--a"></span>
+          <span class="metaball-blob metaball-blob--b"></span>
+          <span class="metaball-blob metaball-blob--c"></span>
+        </span>
         In progress
       </div>
     </div>
