@@ -145,7 +145,7 @@ permalink: /bubbles
   • The best validation isn't what users say – it's whether they actually miss your product when it's gone.<br/>
   </p>
   <h4 class="page-body-interior-subhead">
-    Key design principles I learned
+    Design principles I internalized
   </h4>
   <p class="page-body-copy">
   • Start with user psychology, not features<br/>
