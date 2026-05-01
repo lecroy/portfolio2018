@@ -83,10 +83,10 @@ permalink: /bubbles
         });
       })();
     </script>
-    <figcaption class="case-study-caption">Which teammates do you need a response from? By when?</figcaption>
+    <figcaption class="case-study-caption">Remote teams need to be direct about who needs to respond, and by when.</figcaption>
   </figure>
   <p class="page-body-copy">
-    Having video context for replies was equally important. Our core belief was that screen sharing allowed for visual context that just doesn't come across in an email, bullet points or a wall of text, whether in the original video or in replies and feedback from recipients:
+    Replies to video updates could also be videos. Context is equally important when giving feedback as when asking for it. Our core belief was that screen sharing allowed for visual context that just doesn't come across in an email, bullet points or a wall of text.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/video-reply.png" class="bubbles-video-reply" alt="Participants can leave replies in the form of video and screen share as well as text." loading="lazy" />
