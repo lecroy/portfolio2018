@@ -22,27 +22,23 @@ permalink: /bubbles
   <h3 class="page-body-subhead">
     Reimagining Remote Collaboration
   </h3>
-  <figure class="figure-inline">
-    <img src="img/bubbles/before1.png" class="bubbles-before" alt="Image showing bubbles dashboard when I started" loading="lazy" />
-    <figcaption class="case-study-caption">When I started, Bubbles was a free-to-use, single-player screen recorder.
-    </figcaption>
-  </figure>
   <p class="page-body-copy">
-    In 2022 I joined a seed-stage startup called Bubbles as Principal Product Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become a video-first conversational platform for remote team collaboration, rather than one-way presentations.
+    In 2022 I joined a seed-stage startup called Bubbles as Principal Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become a video-first, back-and-forth conversational platform for remote team collaboration, rather than one-way presentations.
 
-    What followed was two years of learning how hard it is to get people to actually change how they work – and occasionally succeeding anyway.
+    What followed was two years of learning how hard it is to get people to actually change how they work, and occasionally succeeding anyway.
   </p>
   <figure class="figure-inline">
-    <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="The bubbles activity inbox ahowing new videos" loading="lazy" />
-    <figcaption class="case-study-caption">The Bubbles inbox. Wake up to a feed of screen recordings from your remote teammates, with response expectations attached.</figcaption>
+    <img src="img/bubbles/before1.png" class="bubbles-before" alt="Image showing bubbles dashboard when I started" loading="lazy" />
+    <figcaption class="case-study-caption">Bubbles circa 2022: A free, single-player screen recorder.
+    </figcaption>
   </figure>
   <h3 class="page-body-subhead">
     The challenge
   </h3>
   <p class="page-body-copy">
-    Bubbles had a core group of about 20,000 monthly active users. They were big fans. They loved the app for its lightweight onboarding, ease-of-use, and most of all the fact that it was entirely free.
+    Bubbles had a core group of about 20,000 monthly active users. They were big fans. They loved the app for its lightweight onboarding, ease-of-use, and most of all the fact that it cost nothing to use.
 
-    Bubbles was well-liked and useful, but not yet transformative. Users could record their screen, add their camera feed, and share links. While functional, it wasn't living up to our long-term vision of an async communication platform for remote teams. My task was to address the deeper challenges of collaborating across time zones, when your teammates are going to sleep as you're starting your day.
+    Bubbles was well-liked and useful, but not yet transformative. Users could record their screen, add their camera feed, and share links. While functional, it wasn't living up to our long-term vision of an async communication platform for remote teams. My task was to turn a lightweight screen recorder into a tool for remote teams, addressing the deeper challenges of collaborating across time zones, when your teammates are going to sleep as you're starting your day.
   </p>
   <p class="page-body-copy">
     We also faced the existential crisis all venture-backed startups eventually hit: figure out how to make money, or die trying.
@@ -120,6 +116,10 @@ permalink: /bubbles
     • Free users are great for ego, terrible for business. Love doesn't pay the bills.<br/>
     • The best validation isn't what users say – it's whether they actually miss your product when it's gone.<br/>
   </p>
+  <figure class="figure-inline">
+    <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="The bubbles activity inbox ahowing new videos" loading="lazy" />
+    <figcaption class="case-study-caption">The Bubbles inbox. Wake up to a feed of screen recordings from your remote teammates, with response expectations attached.</figcaption>
+  </figure>
   <br/>
   <figure class="figure-inline">
     <img src="img/bubbles/notetaker.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
