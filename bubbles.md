@@ -108,13 +108,7 @@ permalink: /bubbles
     The AI evolution
   </h4>
   <p class="page-body-copy">
-    Then we made our biggest bet: if we couldn't convince people to change their habits, we'd meet them where they already were – in endless meetings on Zoom, MS Teams, and Google Meet. We'd aim to become the place to unpack the meeting and distribute action items async to avoid endless, hard-to-schedule follow-ups. We developed an intelligent meeting recorder that could:
-  </p>
-  <p class="page-body-copy">
-    • Deadlines are more powerful than features. A simple timer did more for collaboration than any amount of slick UI.<br/>
-    • People hate changing their communication habits more than they hate bad communication. We had to piggyback on existing workflows (Zoom) instead of replacing them.<br/>
-    • Free users are great for ego, terrible for business. Love doesn't pay the bills.<br/>
-    • The best validation isn't what users say – it's whether they actually miss your product when it's gone.<br/>
+    Then we made our biggest bet: if we couldn't convince people to change their habits, we'd meet them where they already were – in endless meetings on Zoom, MS Teams, and Google Meet. We built an intelligent meeting recorder that auto-joined calls, generated AI transcripts, surfaced action items, and fed everything back into Bubbles so teams could follow up async – without scheduling yet another meeting.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="The bubbles activity inbox ahowing new videos" loading="lazy" />
@@ -142,6 +136,15 @@ permalink: /bubbles
     While Bubbles ultimately didn't unlock the explosive growth needed to secure its next round, we we proved our concept with significant milestones. The company grew from $0 to $500K ARR through word-of-mouth, converted thousands of free users into paying customers, and built a product that users raved about using.
   </p>
   <h4 class="page-body-interior-subhead">
+    What we learned the hard way
+  </h4>
+  <p class="page-body-copy">
+  • Deadlines are more powerful than features. A simple timer did more for collaboration than any amount of slick UI.<br/>
+  • People hate changing their communication habits more than they hate bad communication. We had to piggyback on existing workflows instead of replacing them.<br/>
+  • Free users are great for ego, terrible for business. Love doesn't pay the bills.<br/>
+  • The best validation isn't what users say – it's whether they actually miss your product when it's gone.<br/>
+  </p>
+  <h4 class="page-body-interior-subhead">
     Key design principles I learned
   </h4>
   <p class="page-body-copy">
@@ -150,7 +153,6 @@ permalink: /bubbles
   • Design for habits, not just actions<br/>
   • Balance innovation with familiarity<br/>
   </p>
-  <br/>
   <h4 class="page-body-interior-subhead">
     Reflection
   </h4>
