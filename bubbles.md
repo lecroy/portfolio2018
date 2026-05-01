@@ -62,9 +62,32 @@ permalink: /bubbles
   <p class="page-body-copy">
     We introduced a timer that creators could set when recording their video messages – a simple feature that profoundly impacted users' behavior. Authors could set clear expectations for response times and tag people as either 'Response required' or 'Just FYI.' We'd send reminders to the first group until the deadline hit.
   </p>
-  <figure class="figure-inline">
-    <img src="img/bubbles/timer1.gif" class="bubbles-timer" alt="The bubble author adjusting the respose expectations and time frame for the desired response" loading="lazy" />
-    <figcaption class="case-study-caption">Authors can choose who they need a response from and by when, with smart reminders sent until the deadline.</figcaption>
+  <figure class="figure-rive">
+    <div class="bubbles-timer-wrap">
+      <canvas id="bubbles-responses-canvas" width="1028" height="578" aria-label="The bubble author adjusting the response expectations and time frame for the desired response"></canvas>
+    </div>
+    <script>
+      (function() {
+        var canvas = document.getElementById('bubbles-responses-canvas');
+        var r;
+        r = new rive.Rive({
+          src: "img/bubbles/bubbles_responses.riv",
+          canvas: canvas,
+          autoplay: true,
+          layout: new rive.Layout({
+            fit: rive.Fit.Cover,
+            alignment: rive.Alignment.Center
+          }),
+          onLoad: function() {
+            r.resizeDrawingSurfaceToCanvas();
+          }
+        });
+        window.addEventListener('resize', function() {
+          if (r) r.resizeDrawingSurfaceToCanvas();
+        });
+      })();
+    </script>
+    <figcaption class="case-study-caption">Which teammates do you need a response from? By when?</figcaption>
   </figure>
   <p class="page-body-copy">
     Having video context for replies was equally important. Our core belief was that screen sharing allowed for visual context that just doesn't come across in an email, bullet points or a wall of text, whether in the original video or in replies and feedback from recipients:

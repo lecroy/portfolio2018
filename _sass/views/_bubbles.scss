@@ -1,0 +1,24 @@
+.figure-rive {
+  display: block;
+  width: 100%;
+  max-width: 768px;
+  margin: 0 auto 2.5rem;
+}
+
+.bubbles-timer-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 10px 32px 0 $gray300;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin-bottom: 1rem;
+
+  canvas {
+    width: 100%;
+    height: auto;
+    transform: none;
+    transform-origin: unset;
+  }
+}
