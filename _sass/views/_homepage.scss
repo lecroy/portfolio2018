@@ -132,6 +132,23 @@
   @extend .timeline-block;
 }
 
+.bubbles-block {
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    background: linear-gradient(to top, #f3faff 0%, #ffffff 72%);
+    clip-path: inset(100% 0 0 0);
+    transition: clip-path 0.55s var(--ease-out-expo);
+    pointer-events: none;
+  }
+
+  &:hover::before {
+    clip-path: inset(0% 0 0 0);
+  }
+}
+
 .timespan-wrapper {
   position: absolute;
   top: 1.75rem;
