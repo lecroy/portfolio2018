@@ -110,15 +110,10 @@
 
   > .hover-image-block {
     clip-path: none;
-    opacity: 0.7;
+    opacity: 1;
     mix-blend-mode: multiply;
     height: 100%;
     transition: none;
-  }
-
-  &:hover > .hover-image-block {
-    clip-path: none;
-    opacity: 1;
   }
 
   .timeline-block-title {
@@ -182,8 +177,8 @@
 
   &.bubbles-hover-img {
     background-image: url('/img/index/bubbles-bw.png');
-    background-size: 75%;
-    background-position: calc(100% + 75px) calc(50% - 30px);
+    background-size: 60%;
+    background-position: calc(100% + 60px) calc(50% + 5px);
   }
 
   &.mural-hover-img {
@@ -271,10 +266,6 @@
 }
 
 .current-work-card {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1.5rem;
   padding: 1rem 2rem;
   border-radius: 10px;
   background: rgba(35,35,35,0.03);
@@ -312,75 +303,6 @@
       border-color: $electric-blue;
     }
   }
-}
-
-.in-progress-pill {
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-  padding: 5px 12px 5px 9px;
-  border-radius: 100px;
-  font-family: $avenir;
-  font-size: 12px;
-  color: $gray700;
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-
-.metaball-loader {
-  position: relative;
-  display: inline-block;
-  width: 30px;
-  height: 20px;
-  flex-shrink: 0;
-  filter: url(#metaball-filter);
-}
-
-.metaball-blob {
-  position: absolute;
-  border-radius: 50%;
-  background: rgb(150, 150, 150);
-}
-
-.metaball-blob--a {
-  width: 12px;
-  height: 12px;
-  animation: mb-a 3.1s ease-in-out infinite;
-}
-
-.metaball-blob--b {
-  width: 8px;
-  height: 8px;
-  animation: mb-b 2.4s ease-in-out infinite;
-  animation-delay: -0.9s;
-}
-
-.metaball-blob--c {
-  width: 6px;
-  height: 6px;
-  animation: mb-c 4.3s ease-in-out infinite;
-  animation-delay: -1.6s;
-}
-
-@keyframes mb-a {
-  0%   { left: 1px;  top: 1px;  }
-  35%  { left: 17px; top: 8px;  }
-  65%  { left: 6px;  top: 5px;  }
-  100% { left: 1px;  top: 1px;  }
-}
-
-@keyframes mb-b {
-  0%   { left: 20px; top: 3px;  }
-  30%  { left: 2px;  top: 12px; }
-  65%  { left: 13px; top: 1px;  }
-  100% { left: 20px; top: 3px;  }
-}
-
-@keyframes mb-c {
-  0%   { left: 12px; top: 13px; }
-  40%  { left: 1px;  top: 2px;  }
-  75%  { left: 22px; top: 7px;  }
-  100% { left: 12px; top: 13px; }
 }
 
 
