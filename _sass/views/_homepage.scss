@@ -73,6 +73,8 @@
 
 // Base tile block
 .timeline-block {
+  --tile-hover-accent: #f3faff;
+
   border-radius: 12px;
   width: 100%;
   height: 300px;
@@ -87,9 +89,22 @@
     0 4px 12px rgba(35,35,35,0.06),
     0 16px 40px rgba(35,35,35,0.07);
   overflow: hidden;
+  isolation: isolate;
   transition:
     box-shadow var(--dur-mid) var(--ease-out-expo),
     transform var(--dur-mid) var(--ease-out-expo);
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    border-radius: inherit;
+    background: linear-gradient(to top, var(--tile-hover-accent) 0%, #ffffff 72%);
+    clip-path: inset(100% 0 0 0);
+    transition: clip-path 0.55s var(--ease-out-expo);
+    pointer-events: none;
+  }
 
   &:hover {
     transform: translateY(-5px);
@@ -98,7 +113,7 @@
       0 8px 24px rgba(35,35,35,0.10),
       0 32px 64px rgba(35,35,35,0.12);
 
-    > .hover-image-block {
+    &::before {
       clip-path: inset(0% 0 0 0);
     }
   }
@@ -107,14 +122,6 @@
 // Featured tile overrides
 .timeline-block--featured {
   height: 420px;
-
-  > .hover-image-block {
-    clip-path: none;
-    opacity: 1;
-    mix-blend-mode: multiply;
-    height: 100%;
-    transition: none;
-  }
 
   .timeline-block-title {
     font-size: 3.6em;
@@ -132,27 +139,20 @@
   @extend .timeline-block;
 }
 
-.bubbles-block {
-  &::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    border-radius: inherit;
-    background: linear-gradient(to top, #f3faff 0%, #ffffff 72%);
-    clip-path: inset(100% 0 0 0);
-    transition: clip-path 0.55s var(--ease-out-expo);
-    pointer-events: none;
-  }
-
-  &:hover::before {
-    clip-path: inset(0% 0 0 0);
-  }
-}
+// Hover washes sample a light tint from each thumbnail's artwork.
+.bubbles-block   { --tile-hover-accent: #f3faff; }
+.mural-block     { --tile-hover-accent: #f1f8fe; }
+.olark-block     { --tile-hover-accent: #f2faef; }
+.freelance-block { --tile-hover-accent: #f1f7fc; }
+.enso-block      { --tile-hover-accent: #fffdea; }
+.ofa-block       { --tile-hover-accent: #f1f5fa; }
+.agency-block    { --tile-hover-accent: #fdf4f2; }
 
 .timespan-wrapper {
   position: absolute;
   top: 1.75rem;
   left: 2rem;
+  z-index: 2;
 }
 
 .attr-wrapper {
@@ -160,6 +160,7 @@
   bottom: 1.75rem;
   left: 2rem;
   right: 2rem;
+  z-index: 2;
 }
 
 .timespan {
@@ -178,8 +179,9 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  transition: clip-path 0.55s var(--ease-out-expo);
-  clip-path: inset(100% 0 0 0);
+  clip-path: none;
+  opacity: 1;
+  mix-blend-mode: multiply;
 
   width: 100%;
   height: 100%;
@@ -189,6 +191,7 @@
   left: 0;
   right: 0;
   bottom: 0;
+  z-index: 1;
   cursor: pointer;
   border-radius: 12px;
 
