@@ -101,8 +101,8 @@
     z-index: 0;
     border-radius: inherit;
     background: linear-gradient(to top, var(--tile-hover-accent) 0%, #ffffff 72%);
-    clip-path: inset(100% 0 0 0);
-    transition: clip-path 0.55s var(--ease-out-expo);
+    opacity: 0;
+    transition: opacity 0.55s var(--ease-out-expo);
     pointer-events: none;
   }
 
@@ -114,7 +114,7 @@
       0 32px 64px rgba(35,35,35,0.12);
 
     &::before {
-      clip-path: inset(0% 0 0 0);
+      opacity: 1;
     }
   }
 }
