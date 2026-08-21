@@ -1,9 +1,19 @@
 .mural-intro-heading {
-    text-align: center;
+    text-align: left;
+}
+
+.mural-intro-figure {
+    width: 100%;
+    max-width: 660px;
+
+    .case-study-caption {
+        width: 440px;
+        max-width: 100%;
+    }
 }
 
 .mural-intro-rive {
-    width: 400px;
+    width: 440px;
     height: auto;
     aspect-ratio: 25 / 19;
 }
