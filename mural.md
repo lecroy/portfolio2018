@@ -19,11 +19,11 @@ permalink: /mural
 
 
 <div class="page-body-wrapper">
-  <h3 class="page-body-subhead">
+  <h3 class="page-body-subhead mural-intro-heading">
     Selling a vision through signup
   </h3>
   <figure class="figure-inline">
-    <iframe style="border: none; display: block; margin: 0 auto;" width="800" height="608" src="https://rive.app/s/xYewiJtWLkSfkLxmwmBVZg/embed" allowfullscreen allow="autoplay"></iframe>
+    <iframe class="mural-intro-rive" style="border: none; display: block; margin: 0 auto;" width="400" height="304" src="https://rive.app/s/xYewiJtWLkSfkLxmwmBVZg/embed" allowfullscreen allow="autoplay"></iframe>
     <figcaption class="case-study-caption">*Also the start of the pandemic, but who's to say what had the bigger impact on ARR 😉
     </figcaption>
   </figure>
