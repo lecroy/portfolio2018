@@ -23,7 +23,7 @@ permalink: /mural
     Selling a vision through signup
   </h3>
   <figure class="figure-inline mural-intro-figure">
-    <iframe class="mural-intro-rive" style="border: none; display: block; margin: 0;" width="440" height="334" src="https://rive.app/s/xYewiJtWLkSfkLxmwmBVZg/embed" allowfullscreen allow="autoplay"></iframe>
+    <iframe class="mural-intro-rive" style="border: none; display: block; margin: 0;" width="528" height="401" src="https://rive.app/s/xYewiJtWLkSfkLxmwmBVZg/embed" allowfullscreen allow="autoplay"></iframe>
     <figcaption class="case-study-caption">*Also the start of the pandemic, but who's to say what had the bigger impact on ARR 😉
     </figcaption>
   </figure>
