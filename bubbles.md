@@ -95,7 +95,7 @@ permalink: /bubbles
     Building for scale and security
   </h4>
   <p class="page-body-copy">
-    Once actual enterprises started kicking the tires, we had to address their non-starters. That meant:
+    After a successful Product Hunt launch, we started getting attention from enterprise customers. As thrilling as that was, we had to address the kind of non-starters you get from customers of that scale:
   </p>
   <p class="page-body-copy">
       • Role-based access control (because not everyone should see everything)<br/>
@@ -107,7 +107,7 @@ permalink: /bubbles
     The AI evolution
   </h4>
   <p class="page-body-copy">
-    Then we made our biggest bet: if we couldn't convince people to change their habits, we'd meet them where they already were – in endless meetings on Zoom, Microsoft Teams, and Google Meet. We built an intelligent meeting recorder that auto-joined calls, generated AI transcripts, surfaced action items, and fed everything back into Bubbles so teams could follow up async without scheduling <i>yet another</i> meeting.
+    Then we made our biggest bet: if we couldn't convince people to change their habits, we'd meet them where they already were – in endless meetings on Zoom, Microsoft Teams, and Google Meet. We built an intelligent meeting recorder that auto-joined calls, generated AI transcripts, surfaced action items, and fed everything back into Bubbles so teams could follow up async without scheduling <em>yet another</em> meeting.
   </p>
   <br/>
   <figure class="figure-inline">
