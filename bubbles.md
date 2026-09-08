@@ -121,9 +121,14 @@ permalink: /bubbles
     Signup - Balancing UX, Education & Conversion
   </h3>
   <p class="page-body-copy">
-    I believe every designer should have to work at an early stage startup. You've never had to make a hard decision until you've been faced with having to increase a certain metric by X%, by Y date, or else the company ceases to exist.
-
-    For Bubbles, it was increasing the percentage of new signups who connected their calendar during signup. It correlated so highly with retention that every percentage point in conversaion increase was a meaningful lift in our chances of raising funding. Not only that, but the real value of the product couldn't be realized without doing so. We needed a signup flow that made you want to connect your calendar, not feel like you were being pressured into it. Here's what I landed on - a tactful mix of social proof, telling-by-showing, and asking in the right moment:
+    I believe every designer should have to work at an early stage startup. You've never had to make a truly hard decision until you've been faced with having to increase a certain metric by X%, by Y date, or else the company ceases to exist. How you continue to strategize on behalf of the user and resist the allure of dark patterns and cheap, short-term wins will define you as a designer.
+  </p>
+  <figure class="figure-inline">
+    <img src="img/bubbles/signup-1.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
+    <figcaption class="case-study-caption"></figcaption>
+  </figure>
+  <p class="page-body-copy">
+    For Bubbles, it was imperative to raise the percentage of new signups who connected their calendar during signup. This metric correlated so highly with retention that every percentage point in conversaion increase was a meaningful lift in our chances of survival. Further, the real value of the product couldn't be realized without a connected calendar. We needed a signup flow that made you <em>want</em> to connect your calendar, not feel like you were being pressured into it. Here's what I landed on - a tactful mix of social proof, telling-by-showing, and asking in the right moment:
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-1.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
@@ -135,17 +140,20 @@ permalink: /bubbles
   </figure>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-3.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
-    <figcaption class="case-study-caption">Answering some key questions and heading off reservations about privacy by allowing some configuration during the flow</figcaption>
+    <figcaption class="case-study-caption">Here, the goal is to get out in front of any hesitations around privacy by allowing some configuration during the flow.</figcaption>
   </figure>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-4.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
     <figcaption class="case-study-caption">When asking anything of the user, it's key to answer "What's in it for me?"</figcaption>
   </figure>
+  <p class="page-body-copy">
+    The result was 19% higher conversion on calendar connections compared to control. I don't know what that translated to revenue-wise, but Bubbles is still going strong today (and is still a key part of my design workflow), when for a minute there it was looking pretty dicey.
+  </p>
   <h3 class="page-body-subhead">
     Impact & Learnings
   </h3>
   <p class="page-body-copy">
-    While Bubbles ultimately didn't unlock the explosive growth needed to secure its next round, we we proved our concept with significant milestones. The company grew from $0 to $500K ARR through word-of-mouth, converted thousands of free users into paying customers, and built a product that users raved about using. When we had downtime, folks got LOUD in our public Slack channel. And as stressful as that was, it also felt good to know we'd given them something worth missing, even for a short while.
+    While Bubbles ultimately didn't unlock the explosive growth needed to secure its next round, we we proved our concept with significant milestones. The company grew from $0 to $750K ARR through word-of-mouth, converted thousands of free users into paying customers, and built a product that users raved about using. When we had downtime, folks got LOUD in our public Slack channel. And as stressful as that was, it also felt good to know we'd given them something worth missing, even for a short while.
   </p>
   <h4 class="page-body-interior-subhead">
     What we learned the hard way
