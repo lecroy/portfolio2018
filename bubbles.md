@@ -137,7 +137,7 @@ permalink: /bubbles
   • Deadlines are more powerful than features. A simple timer did more for collaboration than any amount of slick UI.<br/>
   • People hate changing their communication habits more than they hate bad communication. We had to piggyback on existing workflows instead of replacing them.<br/>
   • Free users are great for ego, terrible for business. Love doesn't pay the bills.<br/>
-  • The best validation isn't what users say – it's whether they actually miss your product when it's gone.<br/>
+  • The best validation isn't what users say, it's whether they actually miss your product when it's gone.<br/>
   </p>
   <h4 class="page-body-interior-subhead">
     Design principles I internalized
@@ -145,7 +145,7 @@ permalink: /bubbles
   <p class="page-body-copy">
   • Start with user psychology, not features<br/>
   • Make complexity feel effortless<br/>
-  • Design for habits, not just actions<br/>
+  • It's nearly impossible to change long-held behavior, no matter how novel the solution, therefore...<br/>
   • Balance innovation with familiarity<br/>
   </p>
   <h4 class="page-body-interior-subhead">
