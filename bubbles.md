@@ -27,25 +27,24 @@ permalink: /bubbles
 
     What followed was two years of learning how hard it is to get people to actually change how they work, and occasionally succeeding anyway.
   </p>
-  <h3 class="page-body-subhead">
-    The challenge
-  </h3>
+  <h4 class="page-body-interior-subhead">
+    Where things stood
+  </h4>
   <p class="page-body-copy">
-    Bubbles had a core group of about 20,000 monthly active users. They were big fans. They loved the app for its lightweight onboarding, ease-of-use, and most of all the fact that it cost nothing to use.
+    Bubbles had a core group of about 20,000 monthly active users. They were outspoken supporters who loved the app for its lightweight onboarding, ease-of-use, and most of all the fact that it was entirely free.
 
-    Bubbles was well-liked and useful, but not yet transformative. Users could record their screen, add their camera feed, and share links. While functional, it wasn't living up to our long-term vision of an async communication platform for remote teams. My task was to turn a lightweight screen recorder into a tool for remote teams, addressing the deeper challenges of collaborating across time zones, when your teammates are going to sleep as you're starting your day.
+    While a no-cost, single-player screen recorder was well-liked and useful, it wasn't yet transformative. Our team shared a distaste for hastily typed, low-signal feedback, and a long-term vision of a video-first, async communication platform for remote teams. As Principal Designer, I was tasked with transforming Bubbles into a product that supported this vision. This meant addressing not just technical chanllenges but psychological ones. How might we convince teams - not just individual users - to rethink and change the ways they'd been communicating for decades?
   </p>
   <p class="page-body-copy">
-    We also faced the existential crisis all venture-backed startups eventually hit: figure out how to make money, or die trying.
+    We also faced the existential crisis all venture-backed startups eventually do: figure out how to become profitable, or die trying.
   </p>
   <h4 class="page-body-interior-subhead">
     Uncovering the real problem
   </h4>
   <p class="page-body-copy">
-    After interviewing a bunch of remote workers, we realized we'd been solving the wrong problem. Nobody actually cared about recording quality or features. What was killing them was uncertainty – the awful limbo of not knowing if your teammate in Berlin would get back to you before your deadline in SF. 
-  </p>
-  <p class="page-body-copy">
-    People working together across time zones were stuck in perpetual uncertainty, never knowing when (or if) they'd get the input or feedback they need to keep their projects moving on schedule. Work would stall, momentum would fade, frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
+    After interviewing a bunch of remote workers, we realized we'd been solving the wrong problem. Nobody actually cared about recording quality or features. What was killing them was uncertainty – the awful limbo of not knowing if your teammate in Berlin would get back to you before your deadline in San Francisco. 
+
+    Remote teams relying on traditional channels like Slack and email had a common complaint. Work would stall, momentum would fade, frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
   </p>
   <h4 class="page-body-interior-subhead">
     The power of the deadline
