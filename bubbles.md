@@ -200,7 +200,9 @@ permalink: /bubbles
   <p class="page-body-copy">
     Turns out, getting people to change how they communicate is hard. Like, <em>really</em> hard. You can nail the UX, solve real problems, and still lose to the inertia of "this is how we've always done it."
     But I'm proud of what we built. We proved that deadlines make async actually work. We showed that screen sharing beats text walls 10 times out of 10. And we created a product that people actively missed when it was gone – which might be the best measure of good design there is.
-    Sometimes you build the right thing at the wrong time. That's startup life. At least we looked good doing it.
+    Sometimes you build the right thing, but the timing or the way to take it to market isn't right. 
+    
+    That's startup life. At least we looked good doing it.
   </p>
   
   <nav class="case-study-end-nav">
