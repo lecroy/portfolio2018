@@ -95,14 +95,14 @@ permalink: /bubbles
     Building for scale and security
   </h4>
   <p class="page-body-copy">
-    Once actual enterprises started kicking the tires, we had to grow up fast. That meant:
+    Once actual enterprises started kicking the tires, we had to address their non-starters. That meant:
   </p>
   <p class="page-body-copy">
       • Role-based access control (because not everyone should see everything)<br/>
-      • Project channels (because '#General' is where conversations go to die)<br/>
+      • Project channels to keep topics separated<br/>
       • Flexible timer extensions for Pro users<br/>
+      • SOCC 2 + GDPR compliance
   </p>
-  <br/>
   <h4 class="page-body-interior-subhead">
     The AI evolution
   </h4>
