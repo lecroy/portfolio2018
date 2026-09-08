@@ -128,7 +128,7 @@ permalink: /bubbles
     Impact & Learnings
   </h3>
   <p class="page-body-copy">
-    While Bubbles ultimately didn't unlock the explosive growth needed to secure its next round, we we proved our concept with significant milestones. The company grew from $0 to $500K ARR through word-of-mouth, converted thousands of free users into paying customers, and built a product that users raved about using.
+    While Bubbles ultimately didn't unlock the explosive growth needed to secure its next round, we we proved our concept with significant milestones. The company grew from $0 to $500K ARR through word-of-mouth, converted thousands of free users into paying customers, and built a product that users raved about using. When we had downtime, folks got LOUD in our public Slack channel. And as stressful as that was, it also felt good to know we'd given them something worth missing, even for a short while.
   </p>
   <h4 class="page-body-interior-subhead">
     What we learned the hard way
@@ -136,7 +136,7 @@ permalink: /bubbles
   <p class="page-body-copy">
   • Deadlines are more powerful than features. A simple timer did more for collaboration than any amount of slick UI.<br/>
   • People hate changing their communication habits more than they hate bad communication. We had to piggyback on existing workflows instead of replacing them.<br/>
-  • Free users are great for ego, terrible for business. Love doesn't pay the bills.<br/>
+  • Free users are great for ego, and terrible for business.<br/>
   • The best validation isn't what users say, it's whether they actually miss your product when it's gone.<br/>
   </p>
   <h4 class="page-body-interior-subhead">
