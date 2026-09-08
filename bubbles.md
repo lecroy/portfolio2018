@@ -107,7 +107,7 @@ permalink: /bubbles
     The AI evolution
   </h4>
   <p class="page-body-copy">
-    Then we made our biggest bet: if we couldn't convince people to change their habits, we'd meet them where they already were – in endless meetings on Zoom, MS Teams, and Google Meet. We built an intelligent meeting recorder that auto-joined calls, generated AI transcripts, surfaced action items, and fed everything back into Bubbles so teams could follow up async – without scheduling yet another meeting.
+    Then we made our biggest bet: if we couldn't convince people to change their habits, we'd meet them where they already were – in endless meetings on Zoom, Microsoft Teams, and Google Meet. We built an intelligent meeting recorder that auto-joined calls, generated AI transcripts, surfaced action items, and fed everything back into Bubbles so teams could follow up async without scheduling <i>yet another</i> meeting.
   </p>
   <br/>
   <figure class="figure-inline">
