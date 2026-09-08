@@ -53,7 +53,7 @@ permalink: /bubbles
     We introduced a timer that creators could set when recording their video messages – a simple feature that profoundly impacted users' behavior. Authors could set clear expectations for response times and tag people as either 'Response required' or 'Just FYI.' We'd send reminders to the first group until the deadline hit.
   </p>
   <figure class="figure-inline">
-    <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="The bubbles activity inbox ahowing new videos" loading="lazy" />
+    <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="Bubbles Activity inbox grouping new and completed video updates, with assignees, reply status, and response deadlines." loading="lazy" />
     <figcaption class="case-study-caption">The Bubbles inbox. Wake up to a feed of screen recordings from your remote teammates, with response expectations attached.</figcaption>
   </figure>
   <figure class="figure-rive">
@@ -87,7 +87,7 @@ permalink: /bubbles
     Replies to video updates could also be videos. Context is equally important when giving feedback as when asking for it. Our core belief was that screen sharing allowed for visual context that just doesn't come across in an email, bullet points or a wall of text.
   </p>
   <figure class="figure-inline">
-    <img src="img/bubbles/video-reply.png" class="bubbles-video-reply" alt="Participants can leave replies in the form of video and screen share as well as text." loading="lazy" />
+    <img src="img/bubbles/video-reply.png" class="bubbles-video-reply" alt="A Bubbles video update with a participant's video reply displayed in the conversation panel." loading="lazy" />
     <figcaption class="case-study-caption">Participants can leave replies in multi-modal format: video, screen share, as well as text.</figcaption>
   </figure>
   <h4 class="page-body-interior-subhead">
@@ -110,11 +110,11 @@ permalink: /bubbles
   </p>
   <br/>
   <figure class="figure-inline">
-    <img src="img/bubbles/notetaker.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
+    <img src="img/bubbles/notetaker.png" class="bubbles-notetaker" alt="A recorded team video call with the Bubbles Notetaker, searchable transcript, highlighted passage, and threaded comments." loading="lazy" />
     <figcaption class="case-study-caption">Meetings are perfectly encapsulated with AI transcript and next steps, with space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting.</figcaption>
   </figure>
   <figure class="figure-inline">
-    <img src="img/bubbles/notetaker-inbox.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
+    <img src="img/bubbles/notetaker-inbox.png" class="bubbles-notetaker" alt="Bubbles Live Meetings inbox showing saved recordings, detected action items, a calendar, and per-meeting recording controls." loading="lazy" />
     <figcaption class="case-study-caption">All recordings and transcripts were saved in the app, with granular settings to control which meetings got recorded and who they were shared with.</figcaption>
   </figure>
   <h3 class="page-body-subhead">
@@ -124,31 +124,49 @@ permalink: /bubbles
     If I ruled the world, every product designer would have to spend a couple years at an early stage startup. You've never had to make a truly hard decision until you've been faced with having to increase a certain metric by X%, by Y date, or else the company ceases to exist. How you continue to strategize on behalf of the user and resist the allure of dark patterns and cheap, short-term wins defines you as a designer.
   </p>
   <figure class="figure-inline">
-    <img src="img/bubbles/signup-funnel.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
+    <img src="img/bubbles/signup-funnel.png" class="bubbles-notetaker" alt="Signup funnel showing the steepest drop-off at the step for adding a qualified calendar, highlighted as the conversion opportunity." loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
   <p class="page-body-copy">
     For Bubbles, it was imperative to raise the percentage of new signups who connected their calendar during signup. This metric correlated so highly with retention that every percentage point in conversaion increase was a meaningful lift in our chances of survival. Further, the real value of the product couldn't be realized without a connected calendar. We needed a signup flow that made you <em>want</em> to connect your calendar, not feel like you were being pressured into it. Here's what I landed on - a tactful mix of social proof, telling-by-showing, and asking in the right moment:
   </p>
   <figure class="figure-inline">
-    <img src="img/bubbles/signup-1.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
+    <img src="img/bubbles/signup-1.png" class="bubbles-notetaker" alt="Email verification screen paired with a customer testimonial about reducing meeting time." loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
   <figure class="figure-inline">
-    <img src="img/bubbles/signup-2.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
+    <img src="img/bubbles/signup-2.png" class="bubbles-notetaker" alt="Workspace creation form with optional coworker invitations and logos from companies using Bubbles." loading="lazy" />
     <figcaption class="case-study-caption">Answering "What is a bubble anyway?" And piling on the social proof.</figcaption>
   </figure>
   <figure class="figure-inline">
-    <img src="img/bubbles/signup-3.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
+    <img src="img/bubbles/signup-3.png" class="bubbles-notetaker" alt="Live meeting settings for choosing automatic recording and whether summaries and action items are shared with invitees." loading="lazy" />
     <figcaption class="case-study-caption">Here, the goal is to get out in front of any hesitations around privacy by allowing some configuration during the flow.</figcaption>
   </figure>
   <figure class="figure-inline">
-    <img src="img/bubbles/signup-4.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
+    <img src="img/bubbles/signup-4.png" class="bubbles-notetaker" alt="Calendar connection prompt explaining security and recording benefits, with Google and Outlook options and a preview of event controls." loading="lazy" />
     <figcaption class="case-study-caption">When asking anything of the user, it's key to answer "What's in it for me?"</figcaption>
   </figure>
   <p class="page-body-copy">
     The result was 19% higher conversion on calendar connections compared to control. I don't know what that translated to revenue-wise, but Bubbles is still going strong today (and is still a key part of my design workflow), when for a minute there it was looking pretty dicey.
   </p>
+  <h3 class="page-body-subhead">
+    Branding Bubbles
+  </h3>
+  <p class="page-body-copy">
+    With only two designers working closely together, we didn't have need an extensive system, but being designers we couldn't help but establish a shared design vocabulary to keep things looking fresh and consistent. Here are a few of the artifacts from our minimal style guide - typography, color, spacing, tone and voice, and plenty of collaboration was all we needed to stay in lock step.
+  </p>
+  <figure class="figure-inline">
+    <img src="img/bubbles/brand-color.png" class="bubbles-notetaker" alt="Bubbles color system with grayscale and blue primary scales, opacity examples, and pink, green, violet, yellow, and red secondary scales." loading="lazy" />
+    <figcaption class="case-study-caption">When asking anything of the user, it's key to answer "What's in it for me?"</figcaption>
+  </figure>
+  <figure class="figure-inline">
+    <img src="img/bubbles/brand-logo.png" class="bubbles-notetaker" alt="Bubbles logo guidelines showing approved variants, spacing rules, contrast guidance, and examples of incorrect usage." loading="lazy" />
+    <figcaption class="case-study-caption">When asking anything of the user, it's key to answer "What's in it for me?"</figcaption>
+  </figure>
+  <figure class="figure-inline">
+    <img src="img/bubbles/brand-voice.png" class="bubbles-notetaker" alt="Bubbles brand voice mood board combining playful copy, gradients, abstract bubble graphics, iconography, emojis, and a remote-work landing page." loading="lazy" />
+    <figcaption class="case-study-caption">When asking anything of the user, it's key to answer "What's in it for me?"</figcaption>
+  </figure>
   <h3 class="page-body-subhead">
     Impact & Learnings
   </h3>
