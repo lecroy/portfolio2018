@@ -27,11 +27,6 @@ permalink: /bubbles
 
     What followed was two years of learning how hard it is to get people to actually change how they work, and occasionally succeeding anyway.
   </p>
-  <figure class="figure-inline">
-    <img src="img/bubbles/before1.png" class="bubbles-before" alt="Image showing bubbles dashboard when I started" loading="lazy" />
-    <figcaption class="case-study-caption">Bubbles circa 2022: A free, single-player screen recorder.
-    </figcaption>
-  </figure>
   <h3 class="page-body-subhead">
     The challenge
   </h3>
