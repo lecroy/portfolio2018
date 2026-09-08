@@ -119,7 +119,7 @@ permalink: /bubbles
     <figcaption class="case-study-caption">All recordings and transcripts were saved in the app, with granular settings to control which meetings got recorded and who they were shared with.</figcaption>
   </figure>
   <h4 class="page-body-interior-subhead">
-    The final vision: Your remote video inbox
+    The final vision: Your remote team's video inbox
   </h4>
   <p class="page-body-copy">
     The end product of our work was a beautifully designed video inbox – a morning destination for catching up with your team's updates. It represented a fundamental shift from reactive to proactive collaboration.
@@ -134,10 +134,10 @@ permalink: /bubbles
     What we learned the hard way
   </h4>
   <p class="page-body-copy">
-  • Deadlines are more powerful than features. A simple timer did more for collaboration than any amount of slick UI.<br/>
-  • People hate changing their communication habits more than they hate bad communication. We had to piggyback on existing workflows instead of replacing them.<br/>
   • Free users are great for ego, and terrible for business.<br/>
   • The best validation isn't what users say, it's whether they actually miss your product when it's gone.<br/>
+  • Deadlines are more powerful than features. A simple timer did more for collaboration than any amount of slick UI.<br/>
+  • People hate changing their communication habits more than they hate bad communication. We had to piggyback on existing workflows instead of replacing them.<br/>
   </p>
   <h4 class="page-body-interior-subhead">
     Design principles I internalized
