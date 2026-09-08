@@ -121,7 +121,7 @@ permalink: /bubbles
     Signup - Balancing UX, Education & Conversion
   </h3>
   <p class="page-body-copy">
-    I believe every designer should have to work at an early stage startup. You've never had to make a truly hard decision until you've been faced with having to increase a certain metric by X%, by Y date, or else the company ceases to exist. How you continue to strategize on behalf of the user and resist the allure of dark patterns and cheap, short-term wins will define you as a designer.
+    If I ruled the world, every product designer would have to spend a couple years at an early stage startup. You've never had to make a truly hard decision until you've been faced with having to increase a certain metric by X%, by Y date, or else the company ceases to exist. How you continue to strategize on behalf of the user and resist the allure of dark patterns and cheap, short-term wins will define you as a designer.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-funnel.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
@@ -136,7 +136,7 @@ permalink: /bubbles
   </figure>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-2.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
-    <figcaption class="case-study-caption"></figcaption>
+    <figcaption class="case-study-caption">Answering "What is a bubble anyway?" And piling on the social proof.</figcaption>
   </figure>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-3.png" class="bubbles-notetaker" alt="Meetings are perfectly encapsulated with AI transcript and next steps, with a space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting." loading="lazy" />
