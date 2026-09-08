@@ -157,15 +157,15 @@ permalink: /bubbles
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/brand-color.png" class="bubbles-notetaker" alt="Bubbles color system with grayscale and blue primary scales, opacity examples, and pink, green, violet, yellow, and red secondary scales." loading="lazy" />
-    <figcaption class="case-study-caption">When asking anything of the user, it's key to answer "What's in it for me?"</figcaption>
+    <figcaption class="case-study-caption"></figcaption>
   </figure>
   <figure class="figure-inline">
     <img src="img/bubbles/brand-logo.png" class="bubbles-notetaker" alt="Bubbles logo guidelines showing approved variants, spacing rules, contrast guidance, and examples of incorrect usage." loading="lazy" />
-    <figcaption class="case-study-caption">When asking anything of the user, it's key to answer "What's in it for me?"</figcaption>
+    <figcaption class="case-study-caption"></figcaption>
   </figure>
   <figure class="figure-inline">
     <img src="img/bubbles/brand-voice.png" class="bubbles-notetaker" alt="Bubbles brand voice mood board combining playful copy, gradients, abstract bubble graphics, iconography, emojis, and a remote-work landing page." loading="lazy" />
-    <figcaption class="case-study-caption">When asking anything of the user, it's key to answer "What's in it for me?"</figcaption>
+    <figcaption class="case-study-caption"></figcaption>
   </figure>
   <h3 class="page-body-subhead">
     Impact & Learnings
