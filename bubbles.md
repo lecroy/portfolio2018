@@ -126,7 +126,7 @@ permalink: /bubbles
     Signup - Balancing UX, Education & Conversion
   </h3>
   <p class="page-body-copy">
-    If I ruled the world, every product designer would have to spend a couple years at an early stage startup. You've never had to make a truly hard decision until you've been faced with having to increase a certain metric by X%, by Y date, or else the company ceases to exist. How you continue to strategize on behalf of the user and resist the allure of dark patterns and cheap, short-term wins defines you as a designer.
+    If I had my way, every product designer would have to spend a couple years at an early stage startup. You've never had to make a truly hard decision until you've been faced with having to increase a certain metric by X%, by Y date, or else the company goes insolvent. How you continue to strategize on behalf of the user and resist the allure of dark patterns and cheap, short-term wins is where real creativity shines through.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-funnel.png" class="bubbles-notetaker" alt="Signup funnel showing the steepest drop-off at the step for adding a qualified calendar, highlighted as the conversion opportunity." loading="lazy" />
