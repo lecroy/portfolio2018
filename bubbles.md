@@ -89,7 +89,7 @@ permalink: /bubbles
     <figcaption class="case-study-caption">The Bubbles inbox. Wake up to a feed of screen recordings from your remote teammates, with response expectations attached.</figcaption>
   </figure>
   <p class="page-body-copy">
-    Replies to video updates could also be videos. Context is equally important when giving feedback as when asking for it. Our core belief was that screen sharing allowed for visual context that just doesn't come across in an email, bullet points or a wall of text.
+    Replies to video updates were multi-modal. Video, screen, audio or text could be used not just in the original recording, but in the follow-up conversation and feedback.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/video-reply.png" class="bubbles-video-reply" alt="A Bubbles video update with a participant's video reply displayed in the conversation panel." loading="lazy" />
