@@ -23,7 +23,7 @@ permalink: /bubbles
     Redesigning Remote Collaboration
   </h3>
   <p class="page-body-copy">
-    In 2022 I joined a seed-stage startup called Bubbles as Principal Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become a video-first, back-and-forth conversational platform for remote team collaboration, rather than one-way presentations.
+    In 2022, I joined a seed-stage startup called Bubbles as Principal Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become a video-first, back-and-forth conversational platform for remote team collaboration, rather than one-way presentations.
   </p>
   <p class="page-body-copy">
     What followed was two years of learning how hard it is to get people to actually change how they work, and occasionally succeeding anyway.
@@ -32,7 +32,7 @@ permalink: /bubbles
     The baseline and the vision
   </h4>
   <p class="page-body-copy">
-    Bubbles had a core group of about 20,000 monthly active users. They were outspoken supporters who loved the app for its lightweight onboarding, ease-of-use, and most of all the fact that it was entirely free.
+    Bubbles had a core group of about 20,000 monthly active users. They were outspoken supporters who loved the app for its lightweight onboarding, ease of use, and most of all the fact that it was entirely free.
   </p>
   <p class="page-body-copy">
     While a no-cost, single-player screen recorder was well-liked and useful, it wasn't yet transformative. Our team shared a distaste for hastily typed, low-signal feedback, and a long-term vision of a video-first, async communication platform for remote teams. As Principal Designer, I was tasked with transforming Bubbles into a product that supported that vision. It would mean addressing not just technical challenges but psychological ones. How might we convince teams - not just individual users - to rethink and change the ways they'd been communicating for decades?
@@ -52,7 +52,7 @@ permalink: /bubbles
     The power of the deadline
   </h4>
   <p class="page-body-copy">
-    We introduced a timer that creators could set when recording their video messages – a simple feature that profoundly impacted users' behavior. Authors could set clear expectations for response times and tag people as either 'Response required' or 'Just FYI.' We'd send reminders to the first group until the deadline hit.
+    We introduced a timer that creators could set when recording their video messages, a simple feature that profoundly impacted users' behavior. Authors could set clear expectations for response times and tag people as either 'Response required' or 'Just FYI.' We'd send reminders to the first group until the deadline hit.
   </p>
   <figure class="figure-rive">
     <div class="bubbles-timer-wrap">
@@ -79,21 +79,21 @@ permalink: /bubbles
         });
       })();
     </script>
-    <figcaption class="case-study-caption">Remote teams need to be direct about who needs to respond, and by when.</figcaption>
+    <figcaption class="case-study-caption">Remote teams need to be direct about who needs to respond and by when.</figcaption>
   </figure>
   <p class="page-body-copy">
-    By adding the ability to configure who needed to respond, who was just being kept in the loop, and when you needed to hear back; we now had the ability to sort the inbox by highest priority videos. Remote workers could wake up everyday to video responses or contextual written comments on their videos from colleagues in other time zones who had viewed the recordings during their work hours.
+    By adding the ability to configure who needed to respond, who was just being kept in the loop, and when you needed to hear back, we could sort the inbox by highest-priority videos. Remote workers could wake up every day to video responses or contextual written comments on their videos from colleagues in other time zones who had viewed the recordings during their work hours.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="Bubbles Activity inbox grouping new and completed video updates, with assignees, reply status, and response deadlines." loading="lazy" />
     <figcaption class="case-study-caption">The Bubbles inbox. Wake up to a feed of screen recordings from your remote teammates, with response expectations attached.</figcaption>
   </figure>
   <p class="page-body-copy">
-    Replies to video updates were multi-modal. Video, screen, audio or text could be used not just in the original recording, but in the follow-up conversation and feedback.
+    Replies to video updates were multimodal. Video, screen sharing, audio, or text could be used not just in the original recording but also in the follow-up conversation and feedback.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/video-reply.png" class="bubbles-video-reply" alt="A Bubbles video update with a participant's video reply displayed in the conversation panel." loading="lazy" />
-    <figcaption class="case-study-caption">Participants can leave replies in multi-modal format: video, screen share, as well as text.</figcaption>
+    <figcaption class="case-study-caption">Participants can leave replies in multimodal formats: video, screen sharing, and text.</figcaption>
   </figure>
   <h4 class="page-body-interior-subhead">
     Building for scale and security
@@ -105,18 +105,18 @@ permalink: /bubbles
       • Role-based access control (because not everyone should see everything)<br/>
       • Project channels to keep topics separated<br/>
       • Flexible timer extensions for Pro users<br/>
-      • SOCC 2 + GDPR compliance
+      • SOC 2 + GDPR compliance
   </p>
   <h4 class="page-body-interior-subhead">
     The AI evolution
   </h4>
   <p class="page-body-copy">
-    When AI hit the scene in earnest around 2023, we made our biggest bet yet. If we couldn't convince people to change their habits, we'd meet them where they already were – in endless meetings on Zoom, Microsoft Teams, and Google Meet. We built an intelligent meeting recorder that auto-joined calls, generated AI transcripts, surfaced action items, and fed everything back into Bubbles so teams had a place to follow up async without scheduling <em>yet another</em> meeting.
+    When AI hit the scene in earnest around 2023, we made our biggest bet yet. If we couldn't convince people to change their habits, we'd meet them where they already were: in endless meetings on Zoom, Microsoft Teams, and Google Meet. We built an intelligent meeting recorder that auto-joined calls, generated AI transcripts, surfaced action items, and fed everything back into Bubbles so teams had a place to follow up async without scheduling <em>yet another</em> meeting.
   </p>
   <br/>
   <figure class="figure-inline">
     <img src="img/bubbles/notetaker.png" class="bubbles-notetaker" alt="A recorded team video call with the Bubbles Notetaker, searchable transcript, highlighted passage, and threaded comments." loading="lazy" />
-    <figcaption class="case-study-caption">Meetings are perfectly encapsulated with AI transcript and next steps, with space for highlights and discussion. Participants can follow-up without scheduling <em>another</em> synchronous meeting.</figcaption>
+    <figcaption class="case-study-caption">Meetings are perfectly encapsulated with an AI transcript and next steps, with space for highlights and discussion. Participants can follow up without scheduling <em>another</em> synchronous meeting.</figcaption>
   </figure>
   <figure class="figure-inline">
     <img src="img/bubbles/notetaker-inbox.png" class="bubbles-notetaker" alt="Bubbles Live Meetings inbox showing saved recordings, detected action items, a calendar, and per-meeting recording controls." loading="lazy" />
@@ -126,14 +126,14 @@ permalink: /bubbles
     Signup - Balancing UX, Education & Conversion
   </h3>
   <p class="page-body-copy">
-    If I had my way, every product designer would have to spend a couple years at an early stage startup. You've never had to make a truly hard decision until you've been faced with having to increase a certain metric by X%, by Y date, or else the company goes insolvent. How you continue to strategize on behalf of the user and resist the allure of dark patterns and cheap, short-term wins is where real creativity shines through.
+    If I had my way, every product designer would have to spend a couple years at an early-stage startup. You've never had to make a truly hard decision until you've been faced with having to increase a certain metric by X%, by Y date, or else the company goes insolvent. The real creative challenge is continuing to advocate for users while resisting dark patterns and tempting short-term wins.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-funnel.png" class="bubbles-notetaker" alt="Signup funnel showing the steepest drop-off at the step for adding a qualified calendar, highlighted as the conversion opportunity." loading="lazy" />
     <figcaption class="case-study-caption"></figcaption>
   </figure>
   <p class="page-body-copy">
-    Looking at our signup funnel, we knew it was critical to raise the percentage of new signups who connected their calendar during signup. This metric correlated so highly with retention and engagement that every percentage point in conversion increase meant a meaningful lift in our chances of survival. Further, the real value of the product couldn't be realized without a connected calendar. We needed a signup flow that made people <em>want</em> to connect their calendar, not feel like they were being pressured into it. Here's what I landed on - a tactful mix of social proof, telling-by-showing, and surfacing the ask in the right moment:
+    Looking at our signup funnel, we knew we had to increase the percentage of new users who connected a calendar. Calendar connection was so strongly correlated with retention and engagement that every percentage-point increase in conversion meaningfully improved our chances of survival. Further, the real value of the product couldn't be realized without a connected calendar. We needed a signup flow that made people <em>want</em> to connect their calendar, not feel like they were being pressured into it. Here's what I landed on - a tactful mix of social proof, telling-by-showing, and surfacing the ask in the right moment:
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-1.png" class="bubbles-notetaker" alt="Email verification screen paired with a customer testimonial about reducing meeting time." loading="lazy" />
@@ -152,13 +152,13 @@ permalink: /bubbles
     <figcaption class="case-study-caption">When asking anything of the user, it's key to answer "What's in it for me?"</figcaption>
   </figure>
   <p class="page-body-copy">
-    The result was 19% lift on calendar connection compared to control (where we waited to ask until the user landed in the product). I don't know what that translated to revenue-wise, but Bubbles is still going strong today, when for a minute there it was looking pretty dicey.
+    The result was a 19% lift in calendar-connection conversion compared to the control (where we waited to ask until the user landed in the product). I don't know what that translated to revenue-wise, but Bubbles is still going strong today, when for a minute there it was looking pretty dicey.
   </p>
   <h3 class="page-body-subhead">
     Branding Bubbles
   </h3>
   <p class="page-body-copy">
-    With only two designers working closely together, we didn't have need an extensive system, but being designers we couldn't help but establish a shared design vocabulary to keep things looking fresh and consistent. Here are a few of the artifacts from our minimal style guide - typography, color, spacing, tone and voice, and plenty of collaboration was all we needed to stay in lock step.
+    With only two designers working closely together, we didn't need an extensive design system. Still, we established a shared vocabulary for typography, color, spacing, tone, and voice. Here are a few examples of the lightweight system we used to keep our work fresh and consistent.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/brand-color.png" class="bubbles-notetaker" alt="Bubbles color system with grayscale and blue primary scales, opacity examples, and pink, green, violet, yellow, and red secondary scales." loading="lazy" />
@@ -176,15 +176,15 @@ permalink: /bubbles
     Impact & Learnings
   </h3>
   <p class="page-body-copy">
-    While Bubbles ultimately didn't unlock the explosive growth needed to secure its next round, we we proved our concept with significant milestones. The company grew from $0 to $750K ARR through word-of-mouth, converted thousands of free users into paying customers, and built a product that users raved about using. When we had downtime, folks got LOUD in our public Slack channel. And as stressful as that was, it also felt good to know we'd given them something worth missing, even for a short while.
+    While Bubbles ultimately didn't unlock the explosive growth needed to secure its next round, we proved our concept with significant milestones. The company grew from $0 to $750K ARR through word-of-mouth, converted thousands of free users into paying customers, and built a product that users raved about using. When we had downtime, folks got LOUD in our public Slack channel. And as stressful as that was, it also felt good to know we'd given them something worth missing, even for a short while.
   </p>
   <h4 class="page-body-interior-subhead">
     What we learned the hard way
   </h4>
   <p class="page-body-copy">
-  • Free users are great for ego, terrible for business.<br/>
-  • The best validation isn't what users say, it's whether they actually miss your product when it's gone.<br/>
-  • So much more goes into business success than building great product.<br/>
+  • Free users are great for ego but terrible for business.<br/>
+  • The best validation isn't what users say but whether they actually miss your product when it's gone.<br/>
+  • So much more goes into business success than building a great product.<br/>
   • People hate changing their communication habits more than they hate bad communication. We had to piggyback on existing workflows instead of replacing them.<br/>
   </p>
   <h4 class="page-body-interior-subhead">
@@ -200,13 +200,13 @@ permalink: /bubbles
     Reflection
   </h4>
   <p class="page-body-copy">
-    Bottom line: Bubbles didn't become the new Slack. We built something people genuinely loved, grew to half a million in ARR through pure word-of-mouth, and got really good at async collaboration. Then the market decided it wasn't quite ready to break up with Slack and Zoom.
+    Bottom line: Bubbles didn't become the new Slack. We built something people genuinely loved, grew to nearly a million in ARR through pure word-of-mouth, and got really good at async collaboration. Then the market decided it wasn't quite ready to break up with Slack and Zoom.
   </p>
   <p class="page-body-copy">
     Turns out, getting people to change how they communicate is hard. Like, <em>really</em> hard. You can nail the UX, solve real problems, and still lose to the inertia of "this is how we've always done it."
   </p>
   <p class="page-body-copy">
-    I'm proud of what we built. We proved that deadlines make async actually work. We showed that screen sharing beats text walls 10 times out of 10. And we created a product that people actively missed when it was gone, which might be the best measure of good design there is. Sometimes you build the right thing, but the timing or the way you take it to market isn't right. 
+    I'm proud of what we built. We proved that deadlines make async actually work. We showed that screen sharing beats text walls 10 times out of 10. And we created a product that people actively missed when it was gone, which might be the best measure of good design there is. Sometimes you build the right thing, but the timing or the way you take it to market aren't right.
   </p>
   <p class="page-body-copy">  
     That's startup life. At least we looked good doing it.
