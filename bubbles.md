@@ -81,6 +81,9 @@ permalink: /bubbles
     </script>
     <figcaption class="case-study-caption">Remote teams need to be direct about who needs to respond, and by when.</figcaption>
   </figure>
+  <p class="page-body-copy">
+    By adding the ability to configure who needed to respond, who was just being kept in the loop, and when you needed to hear back; we now had the ability to sort the inbox by highest priority videos. Remote workers could wake up everyday to video responses or contextual written comments on their videos from colleagues in other time zones who had viewed the recordings during their work hours.
+  </p>
   <figure class="figure-inline">
     <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="Bubbles Activity inbox grouping new and completed video updates, with assignees, reply status, and response deadlines." loading="lazy" />
     <figcaption class="case-study-caption">The Bubbles inbox. Wake up to a feed of screen recordings from your remote teammates, with response expectations attached.</figcaption>
