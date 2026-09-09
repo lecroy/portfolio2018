@@ -29,7 +29,7 @@ permalink: /bubbles
     What followed was two years of learning how hard it is to get people to actually change how they work, and occasionally succeeding anyway.
   </p>
   <h4 class="page-body-interior-subhead">
-    Where things stood
+    The baseline and the vision
   </h4>
   <p class="page-body-copy">
     Bubbles had a core group of about 20,000 monthly active users. They were outspoken supporters who loved the app for its lightweight onboarding, ease-of-use, and most of all the fact that it was entirely free.
