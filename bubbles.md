@@ -200,7 +200,7 @@ permalink: /bubbles
     Reflection
   </h4>
   <p class="page-body-copy">
-    Bottom line: Bubbles didn't become the new Slack. We built something people genuinely loved, grew to half a million in ARR through pure word-of-mouth, and got really good at async collaboration. Then the market decided it wasn't quite ready to break up with Zoom.
+    Bottom line: Bubbles didn't become the new Slack. We built something people genuinely loved, grew to half a million in ARR through pure word-of-mouth, and got really good at async collaboration. Then the market decided it wasn't quite ready to break up with Slack and Zoom.
   </p>
   <p class="page-body-copy">
     Turns out, getting people to change how they communicate is hard. Like, <em>really</em> hard. You can nail the UX, solve real problems, and still lose to the inertia of "this is how we've always done it."
