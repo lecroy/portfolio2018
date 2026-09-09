@@ -35,18 +35,18 @@ permalink: /bubbles
     Bubbles had a core group of about 20,000 monthly active users. They were outspoken supporters who loved the app for its lightweight onboarding, ease-of-use, and most of all the fact that it was entirely free.
   </p>
   <p class="page-body-copy">
-    While a no-cost, single-player screen recorder was well-liked and useful, it wasn't yet transformative. Our team shared a distaste for hastily typed, low-signal feedback, and a long-term vision of a video-first, async communication platform for remote teams. As Principal Designer, I was tasked with transforming Bubbles into a product that supported this vision. This meant addressing not just technical chanllenges but psychological ones. How might we convince teams - not just individual users - to rethink and change the ways they'd been communicating for decades?
+    While a no-cost, single-player screen recorder was well-liked and useful, it wasn't yet transformative. Our team shared a distaste for hastily typed, low-signal feedback, and a long-term vision of a video-first, async communication platform for remote teams. As Principal Designer, I was tasked with transforming Bubbles into a product that supported that vision. It would mean addressing not just technical challenges but psychological ones. How might we convince teams - not just individual users - to rethink and change the ways they'd been communicating for decades?
   </p>
   <p class="page-body-copy">
-    We also faced the existential crisis all venture-backed startups eventually do: figure out how to become profitable, or die trying.
+    And then there was the existential crisis all venture-backed startups eventually face: become profitable, or die trying.
   </p>
   <h4 class="page-body-interior-subhead">
     Uncovering the real problem
   </h4>
   <p class="page-body-copy">
-    After interviewing a bunch of remote workers, we realized we'd been solving the wrong problem. Nobody actually cared about recording quality or features. What was killing them was uncertainty – the awful limbo of not knowing if your teammate in Berlin would get back to you before your deadline in San Francisco. 
+    We spent a month interviewing remote workers and realized we'd been solving the wrong problem. Nobody actually cared about recording quality or features. What was killing them was uncertainty. The awful limbo of not knowing if your stakeholder in Berlin would get back to you before your deadline in San Francisco. 
 
-    Remote teams relying on traditional channels like Slack and email had a common complaint. Work would stall, momentum would fade, frustration would mount. This revelation led to our first major innovation: time-bounded collaboration.
+    Remote teams relying on traditional channels like Slack and email had a common pain point. Work would stall, momentum would fade, frustration would mount. This revelation led to our first major bet: time-bounded collaboration.
   </p>
   <h4 class="page-body-interior-subhead">
     The power of the deadline
