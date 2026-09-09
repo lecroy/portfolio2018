@@ -1,0 +1,27 @@
+.motion-art-gallery {
+  display: flex;
+  width: 100%;
+  max-width: 960px;
+  flex-direction: column;
+  gap: 4rem;
+  margin: 1rem auto 0;
+}
+
+.motion-art-piece {
+  margin: 0;
+
+  video {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    background: #000;
+    box-shadow: 0 10px 32px 0 $gray300;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .motion-art-gallery {
+    gap: 2rem;
+  }
+}
