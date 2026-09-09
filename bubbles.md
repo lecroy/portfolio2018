@@ -35,9 +35,6 @@ permalink: /bubbles
     Bubbles had a core group of about 20,000 monthly active users. They were outspoken supporters who loved the app for its lightweight onboarding, ease-of-use, and most of all the fact that it was entirely free.
   </p>
   <p class="page-body-copy">
-    What followed was two years of learning how hard it is to get people to actually change how they work, and occasionally succeeding anyway.
-  </p>
-  <p class="page-body-copy">
     While a no-cost, single-player screen recorder was well-liked and useful, it wasn't yet transformative. Our team shared a distaste for hastily typed, low-signal feedback, and a long-term vision of a video-first, async communication platform for remote teams. As Principal Designer, I was tasked with transforming Bubbles into a product that supported this vision. This meant addressing not just technical chanllenges but psychological ones. How might we convince teams - not just individual users - to rethink and change the ways they'd been communicating for decades?
   </p>
   <p class="page-body-copy">
