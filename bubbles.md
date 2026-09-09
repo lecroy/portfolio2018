@@ -133,7 +133,7 @@ permalink: /bubbles
     <figcaption class="case-study-caption"></figcaption>
   </figure>
   <p class="page-body-copy">
-    For Bubbles, it was imperative to raise the percentage of new signups who connected their calendar during signup. This metric correlated so highly with retention that every percentage point in conversaion increase was a meaningful lift in our chances of survival. Further, the real value of the product couldn't be realized without a connected calendar. We needed a signup flow that made you <em>want</em> to connect your calendar, not feel like you were being pressured into it. Here's what I landed on - a tactful mix of social proof, telling-by-showing, and asking in the right moment:
+    Looking at our signup funnel, we knew it was critical to raise the percentage of new signups who connected their calendar during signup. This metric correlated so highly with retention and engagement that every percentage point in conversion increase meant a meaningful lift in our chances of survival. Further, the real value of the product couldn't be realized without a connected calendar. We needed a signup flow that made people <em>want</em> to connect their calendar, not feel like they were being pressured into it. Here's what I landed on - a tactful mix of social proof, telling-by-showing, and surfacing the ask in the right moment:
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-1.png" class="bubbles-notetaker" alt="Email verification screen paired with a customer testimonial about reducing meeting time." loading="lazy" />
