@@ -20,7 +20,7 @@ permalink: /bubbles
 
 <div class="page-body-wrapper">
   <h3 class="page-body-subhead">
-    Reimagining Remote Collaboration
+    Redesigning Remote Collaboration
   </h3>
   <p class="page-body-copy">
     In 2022 I joined a seed-stage startup called Bubbles as Principal Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become a video-first, back-and-forth conversational platform for remote team collaboration, rather than one-way presentations.
