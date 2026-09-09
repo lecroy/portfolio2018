@@ -152,7 +152,7 @@ permalink: /bubbles
     <figcaption class="case-study-caption">When asking anything of the user, it's key to answer "What's in it for me?"</figcaption>
   </figure>
   <p class="page-body-copy">
-    The result was 19% higher conversion on calendar connections compared to control. I don't know what that translated to revenue-wise, but Bubbles is still going strong today (and is still a key part of my design workflow), when for a minute there it was looking pretty dicey.
+    The result was 19% lift on calendar connection compared to control (where we waited to ask until the user landed in the product). I don't know what that translated to revenue-wise, but Bubbles is still going strong today, when for a minute there it was looking pretty dicey.
   </p>
   <h3 class="page-body-subhead">
     Branding Bubbles
@@ -182,9 +182,9 @@ permalink: /bubbles
     What we learned the hard way
   </h4>
   <p class="page-body-copy">
-  • Free users are great for ego, and terrible for business.<br/>
+  • Free users are great for ego, terrible for business.<br/>
   • The best validation isn't what users say, it's whether they actually miss your product when it's gone.<br/>
-  • Deadlines are more powerful than features. A simple timer did more for collaboration than any amount of slick UI.<br/>
+  • So much more goes into business success than building great product.<br/>
   • People hate changing their communication habits more than they hate bad communication. We had to piggyback on existing workflows instead of replacing them.<br/>
   </p>
   <h4 class="page-body-interior-subhead">
@@ -204,9 +204,11 @@ permalink: /bubbles
   </p>
   <p class="page-body-copy">
     Turns out, getting people to change how they communicate is hard. Like, <em>really</em> hard. You can nail the UX, solve real problems, and still lose to the inertia of "this is how we've always done it."
-    But I'm proud of what we built. We proved that deadlines make async actually work. We showed that screen sharing beats text walls 10 times out of 10. And we created a product that people actively missed when it was gone – which might be the best measure of good design there is.
-    Sometimes you build the right thing, but the timing or the way to take it to market isn't right. 
-    
+  </p>
+  <p class="page-body-copy">
+    I'm proud of what we built. We proved that deadlines make async actually work. We showed that screen sharing beats text walls 10 times out of 10. And we created a product that people actively missed when it was gone, which might be the best measure of good design there is. Sometimes you build the right thing, but the timing or the way you take it to market isn't right. 
+  </p>
+  <p class="page-body-copy">  
     That's startup life. At least we looked good doing it.
   </p>
   
