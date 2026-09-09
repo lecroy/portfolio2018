@@ -137,15 +137,15 @@ permalink: /bubbles
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-1.png" class="bubbles-notetaker" alt="Email verification screen paired with a customer testimonial about reducing meeting time." loading="lazy" />
-    <figcaption class="case-study-caption"></figcaption>
+    <figcaption class="case-study-caption">Light social proof without distracting from the task at hand.</figcaption>
   </figure>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-2.png" class="bubbles-notetaker" alt="Workspace creation form with optional coworker invitations and logos from companies using Bubbles." loading="lazy" />
-    <figcaption class="case-study-caption">Answering "What is a bubble anyway?" And piling on the social proof.</figcaption>
+    <figcaption class="case-study-caption">Education. Answering "What is a bubble anyway?" while keeping the social proof coming.</figcaption>
   </figure>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-3.png" class="bubbles-notetaker" alt="Live meeting settings for choosing automatic recording and whether summaries and action items are shared with invitees." loading="lazy" />
-    <figcaption class="case-study-caption">Here, the goal is to get out in front of any hesitations around privacy by allowing some configuration during the flow.</figcaption>
+    <figcaption class="case-study-caption">Get out in front of any hesitation around privacy by allowing some security config during the flow.</figcaption>
   </figure>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-4.png" class="bubbles-notetaker" alt="Calendar connection prompt explaining security and recording benefits, with Google and Outlook options and a preview of event controls." loading="lazy" />
