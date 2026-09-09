@@ -54,10 +54,6 @@ permalink: /bubbles
   <p class="page-body-copy">
     We introduced a timer that creators could set when recording their video messages – a simple feature that profoundly impacted users' behavior. Authors could set clear expectations for response times and tag people as either 'Response required' or 'Just FYI.' We'd send reminders to the first group until the deadline hit.
   </p>
-  <figure class="figure-inline">
-    <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="Bubbles Activity inbox grouping new and completed video updates, with assignees, reply status, and response deadlines." loading="lazy" />
-    <figcaption class="case-study-caption">The Bubbles inbox. Wake up to a feed of screen recordings from your remote teammates, with response expectations attached.</figcaption>
-  </figure>
   <figure class="figure-rive">
     <div class="bubbles-timer-wrap">
       <canvas id="bubbles-responses-canvas" width="1028" height="578" aria-label="The bubble author adjusting the response expectations and time frame for the desired response"></canvas>
@@ -84,6 +80,10 @@ permalink: /bubbles
       })();
     </script>
     <figcaption class="case-study-caption">Remote teams need to be direct about who needs to respond, and by when.</figcaption>
+  </figure>
+  <figure class="figure-inline">
+    <img src="img/bubbles/activity.png" class="bubbles-inbox" alt="Bubbles Activity inbox grouping new and completed video updates, with assignees, reply status, and response deadlines." loading="lazy" />
+    <figcaption class="case-study-caption">The Bubbles inbox. Wake up to a feed of screen recordings from your remote teammates, with response expectations attached.</figcaption>
   </figure>
   <p class="page-body-copy">
     Replies to video updates could also be videos. Context is equally important when giving feedback as when asking for it. Our core belief was that screen sharing allowed for visual context that just doesn't come across in an email, bullet points or a wall of text.
