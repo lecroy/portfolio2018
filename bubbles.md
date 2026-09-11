@@ -155,24 +155,6 @@ permalink: /bubbles
     The result was a 19% lift in calendar-connection conversion compared to the control (where we waited to ask until the user landed in the product). I don't know what that translated to revenue-wise, but Bubbles is still going strong today, when for a minute there it was looking pretty dicey.
   </p>
   <h3 class="page-body-subhead">
-    Branding Bubbles
-  </h3>
-  <p class="page-body-copy">
-    With only two designers working closely together, we didn't need an extensive design system. Still, we established a shared vocabulary for typography, color, spacing, tone, and voice. Here are a few examples of the lightweight system we used to keep our work fresh and consistent.
-  </p>
-  <figure class="figure-inline">
-    <img src="img/bubbles/brand-color.png" class="bubbles-notetaker" alt="Bubbles color system with grayscale and blue primary scales, opacity examples, and pink, green, violet, yellow, and red secondary scales." loading="lazy" />
-    <figcaption class="case-study-caption"></figcaption>
-  </figure>
-  <figure class="figure-inline">
-    <img src="img/bubbles/brand-logo.png" class="bubbles-notetaker" alt="Bubbles logo guidelines showing approved variants, spacing rules, contrast guidance, and examples of incorrect usage." loading="lazy" />
-    <figcaption class="case-study-caption"></figcaption>
-  </figure>
-  <figure class="figure-inline">
-    <img src="img/bubbles/brand-voice.png" class="bubbles-notetaker" alt="Bubbles brand voice mood board combining playful copy, gradients, abstract bubble graphics, iconography, emojis, and a remote-work landing page." loading="lazy" />
-    <figcaption class="case-study-caption"></figcaption>
-  </figure>
-  <h3 class="page-body-subhead">
     Impact & Learnings
   </h3>
   <p class="page-body-copy">
