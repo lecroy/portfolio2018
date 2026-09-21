@@ -29,16 +29,22 @@ permalink: /bubbles
     I'd spend the next two years learning how hard it is to get teams to change how they work, occasionally succeeding anyway.
   </p>
   <h4 class="page-body-interior-subhead">
-    The baseline and the vision
+    The baseline and vision
   </h4>
   <p class="page-body-copy">
     Bubbles had a core group of about 20,000 monthly active users. They were outspoken supporters who loved the app for its lightweight onboarding, ease of use, and most of all the fact that it was entirely free.
   </p>
   <p class="page-body-copy">
-    While a no-cost, single-player screen recorder was well-liked and useful, it wasn't yet transformative. Our team shared a distaste for hastily typed, low-signal feedback, and a long-term vision of a video-first, async communication platform for remote teams. As Principal Designer, I was tasked with transforming Bubbles into a product that supported that vision. It would mean addressing not just technical challenges but psychological ones. How might we convince teams - not just individual users - to rethink and change the ways they'd been communicating for decades?
+    While a no-cost, single-player screen recorder was well-liked and useful, it wasn't yet transformative. 
   </p>
   <p class="page-body-copy">
-    And then there was the existential crisis all venture-backed startups eventually face: become profitable, or die trying.
+    Our small-but-mighty team shared a long term vision of a video-first, async communication platform for remote teams. I was tasked with transforming Bubbles from a single-player screen recorder into something an entire team could use to replace their current communcation stack. Features like role-based access control, invitations, onboarding, pricing and packaging were table stakes but needed thoughtful care and attention to detail.
+  </p> 
+  <p class="page-body-copy">
+    Then there was the real challenge - the more psychological task of how might we convince teams - not just individual users - to rethink and change the ways they'd been communicating for years.
+  </p>
+  <p class="page-body-copy">
+    And looming over it all was the existential crisis all venture-backed startups eventually face: Become profitable, or die trying.
   </p>
   <h4 class="page-body-interior-subhead">
     Uncovering the real problem
