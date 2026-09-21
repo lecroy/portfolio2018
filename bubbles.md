@@ -54,6 +54,9 @@ permalink: /bubbles
 
     Remote teams relying on traditional channels like Slack and email had a common pain point. Work would stall, momentum would fade, frustration would mount. This revelation led to our first major bet: time-bounded collaboration.
   </p>
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/odtKTJ2babvdxrwbYAkq8f/Bubbles?node-id=0-1&embed-host=share" allowfullscreen>
+  </iframe>
+  <figcaption class="case-study-caption">With so much to solve for from so many perspectives, I organized my Figma file into short stories with different personae as protaginists.</figcaption>
   <h4 class="page-body-interior-subhead">
     The power of the deadline
   </h4>
@@ -102,7 +105,7 @@ permalink: /bubbles
     <figcaption class="case-study-caption">Participants can leave replies in multimodal formats: video, screen sharing, and text.</figcaption>
   </figure>
   <h4 class="page-body-interior-subhead">
-    Building for scale and security
+    Designing for scale and security
   </h4>
   <p class="page-body-copy">
     After a successful Product Hunt launch, we started getting attention from enterprise customers. As thrilling as that was, we had to address the kind of non-starters you get from customers of that scale:
