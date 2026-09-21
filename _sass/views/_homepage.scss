@@ -15,6 +15,16 @@
   line-height: 1.15;
   letter-spacing: -0.03em;
   font-feature-settings: 'liga' 1, 'kern' 1;
+  color: $gray900;
+  text-align: center;
+
+  .home-intro-line {
+    display: block;
+  }
+
+  .home-intro-line--secondary {
+    color: $gray700;
+  }
 
   .home-intro-sub {
     display: block;
