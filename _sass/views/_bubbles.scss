@@ -5,6 +5,16 @@
   margin: 0 auto 2.5rem;
 }
 
+.bubbles-figma-board {
+  width: min(960px, 100%);
+
+  iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+  }
+}
+
 .bubbles-timer-wrap {
   display: flex;
   justify-content: center;

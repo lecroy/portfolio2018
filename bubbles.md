@@ -38,7 +38,7 @@ permalink: /bubbles
     While a no-cost, single-player screen recorder was well-liked and useful, it wasn't yet transformative. 
   </p>
   <p class="page-body-copy">
-    Our small-but-mighty team shared a long term vision of a video-first, async communication platform for remote teams. I was tasked with transforming Bubbles from a single-player screen recorder into something an entire team could use to replace their current communcation stack. Features like role-based access control, invitations, onboarding, pricing and packaging were table stakes but needed thoughtful care and attention to detail.
+    Our small-but-mighty team shared a long term vision of a video-first, async communication platform for remote teams. I was tasked with transforming Bubbles from a single-player screen recorder into something an entire team could use to replace their current communcation stack. Features like role-based access control, invitations, channels, pricing and packaging were table stakes but needed thoughtful care and attention to detail.
   </p> 
   <p class="page-body-copy">
     Then there was the real challenge - the more psychological task of how might we convince teams - not just individual users - to rethink and change the ways they'd been communicating for years.
@@ -54,9 +54,11 @@ permalink: /bubbles
 
     Remote teams relying on traditional channels like Slack and email had a common pain point. Work would stall, momentum would fade, frustration would mount. This revelation led to our first major bet: time-bounded collaboration.
   </p>
-  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/odtKTJ2babvdxrwbYAkq8f/Bubbles?node-id=0-1&embed-host=share" allowfullscreen>
-  </iframe>
-  <figcaption class="case-study-caption">With so much to solve for from so many perspectives, I organized my Figma file into short stories with different personae as protaginists.</figcaption>
+  <figure class="figure-inline bubbles-figma-board">
+    <iframe title="Bubbles product strategy board in Figma" src="https://embed.figma.com/design/odtKTJ2babvdxrwbYAkq8f/Bubbles?node-id=4203-37814&embed-host=share" loading="lazy" allowfullscreen>
+    </iframe>
+    <figcaption class="case-study-caption">With so much to solve for from so many perspectives, I organized my Figma file into short stories with different personae as protaginists.</figcaption>
+  </figure>
   <h4 class="page-body-interior-subhead">
     The power of the deadline
   </h4>
