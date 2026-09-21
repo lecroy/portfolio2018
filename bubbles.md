@@ -126,7 +126,7 @@ permalink: /bubbles
   </figure>
   <figure class="figure-inline">
     <img src="img/bubbles/notetaker-inbox.png" class="bubbles-notetaker" alt="Bubbles Live Meetings inbox showing saved recordings, detected action items, a calendar, and per-meeting recording controls." loading="lazy" />
-    <figcaption class="case-study-caption">All recordings and transcripts were saved in the app, with granular settings to control which meetings got recorded and who they were shared with.</figcaption>
+    <figcaption class="case-study-caption">With a connected calendar, recordings and transcripts could be saved in the inbox, with granular settings to control which meetings got recorded and who they were shared with.</figcaption>
   </figure>
   <h3 class="page-body-subhead">
     Signup - Balancing UX, Education & Conversion
