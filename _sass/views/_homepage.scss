@@ -17,6 +17,7 @@
   font-feature-settings: 'liga' 1, 'kern' 1;
   color: $gray900;
   text-align: center;
+  margin-bottom: 2rem;
 
   .home-intro-line {
     display: block;
@@ -379,7 +380,6 @@
 
   .home-intro-copy {
     font-size: 3.6em;
-    margin-bottom: 2rem;
   }
 
   .home-location {
