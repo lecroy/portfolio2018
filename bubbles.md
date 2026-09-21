@@ -20,13 +20,13 @@ permalink: /bubbles
 
 <div class="page-body-wrapper">
   <h3 class="page-body-subhead">
-    Redesigning Remote Collaboration
+    Rethinking how remote teams communicate
   </h3>
   <p class="page-body-copy">
-    In 2022, I joined a seed-stage startup called Bubbles as Principal Designer. At the time, Bubbles was a single-player, free-to-use screen recorder - think Loom, but with a vision to become a video-first, back-and-forth conversational platform for remote team collaboration, rather than one-way presentations.
+    In 2022, I joined a startup called Bubbles as Principal Designer. At the time, Bubbles was a single-player, free-to-use screen recorder. Think Loom, but with a vision to become a video-first, back-and-forth conversational platform for remote teams, rather than a one-to-many presentation recorder.
   </p>
   <p class="page-body-copy">
-    What followed was two years of learning how hard it is to get people to actually change how they work, and occasionally succeeding anyway.
+    I'd spend the next two years learning how hard it is to get teams to change how they work, occasionally succeeding anyway.
   </p>
   <h4 class="page-body-interior-subhead">
     The baseline and the vision
