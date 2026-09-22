@@ -140,7 +140,7 @@ permalink: /bubbles
     If I had my way, every product designer would have to spend a couple years at an early-stage startup. You've never had to make a truly hard decision until you've been faced with having to increase a certain metric by X%, by Y date, or else the company goes *<em>poof</em>*. The real creative challenge is continuing to advocate for users while resisting dark patterns and tempting short-term wins.
   </p>
   <p class="page-body-copy">
-    Signup flows are where this tension is felt most acutely. The business goal is to get as many new users through all the steps as possible. But that's not the user's goal. They don't want friction. They don't want steps. They want to solve the problem they came to you to solve, and are - if you're lucky - willing to tolerate the signup process in order to get that done.
+    Signup flows are where this tension is felt most acutely. The business goal is to get as many new users through all the steps as possible. But that's not the user's goal. They don't want friction. They don't want steps. They want to solve the problem they came to you to solve, and are - if you're lucky - willing to tolerate the signup process in order to realize that goal.
   </p>
   <figure class="figure-inline">
     <img src="img/bubbles/signup-funnel.png" class="bubbles-notetaker" alt="Signup funnel showing the steepest drop-off at the step for adding a qualified calendar, highlighted as the conversion opportunity." loading="lazy" />
