@@ -70,7 +70,7 @@ permalink: /bubbles
       <canvas id="bubbles-responses-canvas" width="1028" height="578" aria-label="The bubble author adjusting the response expectations and time frame for the desired response"></canvas>
     </div>
     <script>
-      (function() {
+      document.addEventListener('DOMContentLoaded', function() {
         var canvas = document.getElementById('bubbles-responses-canvas');
         var r;
         r = new rive.Rive({
@@ -88,7 +88,7 @@ permalink: /bubbles
         window.addEventListener('resize', function() {
           if (r) r.resizeDrawingSurfaceToCanvas();
         });
-      })();
+      });
     </script>
     <figcaption class="case-study-caption">Remote teams need to be direct about who needs to respond and by when.</figcaption>
   </figure>

@@ -17,7 +17,7 @@ layout: default
 <div class="timeline-wrapper">
   <a href="/bubbles" class="homepage-tile-link homepage-tile-link--featured">
     <div class="bubbles-block timeline-block--featured">
-      <div class="hover-image-block bubbles-hover-img"></div>
+      {% include homepage-thumbnail.html class_name="bubbles-hover-img" name="bubbles-bw" fallback="bubbles-bw.png" width="1174" height="689" sizes="(min-width: 1200px) 720px, 60vw" eager=true %}
       <div class="timespan-wrapper">
         <h2 class="timespan">2022 – 2024</h2>
       </div>
@@ -29,7 +29,7 @@ layout: default
   </a>
   <a href="/mural" class="homepage-tile-link">
     <div class="mural-block">
-      <div class="hover-image-block mural-hover-img"></div>
+      {% include homepage-thumbnail.html class_name="mural-hover-img" name="mural" fallback="mural.png" width="990" height="586" sizes="(min-width: 1200px) 590px, (min-width: 600px) calc(50vw - 2rem), calc(100vw - 2rem)" %}
       <div class="timespan-wrapper">
         <h2 class="timespan">2019 – 2022</h2>
       </div>
@@ -41,7 +41,7 @@ layout: default
   </a>
   <a href="/olark" class="homepage-tile-link">
     <div class="olark-block">
-      <div class="hover-image-block olark-hover-img"></div>
+      {% include homepage-thumbnail.html class_name="olark-hover-img" name="bw-test" fallback="bw-test.jpg" width="990" height="600" sizes="(min-width: 1200px) 590px, (min-width: 600px) calc(50vw - 2rem), calc(100vw - 2rem)" %}
       <div class="timespan-wrapper">
         <h2 class="timespan">2014 – 2019</h2>
       </div>
@@ -53,7 +53,7 @@ layout: default
   </a>
   <a href="/freelance" class="homepage-tile-link">
     <div class="freelance-block">
-      <div class="hover-image-block freelance-hover-img"></div>
+      {% include homepage-thumbnail.html class_name="freelance-hover-img" name="hillary-bw" fallback="hillary-bw.jpg" width="990" height="600" sizes="(min-width: 1200px) 590px, (min-width: 600px) calc(50vw - 2rem), calc(100vw - 2rem)" %}
       <div class="timespan-wrapper">
         <h2 class="timespan">2013 – 2014</h2>
       </div>
@@ -65,7 +65,7 @@ layout: default
   </a>
   <a href="/enso" class="homepage-tile-link">
     <div class="enso-block">
-      <div class="hover-image-block enso-hover-img"></div>
+      {% include homepage-thumbnail.html class_name="enso-hover-img" name="enso-bw" fallback="enso-bw.jpg" width="990" height="600" sizes="(min-width: 1200px) 590px, (min-width: 600px) calc(50vw - 2rem), calc(100vw - 2rem)" %}
       <div class="timespan-wrapper">
         <h2 class="timespan">2012 – 2013</h2>
       </div>
@@ -77,7 +77,7 @@ layout: default
   </a>
   <a href="/ofa" class="homepage-tile-link">
     <div class="ofa-block">
-      <div class="hover-image-block ofa-hover-img"></div>
+      {% include homepage-thumbnail.html class_name="ofa-hover-img" name="ofa-bw" fallback="ofa-bw.jpg" width="990" height="600" sizes="(min-width: 1200px) 590px, (min-width: 600px) calc(50vw - 2rem), calc(100vw - 2rem)" %}
       <div class="timespan-wrapper">
         <h2 class="timespan">2011 – 2012</h2>
       </div>
@@ -89,7 +89,7 @@ layout: default
   </a>
   <a href="/agency" class="homepage-tile-link">
     <div class="agency-block">
-      <div class="hover-image-block agency-hover-img"></div>
+      {% include homepage-thumbnail.html class_name="agency-hover-img" name="agency-bw" fallback="agency-bw.jpg" width="990" height="600" sizes="(min-width: 1200px) 590px, (min-width: 600px) calc(50vw - 2rem), calc(100vw - 2rem)" %}
       <div class="timespan-wrapper">
         <h2 class="timespan">2005 – 2010</h2>
       </div>

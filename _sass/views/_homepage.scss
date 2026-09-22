@@ -188,12 +188,10 @@
 
 .hover-image-block {
   border-radius: 12px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
   clip-path: none;
   opacity: 1;
   mix-blend-mode: multiply;
+  overflow: hidden;
 
   width: 100%;
   height: 100%;
@@ -207,35 +205,26 @@
   cursor: pointer;
   border-radius: 12px;
 
+  > img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
   &.bubbles-hover-img {
-    background-image: url('/img/index/bubbles-bw.png');
-    background-size: 60%;
-    background-position: calc(100% + 60px) calc(50% + 5px);
     mix-blend-mode: normal;
-  }
 
-  &.mural-hover-img {
-    background-image: url('/img/index/mural.png');
-  }
-
-  &.olark-hover-img {
-    background-image: url('/img/index/bw-test.jpg');
-  }
-
-  &.enso-hover-img {
-    background-image: url('/img/index/enso-bw.jpg');
-  }
-
-  &.ofa-hover-img {
-    background-image: url('/img/index/ofa-bw.jpg');
-  }
-
-  &.freelance-hover-img {
-    background-image: url('/img/index/hillary-bw.jpg');
-  }
-
-  &.agency-hover-img {
-    background-image: url('/img/index/agency-bw.jpg');
+    > img {
+      position: absolute;
+      top: calc(50% + 5px);
+      right: -60px;
+      width: 60%;
+      height: auto;
+      max-width: none;
+      transform: translateY(-50%);
+    }
   }
 }
 

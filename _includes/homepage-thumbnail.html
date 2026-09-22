@@ -1,0 +1,17 @@
+<picture class="hover-image-block {{ include.class_name }}" aria-hidden="true">
+  <source
+    type="image/avif"
+    srcset="/img/index/{{ include.name }}-640.avif 640w, /img/index/{{ include.name }}.avif {{ include.width }}w"
+    sizes="{{ include.sizes }}">
+  <source
+    type="image/webp"
+    srcset="/img/index/{{ include.name }}-640.webp 640w, /img/index/{{ include.name }}.webp {{ include.width }}w"
+    sizes="{{ include.sizes }}">
+  <img
+    src="/img/index/{{ include.fallback }}"
+    width="{{ include.width }}"
+    height="{{ include.height }}"
+    alt=""
+    decoding="async"
+    {% if include.eager %}fetchpriority="high"{% else %}loading="lazy"{% endif %}>
+</picture>

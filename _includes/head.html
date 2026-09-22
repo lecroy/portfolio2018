@@ -31,15 +31,19 @@
   <link rel="alternate" type="application/rss+xml" title="Taylor LeCroy" href="{{ site.url }}/feed.xml">
 
 
-  <script src="/js/charming.min.js"></script>
-  <script src="/js/anime.min.js"></script>
-  <script src="/js/wordFx.js"></script>
+  {% unless page.url == '/' %}
+    <script src="/js/charming.min.js"></script>
+    <script src="/js/anime.min.js"></script>
+    <script src="/js/wordFx.js"></script>
+  {% endunless %}
 
-  <script src="https://unpkg.com/@rive-app/webgl2@latest"></script>
+  {% if page.url == '/' or page.url == '/bubbles' %}
+    <script src="https://unpkg.com/@rive-app/webgl2@latest" defer></script>
+  {% endif %}
 
-  <script src="https://cdn.jsdelivr.net/npm/lenis@1.1.13/dist/lenis.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lenis@1.1.13/dist/lenis.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
   <script src="/js/motion.js" defer></script>
 
   <!-- Begin Inspectlet Asynchronous Code -->

@@ -5,11 +5,13 @@
     <a href="/" class="homepage-animation" aria-label="Home">
       <canvas id="canvas" width="432" height="340"></canvas>
       <script>
-        new rive.Rive({
-            src: "img/index/rocking-head-2026.riv",
-            canvas: document.getElementById("canvas"),
-            autoplay: true,
-            useOffscreenRenderer: true,
+        document.addEventListener('DOMContentLoaded', function() {
+          new rive.Rive({
+              src: "img/index/rocking-head-2026.riv",
+              canvas: document.getElementById("canvas"),
+              autoplay: true,
+              useOffscreenRenderer: true,
+          });
         });
       </script>
     </a>
