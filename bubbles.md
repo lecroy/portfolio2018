@@ -107,18 +107,6 @@ permalink: /bubbles
     <figcaption class="case-study-caption">Participants can leave replies in multimodal formats: video, screen sharing, and text.</figcaption>
   </figure>
   <h4 class="page-body-interior-subhead">
-    Designing for scale and security
-  </h4>
-  <p class="page-body-copy">
-    After a successful Product Hunt launch, we started getting attention from enterprise customers. As thrilling as that was, we had to address the kind of non-starters you get from customers of that scale:
-  </p>
-  <p class="page-body-copy">
-      • Role-based access control (because not everyone should see everything)<br/>
-      • Project channels to keep topics separated<br/>
-      • Flexible timer extensions for Pro users<br/>
-      • SOC 2 + GDPR compliance
-  </p>
-  <h4 class="page-body-interior-subhead">
     The AI evolution
   </h4>
   <p class="page-body-copy">
