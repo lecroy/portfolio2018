@@ -27,3 +27,34 @@ if (tiles.length) {
     clearProps: 'all',
   });
 }
+
+// Case-study reveals — editorial anchors only, once per page view
+const caseStudyRevealTargets = document.querySelectorAll([
+  '.page-body-wrapper .page-body-subhead',
+  '.page-body-wrapper .page-body-interior-subhead',
+  '.page-body-wrapper figure',
+].join(','));
+
+const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+if (caseStudyRevealTargets.length && 'IntersectionObserver' in window && !prefersReducedMotion) {
+  const revealObserver = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (!entry.isIntersecting) return;
+
+      entry.target.classList.add('is-visible');
+      revealObserver.unobserve(entry.target);
+    });
+  }, {
+    rootMargin: '0px 0px -10% 0px',
+    threshold: 0.08,
+  });
+
+  caseStudyRevealTargets.forEach((target) => {
+    target.classList.add('scroll-reveal');
+  });
+
+  requestAnimationFrame(() => {
+    caseStudyRevealTargets.forEach((target) => revealObserver.observe(target));
+  });
+}

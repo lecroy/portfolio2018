@@ -346,6 +346,29 @@ iframe {
   margin-bottom: 1rem;
 }
 
+// One-time case-study reveals. JavaScript adds the hidden state so content
+// remains visible when scripting or IntersectionObserver is unavailable.
+.scroll-reveal {
+  opacity: 0;
+  translate: 0 12px;
+  transition:
+    opacity 320ms ease-out,
+    translate 420ms var(--ease-out-expo);
+}
+
+.scroll-reveal.is-visible {
+  opacity: 1;
+  translate: 0 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .scroll-reveal {
+    opacity: 1;
+    translate: none;
+    transition: none;
+  }
+}
+
 
 
 
