@@ -50,6 +50,18 @@
   }
 }
 
+.hero-font-pending .home-hero-container {
+  visibility: hidden;
+
+  .reveal-inner {
+    animation-play-state: paused;
+  }
+}
+
+.hero-font-fallback .home-intro-copy {
+  font-family: Georgia, serif;
+}
+
 .page-content {
   margin-top: 12rem;
 }

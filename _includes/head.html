@@ -27,6 +27,22 @@
   <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="/css/main.css">
+  {% if page.url == '/' %}
+    <script>
+      if (document.fonts) {
+        document.documentElement.classList.add('hero-font-pending');
+        document.addEventListener('DOMContentLoaded', function() {
+          document.fonts.load('400 1em "Instrument Serif"').then(function(fonts) {
+            if (!fonts.length) document.documentElement.classList.add('hero-font-fallback');
+          }).catch(function() {
+            document.documentElement.classList.add('hero-font-fallback');
+          }).finally(function() {
+            document.documentElement.classList.remove('hero-font-pending');
+          });
+        });
+      }
+    </script>
+  {% endif %}
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   <link rel="alternate" type="application/rss+xml" title="Taylor LeCroy" href="{{ site.url }}/feed.xml">
 
