@@ -54,11 +54,6 @@ permalink: /bubbles
 
     Remote teams relying on traditional channels like Slack and email had a common pain point. Work would stall, momentum would fade, frustration would mount. This revelation led to our first major bet: time-bounded collaboration.
   </p>
-  <figure class="figure-inline bubbles-figma-board">
-    <iframe title="Bubbles product strategy board in Figma" src="https://embed.figma.com/design/odtKTJ2babvdxrwbYAkq8f/Bubbles?node-id=4203-37814&embed-host=share&page-selector=false" loading="lazy" allowfullscreen>
-    </iframe>
-    <figcaption class="case-study-caption">With so much to solve for from so many perspectives, I organized my Figma file into short stories like this one, with different personae as protaginists.</figcaption>
-  </figure>
   <h4 class="page-body-interior-subhead">
     The power of the deadline
   </h4>
