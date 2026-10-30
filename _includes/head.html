@@ -72,13 +72,11 @@
           emailText.textContent = 'Copied';
 
           setTimeout(() => {
-            emailText.style.transition = 'opacity 0.3s';
-            emailText.style.opacity = '0';
+            link.classList.add('is-copy-fading');
             setTimeout(() => {
               link.classList.remove('is-copied');
               emailText.textContent = email;
-              emailText.style.opacity = '1';
-              emailText.style.transition = '';
+              link.classList.remove('is-copy-fading');
               link.style.width = '';
             }, 300);
           }, 2000);

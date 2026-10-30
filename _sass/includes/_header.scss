@@ -93,6 +93,14 @@
     flex-shrink: 0;
   }
 
+  &.is-copy-fading {
+    .email-text,
+    .copy-checkmark {
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+  }
+
   &:hover {
     box-shadow:
       0 2px 4px rgba(35,35,35,0.06),
